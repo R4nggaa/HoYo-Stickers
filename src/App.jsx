@@ -228,7 +228,7 @@ function App() {
                 color="secondary"
               />
             </div>
-            {/* <div>
+            <div>
               <label>
                 <nobr>Spacing: </nobr>
               </label>
@@ -241,7 +241,7 @@ function App() {
                 track={false}
                 color="secondary"
               />
-            </div> */}
+            </div>
             <div>
               <label>Curve (Beta): </label>
               <Switch
