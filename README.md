@@ -4,4 +4,4 @@ Updated with Genshin Impact stickers from the Sekai Stickers project [here](http
 
 ## Credit
 
-Original stickers from [twitter](https://twitter.com/lumie_lumie/status/1509158554300825601)
+Original stickers from MiHoYo
