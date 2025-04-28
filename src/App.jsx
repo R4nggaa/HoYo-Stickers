@@ -40,7 +40,7 @@ function App() {
     y: characters[character].defaultText.y,
   });
   const [fontSize, setFontSize] = useState(characters[character].defaultText.s);
-  const [spaceSize, setSpaceSize] = useState(1);
+  const [spaceSize, setSpaceSize] = useState(50);
   const [rotate, setRotate] = useState(characters[character].defaultText.r);
   const [curve, setCurve] = useState(false);
   const [loaded, setLoaded] = useState(false);
