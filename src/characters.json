@@ -1,0 +1,7490 @@
+[
+    {
+        "id": "1",
+        "img": "UI_EmotionIcon1.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "2",
+        "img": "UI_EmotionIcon2.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "3",
+        "img": "UI_EmotionIcon3.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "4",
+        "img": "UI_EmotionIcon4.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "5",
+        "img": "UI_EmotionIcon5.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "6",
+        "img": "UI_EmotionIcon6.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "7",
+        "img": "UI_EmotionIcon7.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "8",
+        "img": "UI_EmotionIcon8.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "9",
+        "img": "UI_EmotionIcon9.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "10",
+        "img": "UI_EmotionIcon10.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "11",
+        "img": "UI_EmotionIcon11.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "12",
+        "img": "UI_EmotionIcon12.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "13",
+        "img": "UI_EmotionIcon13.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "14",
+        "img": "UI_EmotionIcon14.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "15",
+        "img": "UI_EmotionIcon15.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "16",
+        "img": "UI_EmotionIcon16.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "17",
+        "img": "UI_EmotionIcon17.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "18",
+        "img": "UI_EmotionIcon18.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "19",
+        "img": "UI_EmotionIcon19.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "20",
+        "img": "UI_EmotionIcon20.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "21",
+        "img": "UI_EmotionIcon21.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "22",
+        "img": "UI_EmotionIcon22.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "23",
+        "img": "UI_EmotionIcon23.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "24",
+        "img": "UI_EmotionIcon24.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "25",
+        "img": "UI_EmotionIcon25.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "26",
+        "img": "UI_EmotionIcon26.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "27",
+        "img": "UI_EmotionIcon27.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "28",
+        "img": "UI_EmotionIcon28.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "29",
+        "img": "UI_EmotionIcon29.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "30",
+        "img": "UI_EmotionIcon30.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "31",
+        "img": "UI_EmotionIcon31.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "32",
+        "img": "UI_EmotionIcon32.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "33",
+        "img": "UI_EmotionIcon33.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "34",
+        "img": "UI_EmotionIcon34.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "35",
+        "img": "UI_EmotionIcon35.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "36",
+        "img": "UI_EmotionIcon36.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "37",
+        "img": "UI_EmotionIcon37.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "38",
+        "img": "UI_EmotionIcon38.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "39",
+        "img": "UI_EmotionIcon39.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "40",
+        "img": "UI_EmotionIcon40.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "41",
+        "img": "UI_EmotionIcon41.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "42",
+        "img": "UI_EmotionIcon42.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "43",
+        "img": "UI_EmotionIcon43.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "44",
+        "img": "UI_EmotionIcon44.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "45",
+        "img": "UI_EmotionIcon45.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "46",
+        "img": "UI_EmotionIcon46.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "47",
+        "img": "UI_EmotionIcon47.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "48",
+        "img": "UI_EmotionIcon48.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "49",
+        "img": "UI_EmotionIcon49.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "50",
+        "img": "UI_EmotionIcon50.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "51",
+        "img": "UI_EmotionIcon51.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "52",
+        "img": "UI_EmotionIcon52.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "53",
+        "img": "UI_EmotionIcon53.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "54",
+        "img": "UI_EmotionIcon54.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "55",
+        "img": "UI_EmotionIcon55.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "56",
+        "img": "UI_EmotionIcon56.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "57",
+        "img": "UI_EmotionIcon57.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "58",
+        "img": "UI_EmotionIcon58.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "59",
+        "img": "UI_EmotionIcon59.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "60",
+        "img": "UI_EmotionIcon60.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "61",
+        "img": "UI_EmotionIcon61.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "62",
+        "img": "UI_EmotionIcon62.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "63",
+        "img": "UI_EmotionIcon63.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "64",
+        "img": "UI_EmotionIcon64.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "65",
+        "img": "UI_EmotionIcon65.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "66",
+        "img": "UI_EmotionIcon66.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "67",
+        "img": "UI_EmotionIcon67.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "68",
+        "img": "UI_EmotionIcon68.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "69",
+        "img": "UI_EmotionIcon69.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "70",
+        "img": "UI_EmotionIcon70.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "71",
+        "img": "UI_EmotionIcon71.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "72",
+        "img": "UI_EmotionIcon72.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "73",
+        "img": "UI_EmotionIcon73.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "74",
+        "img": "UI_EmotionIcon74.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "75",
+        "img": "UI_EmotionIcon75.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "76",
+        "img": "UI_EmotionIcon76.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "77",
+        "img": "UI_EmotionIcon77.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "78",
+        "img": "UI_EmotionIcon78.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "79",
+        "img": "UI_EmotionIcon79.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "80",
+        "img": "UI_EmotionIcon80.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "81",
+        "img": "UI_EmotionIcon81.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "82",
+        "img": "UI_EmotionIcon82.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "83",
+        "img": "UI_EmotionIcon83.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "84",
+        "img": "UI_EmotionIcon84.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "85",
+        "img": "UI_EmotionIcon85.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "86",
+        "img": "UI_EmotionIcon86.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "87",
+        "img": "UI_EmotionIcon87.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "88",
+        "img": "UI_EmotionIcon88.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "89",
+        "img": "UI_EmotionIcon89.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "90",
+        "img": "UI_EmotionIcon90.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "91",
+        "img": "UI_EmotionIcon91.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "92",
+        "img": "UI_EmotionIcon92.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "93",
+        "img": "UI_EmotionIcon93.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "94",
+        "img": "UI_EmotionIcon94.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "95",
+        "img": "UI_EmotionIcon95.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "96",
+        "img": "UI_EmotionIcon96.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "97",
+        "img": "UI_EmotionIcon97.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "98",
+        "img": "UI_EmotionIcon98.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "99",
+        "img": "UI_EmotionIcon99.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "100",
+        "img": "UI_EmotionIcon100.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "101",
+        "img": "UI_EmotionIcon101.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "102",
+        "img": "UI_EmotionIcon102.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "103",
+        "img": "UI_EmotionIcon103.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "104",
+        "img": "UI_EmotionIcon104.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "105",
+        "img": "UI_EmotionIcon105.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "106",
+        "img": "UI_EmotionIcon106.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "107",
+        "img": "UI_EmotionIcon107.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "108",
+        "img": "UI_EmotionIcon108.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "109",
+        "img": "UI_EmotionIcon109.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "110",
+        "img": "UI_EmotionIcon110.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "111",
+        "img": "UI_EmotionIcon111.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "112",
+        "img": "UI_EmotionIcon112.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "113",
+        "img": "UI_EmotionIcon113.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "114",
+        "img": "UI_EmotionIcon114.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "115",
+        "img": "UI_EmotionIcon115.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "116",
+        "img": "UI_EmotionIcon116.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "117",
+        "img": "UI_EmotionIcon117.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "118",
+        "img": "UI_EmotionIcon118.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "119",
+        "img": "UI_EmotionIcon119.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "120",
+        "img": "UI_EmotionIcon120.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "121",
+        "img": "UI_EmotionIcon121.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "122",
+        "img": "UI_EmotionIcon122.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "123",
+        "img": "UI_EmotionIcon123.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "124",
+        "img": "UI_EmotionIcon124.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "125",
+        "img": "UI_EmotionIcon125.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "126",
+        "img": "UI_EmotionIcon126.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "127",
+        "img": "UI_EmotionIcon127.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "128",
+        "img": "UI_EmotionIcon128.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "129",
+        "img": "UI_EmotionIcon129.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "130",
+        "img": "UI_EmotionIcon130.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "131",
+        "img": "UI_EmotionIcon131.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "132",
+        "img": "UI_EmotionIcon132.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "133",
+        "img": "UI_EmotionIcon133.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "134",
+        "img": "UI_EmotionIcon134.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "135",
+        "img": "UI_EmotionIcon135.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "136",
+        "img": "UI_EmotionIcon136.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "137",
+        "img": "UI_EmotionIcon137.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "138",
+        "img": "UI_EmotionIcon138.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "139",
+        "img": "UI_EmotionIcon139.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "140",
+        "img": "UI_EmotionIcon140.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "141",
+        "img": "UI_EmotionIcon141.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "142",
+        "img": "UI_EmotionIcon142.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "143",
+        "img": "UI_EmotionIcon143.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "144",
+        "img": "UI_EmotionIcon144.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "145",
+        "img": "UI_EmotionIcon145.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "146",
+        "img": "UI_EmotionIcon146.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "147",
+        "img": "UI_EmotionIcon147.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "148",
+        "img": "UI_EmotionIcon148.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "149",
+        "img": "UI_EmotionIcon149.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "150",
+        "img": "UI_EmotionIcon150.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "151",
+        "img": "UI_EmotionIcon151.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "152",
+        "img": "UI_EmotionIcon152.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "153",
+        "img": "UI_EmotionIcon153.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "154",
+        "img": "UI_EmotionIcon154.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "155",
+        "img": "UI_EmotionIcon155.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "156",
+        "img": "UI_EmotionIcon156.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "157",
+        "img": "UI_EmotionIcon157.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "158",
+        "img": "UI_EmotionIcon158.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "159",
+        "img": "UI_EmotionIcon159.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "160",
+        "img": "UI_EmotionIcon160.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "161",
+        "img": "UI_EmotionIcon161.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "162",
+        "img": "UI_EmotionIcon162.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "163",
+        "img": "UI_EmotionIcon163.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "164",
+        "img": "UI_EmotionIcon164.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "165",
+        "img": "UI_EmotionIcon165.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "166",
+        "img": "UI_EmotionIcon166.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "167",
+        "img": "UI_EmotionIcon167.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "168",
+        "img": "UI_EmotionIcon168.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "169",
+        "img": "UI_EmotionIcon169.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "170",
+        "img": "UI_EmotionIcon170.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "171",
+        "img": "UI_EmotionIcon171.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "172",
+        "img": "UI_EmotionIcon172.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "173",
+        "img": "UI_EmotionIcon173.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "174",
+        "img": "UI_EmotionIcon174.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "175",
+        "img": "UI_EmotionIcon175.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "176",
+        "img": "UI_EmotionIcon176.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "177",
+        "img": "UI_EmotionIcon177.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "178",
+        "img": "UI_EmotionIcon178.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "179",
+        "img": "UI_EmotionIcon179.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "180",
+        "img": "UI_EmotionIcon180.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "181",
+        "img": "UI_EmotionIcon181.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "182",
+        "img": "UI_EmotionIcon182.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "183",
+        "img": "UI_EmotionIcon183.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "184",
+        "img": "UI_EmotionIcon184.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "185",
+        "img": "UI_EmotionIcon185.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "186",
+        "img": "UI_EmotionIcon186.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "187",
+        "img": "UI_EmotionIcon187.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "188",
+        "img": "UI_EmotionIcon188.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "189",
+        "img": "UI_EmotionIcon189.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "190",
+        "img": "UI_EmotionIcon190.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "191",
+        "img": "UI_EmotionIcon191.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "192",
+        "img": "UI_EmotionIcon192.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "193",
+        "img": "UI_EmotionIcon193.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "194",
+        "img": "UI_EmotionIcon194.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "195",
+        "img": "UI_EmotionIcon195.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "196",
+        "img": "UI_EmotionIcon196.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "197",
+        "img": "UI_EmotionIcon197.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "198",
+        "img": "UI_EmotionIcon198.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "199",
+        "img": "UI_EmotionIcon199.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "200",
+        "img": "UI_EmotionIcon200.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "201",
+        "img": "UI_EmotionIcon201.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "202",
+        "img": "UI_EmotionIcon202.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "203",
+        "img": "UI_EmotionIcon203.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "204",
+        "img": "UI_EmotionIcon204.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "205",
+        "img": "UI_EmotionIcon205.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "206",
+        "img": "UI_EmotionIcon206.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "207",
+        "img": "UI_EmotionIcon207.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "208",
+        "img": "UI_EmotionIcon208.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "209",
+        "img": "UI_EmotionIcon209.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "210",
+        "img": "UI_EmotionIcon210.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "211",
+        "img": "UI_EmotionIcon211.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "212",
+        "img": "UI_EmotionIcon212.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "213",
+        "img": "UI_EmotionIcon213.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "214",
+        "img": "UI_EmotionIcon214.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "215",
+        "img": "UI_EmotionIcon215.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "216",
+        "img": "UI_EmotionIcon216.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "217",
+        "img": "UI_EmotionIcon217.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "218",
+        "img": "UI_EmotionIcon218.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "219",
+        "img": "UI_EmotionIcon219.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "220",
+        "img": "UI_EmotionIcon220.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "221",
+        "img": "UI_EmotionIcon221.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "222",
+        "img": "UI_EmotionIcon222.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "223",
+        "img": "UI_EmotionIcon223.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "224",
+        "img": "UI_EmotionIcon224.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "225",
+        "img": "UI_EmotionIcon225.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "226",
+        "img": "UI_EmotionIcon226.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "227",
+        "img": "UI_EmotionIcon227.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "228",
+        "img": "UI_EmotionIcon228.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "229",
+        "img": "UI_EmotionIcon229.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "230",
+        "img": "UI_EmotionIcon230.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "231",
+        "img": "UI_EmotionIcon231.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "232",
+        "img": "UI_EmotionIcon232.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "233",
+        "img": "UI_EmotionIcon233.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "234",
+        "img": "UI_EmotionIcon234.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "235",
+        "img": "UI_EmotionIcon235.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "236",
+        "img": "UI_EmotionIcon236.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "237",
+        "img": "UI_EmotionIcon237.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "238",
+        "img": "UI_EmotionIcon238.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "239",
+        "img": "UI_EmotionIcon239.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "240",
+        "img": "UI_EmotionIcon240.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "241",
+        "img": "UI_EmotionIcon241.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "242",
+        "img": "UI_EmotionIcon242.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "243",
+        "img": "UI_EmotionIcon243.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "244",
+        "img": "UI_EmotionIcon244.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "245",
+        "img": "UI_EmotionIcon245.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "246",
+        "img": "UI_EmotionIcon246.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "247",
+        "img": "UI_EmotionIcon247.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "248",
+        "img": "UI_EmotionIcon248.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "249",
+        "img": "UI_EmotionIcon249.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "250",
+        "img": "UI_EmotionIcon250.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "251",
+        "img": "UI_EmotionIcon251.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "252",
+        "img": "UI_EmotionIcon252.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "253",
+        "img": "UI_EmotionIcon253.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "254",
+        "img": "UI_EmotionIcon254.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "255",
+        "img": "UI_EmotionIcon255.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "256",
+        "img": "UI_EmotionIcon256.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "257",
+        "img": "UI_EmotionIcon257.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "258",
+        "img": "UI_EmotionIcon258.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "259",
+        "img": "UI_EmotionIcon259.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "260",
+        "img": "UI_EmotionIcon260.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "261",
+        "img": "UI_EmotionIcon261.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "262",
+        "img": "UI_EmotionIcon262.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "263",
+        "img": "UI_EmotionIcon263.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "264",
+        "img": "UI_EmotionIcon264.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "265",
+        "img": "UI_EmotionIcon265.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "266",
+        "img": "UI_EmotionIcon266.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "267",
+        "img": "UI_EmotionIcon267.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "268",
+        "img": "UI_EmotionIcon268.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "269",
+        "img": "UI_EmotionIcon269.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "270",
+        "img": "UI_EmotionIcon270.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "271",
+        "img": "UI_EmotionIcon271.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "272",
+        "img": "UI_EmotionIcon272.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "273",
+        "img": "UI_EmotionIcon273.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "274",
+        "img": "UI_EmotionIcon274.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "275",
+        "img": "UI_EmotionIcon275.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "276",
+        "img": "UI_EmotionIcon276.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "277",
+        "img": "UI_EmotionIcon277.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "278",
+        "img": "UI_EmotionIcon278.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "279",
+        "img": "UI_EmotionIcon279.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "280",
+        "img": "UI_EmotionIcon280.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "281",
+        "img": "UI_EmotionIcon281.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "282",
+        "img": "UI_EmotionIcon282.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "283",
+        "img": "UI_EmotionIcon283.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "284",
+        "img": "UI_EmotionIcon284.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "285",
+        "img": "UI_EmotionIcon285.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "286",
+        "img": "UI_EmotionIcon286.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "287",
+        "img": "UI_EmotionIcon287.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "288",
+        "img": "UI_EmotionIcon288.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "289",
+        "img": "UI_EmotionIcon289.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "290",
+        "img": "UI_EmotionIcon290.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "291",
+        "img": "UI_EmotionIcon291.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "292",
+        "img": "UI_EmotionIcon292.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "293",
+        "img": "UI_EmotionIcon293.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "294",
+        "img": "UI_EmotionIcon294.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "295",
+        "img": "UI_EmotionIcon295.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "296",
+        "img": "UI_EmotionIcon296.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "297",
+        "img": "UI_EmotionIcon297.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "298",
+        "img": "UI_EmotionIcon298.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "299",
+        "img": "UI_EmotionIcon299.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "300",
+        "img": "UI_EmotionIcon300.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "301",
+        "img": "UI_EmotionIcon301.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "302",
+        "img": "UI_EmotionIcon302.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "303",
+        "img": "UI_EmotionIcon303.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "304",
+        "img": "UI_EmotionIcon304.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "305",
+        "img": "UI_EmotionIcon305.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "306",
+        "img": "UI_EmotionIcon306.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "307",
+        "img": "UI_EmotionIcon307.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "308",
+        "img": "UI_EmotionIcon308.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "309",
+        "img": "UI_EmotionIcon309.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "310",
+        "img": "UI_EmotionIcon310.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "311",
+        "img": "UI_EmotionIcon311.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "312",
+        "img": "UI_EmotionIcon312.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "313",
+        "img": "UI_EmotionIcon313.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "314",
+        "img": "UI_EmotionIcon314.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "315",
+        "img": "UI_EmotionIcon315.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "316",
+        "img": "UI_EmotionIcon316.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "317",
+        "img": "UI_EmotionIcon317.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "318",
+        "img": "UI_EmotionIcon318.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "319",
+        "img": "UI_EmotionIcon319.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "320",
+        "img": "UI_EmotionIcon320.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "321",
+        "img": "UI_EmotionIcon321.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "322",
+        "img": "UI_EmotionIcon322.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "323",
+        "img": "UI_EmotionIcon323.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "324",
+        "img": "UI_EmotionIcon324.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "325",
+        "img": "UI_EmotionIcon325.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "326",
+        "img": "UI_EmotionIcon326.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "327",
+        "img": "UI_EmotionIcon327.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "328",
+        "img": "UI_EmotionIcon328.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "329",
+        "img": "UI_EmotionIcon329.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "330",
+        "img": "UI_EmotionIcon330.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "331",
+        "img": "UI_EmotionIcon331.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "332",
+        "img": "UI_EmotionIcon332.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "333",
+        "img": "UI_EmotionIcon333.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "334",
+        "img": "UI_EmotionIcon334.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "335",
+        "img": "UI_EmotionIcon335.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "336",
+        "img": "UI_EmotionIcon336.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "337",
+        "img": "UI_EmotionIcon337.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "338",
+        "img": "UI_EmotionIcon338.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "339",
+        "img": "UI_EmotionIcon339.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "340",
+        "img": "UI_EmotionIcon340.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "341",
+        "img": "UI_EmotionIcon341.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "342",
+        "img": "UI_EmotionIcon342.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "343",
+        "img": "UI_EmotionIcon343.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "344",
+        "img": "UI_EmotionIcon344.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "345",
+        "img": "UI_EmotionIcon345.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "346",
+        "img": "UI_EmotionIcon346.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "347",
+        "img": "UI_EmotionIcon347.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "348",
+        "img": "UI_EmotionIcon348.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "349",
+        "img": "UI_EmotionIcon349.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "350",
+        "img": "UI_EmotionIcon350.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "351",
+        "img": "UI_EmotionIcon351.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "352",
+        "img": "UI_EmotionIcon352.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "353",
+        "img": "UI_EmotionIcon353.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "354",
+        "img": "UI_EmotionIcon354.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "355",
+        "img": "UI_EmotionIcon355.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "356",
+        "img": "UI_EmotionIcon356.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "357",
+        "img": "UI_EmotionIcon357.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "358",
+        "img": "UI_EmotionIcon358.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "359",
+        "img": "UI_EmotionIcon359.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "360",
+        "img": "UI_EmotionIcon360.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "361",
+        "img": "UI_EmotionIcon361.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "362",
+        "img": "UI_EmotionIcon362.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "363",
+        "img": "UI_EmotionIcon363.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "364",
+        "img": "UI_EmotionIcon364.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "365",
+        "img": "UI_EmotionIcon365.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "366",
+        "img": "UI_EmotionIcon366.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "367",
+        "img": "UI_EmotionIcon367.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "368",
+        "img": "UI_EmotionIcon368.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "369",
+        "img": "UI_EmotionIcon369.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "370",
+        "img": "UI_EmotionIcon370.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "371",
+        "img": "UI_EmotionIcon371.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "372",
+        "img": "UI_EmotionIcon372.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "373",
+        "img": "UI_EmotionIcon373.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "374",
+        "img": "UI_EmotionIcon374.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "375",
+        "img": "UI_EmotionIcon375.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "376",
+        "img": "UI_EmotionIcon376.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "377",
+        "img": "UI_EmotionIcon377.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "378",
+        "img": "UI_EmotionIcon378.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "379",
+        "img": "UI_EmotionIcon379.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "380",
+        "img": "UI_EmotionIcon380.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "381",
+        "img": "UI_EmotionIcon381.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "382",
+        "img": "UI_EmotionIcon382.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "383",
+        "img": "UI_EmotionIcon383.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "384",
+        "img": "UI_EmotionIcon384.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "385",
+        "img": "UI_EmotionIcon385.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "386",
+        "img": "UI_EmotionIcon386.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "387",
+        "img": "UI_EmotionIcon387.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "388",
+        "img": "UI_EmotionIcon388.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "389",
+        "img": "UI_EmotionIcon389.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "390",
+        "img": "UI_EmotionIcon390.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "391",
+        "img": "UI_EmotionIcon391.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "392",
+        "img": "UI_EmotionIcon392.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "393",
+        "img": "UI_EmotionIcon393.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "394",
+        "img": "UI_EmotionIcon394.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "395",
+        "img": "UI_EmotionIcon395.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "396",
+        "img": "UI_EmotionIcon396.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "397",
+        "img": "UI_EmotionIcon397.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "398",
+        "img": "UI_EmotionIcon398.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "399",
+        "img": "UI_EmotionIcon399.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "400",
+        "img": "UI_EmotionIcon400.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "401",
+        "img": "UI_EmotionIcon401.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "402",
+        "img": "UI_EmotionIcon402.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "403",
+        "img": "UI_EmotionIcon403.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "404",
+        "img": "UI_EmotionIcon404.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "405",
+        "img": "UI_EmotionIcon405.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "406",
+        "img": "UI_EmotionIcon406.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "407",
+        "img": "UI_EmotionIcon407.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "408",
+        "img": "UI_EmotionIcon408.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "409",
+        "img": "UI_EmotionIcon409.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "410",
+        "img": "UI_EmotionIcon410.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "411",
+        "img": "UI_EmotionIcon411.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "412",
+        "img": "UI_EmotionIcon412.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "413",
+        "img": "UI_EmotionIcon413.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "414",
+        "img": "UI_EmotionIcon414.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "415",
+        "img": "UI_EmotionIcon415.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "416",
+        "img": "UI_EmotionIcon416.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "417",
+        "img": "UI_EmotionIcon417.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "418",
+        "img": "UI_EmotionIcon418.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "419",
+        "img": "UI_EmotionIcon419.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "420",
+        "img": "UI_EmotionIcon420.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "421",
+        "img": "UI_EmotionIcon421.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "422",
+        "img": "UI_EmotionIcon422.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "423",
+        "img": "UI_EmotionIcon423.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "424",
+        "img": "UI_EmotionIcon424.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "425",
+        "img": "UI_EmotionIcon425.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "426",
+        "img": "UI_EmotionIcon426.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "427",
+        "img": "UI_EmotionIcon427.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "428",
+        "img": "UI_EmotionIcon428.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "429",
+        "img": "UI_EmotionIcon429.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "430",
+        "img": "UI_EmotionIcon430.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "431",
+        "img": "UI_EmotionIcon431.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "432",
+        "img": "UI_EmotionIcon432.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "433",
+        "img": "UI_EmotionIcon433.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "434",
+        "img": "UI_EmotionIcon434.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "435",
+        "img": "UI_EmotionIcon435.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "436",
+        "img": "UI_EmotionIcon436.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "437",
+        "img": "UI_EmotionIcon437.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "438",
+        "img": "UI_EmotionIcon438.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "439",
+        "img": "UI_EmotionIcon439.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "440",
+        "img": "UI_EmotionIcon440.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "441",
+        "img": "UI_EmotionIcon441.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "442",
+        "img": "UI_EmotionIcon442.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "443",
+        "img": "UI_EmotionIcon443.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "444",
+        "img": "UI_EmotionIcon444.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "445",
+        "img": "UI_EmotionIcon445.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "446",
+        "img": "UI_EmotionIcon446.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "447",
+        "img": "UI_EmotionIcon447.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "448",
+        "img": "UI_EmotionIcon448.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "449",
+        "img": "UI_EmotionIcon449.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "450",
+        "img": "UI_EmotionIcon450.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "451",
+        "img": "UI_EmotionIcon451.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "452",
+        "img": "UI_EmotionIcon452.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "453",
+        "img": "UI_EmotionIcon453.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "454",
+        "img": "UI_EmotionIcon454.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "455",
+        "img": "UI_EmotionIcon455.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "456",
+        "img": "UI_EmotionIcon456.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "457",
+        "img": "UI_EmotionIcon457.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "458",
+        "img": "UI_EmotionIcon458.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "459",
+        "img": "UI_EmotionIcon459.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "460",
+        "img": "UI_EmotionIcon460.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "461",
+        "img": "UI_EmotionIcon461.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "462",
+        "img": "UI_EmotionIcon462.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "463",
+        "img": "UI_EmotionIcon463.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "464",
+        "img": "UI_EmotionIcon464.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "465",
+        "img": "UI_EmotionIcon465.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "466",
+        "img": "UI_EmotionIcon466.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "467",
+        "img": "UI_EmotionIcon467.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "468",
+        "img": "UI_EmotionIcon468.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "469",
+        "img": "UI_EmotionIcon469.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "470",
+        "img": "UI_EmotionIcon470.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "471",
+        "img": "UI_EmotionIcon471.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "472",
+        "img": "UI_EmotionIcon472.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "473",
+        "img": "UI_EmotionIcon473.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "474",
+        "img": "UI_EmotionIcon474.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "475",
+        "img": "UI_EmotionIcon475.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "476",
+        "img": "UI_EmotionIcon476.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "477",
+        "img": "UI_EmotionIcon477.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "478",
+        "img": "UI_EmotionIcon478.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "479",
+        "img": "UI_EmotionIcon479.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "480",
+        "img": "UI_EmotionIcon480.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "481",
+        "img": "UI_EmotionIcon481.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "482",
+        "img": "UI_EmotionIcon482.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "483",
+        "img": "UI_EmotionIcon483.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "484",
+        "img": "UI_EmotionIcon484.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "485",
+        "img": "UI_EmotionIcon485.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "486",
+        "img": "UI_EmotionIcon486.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "487",
+        "img": "UI_EmotionIcon487.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "488",
+        "img": "UI_EmotionIcon488.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "489",
+        "img": "UI_EmotionIcon489.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "490",
+        "img": "UI_EmotionIcon490.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "491",
+        "img": "UI_EmotionIcon491.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "492",
+        "img": "UI_EmotionIcon492.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "493",
+        "img": "UI_EmotionIcon493.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "494",
+        "img": "UI_EmotionIcon494.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "495",
+        "img": "UI_EmotionIcon495.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "496",
+        "img": "UI_EmotionIcon496.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "497",
+        "img": "UI_EmotionIcon497.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "498",
+        "img": "UI_EmotionIcon498.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "499",
+        "img": "UI_EmotionIcon499.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "500",
+        "img": "UI_EmotionIcon500.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "501",
+        "img": "UI_EmotionIcon501.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "502",
+        "img": "UI_EmotionIcon502.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "503",
+        "img": "UI_EmotionIcon503.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "504",
+        "img": "UI_EmotionIcon504.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "505",
+        "img": "UI_EmotionIcon505.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "506",
+        "img": "UI_EmotionIcon506.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "507",
+        "img": "UI_EmotionIcon507.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "508",
+        "img": "UI_EmotionIcon508.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "509",
+        "img": "UI_EmotionIcon509.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "510",
+        "img": "UI_EmotionIcon510.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "511",
+        "img": "UI_EmotionIcon511.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "512",
+        "img": "UI_EmotionIcon512.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "513",
+        "img": "UI_EmotionIcon513.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "514",
+        "img": "UI_EmotionIcon514.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "515",
+        "img": "UI_EmotionIcon515.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "516",
+        "img": "UI_EmotionIcon516.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "517",
+        "img": "UI_EmotionIcon517.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "518",
+        "img": "UI_EmotionIcon518.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "519",
+        "img": "UI_EmotionIcon519.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "520",
+        "img": "UI_EmotionIcon520.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "521",
+        "img": "UI_EmotionIcon521.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "522",
+        "img": "UI_EmotionIcon522.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "523",
+        "img": "UI_EmotionIcon523.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "524",
+        "img": "UI_EmotionIcon524.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "525",
+        "img": "UI_EmotionIcon525.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "526",
+        "img": "UI_EmotionIcon526.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "527",
+        "img": "UI_EmotionIcon527.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "528",
+        "img": "UI_EmotionIcon528.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "529",
+        "img": "UI_EmotionIcon529.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "530",
+        "img": "UI_EmotionIcon530.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "531",
+        "img": "UI_EmotionIcon531.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "532",
+        "img": "UI_EmotionIcon532.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "533",
+        "img": "UI_EmotionIcon533.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "534",
+        "img": "UI_EmotionIcon534.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "535",
+        "img": "UI_EmotionIcon535.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "536",
+        "img": "UI_EmotionIcon536.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "537",
+        "img": "UI_EmotionIcon537.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "538",
+        "img": "UI_EmotionIcon538.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "539",
+        "img": "UI_EmotionIcon539.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "540",
+        "img": "UI_EmotionIcon540.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "541",
+        "img": "UI_EmotionIcon541.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "542",
+        "img": "UI_EmotionIcon542.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "543",
+        "img": "UI_EmotionIcon543.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "544",
+        "img": "UI_EmotionIcon544.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "545",
+        "img": "UI_EmotionIcon545.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "546",
+        "img": "UI_EmotionIcon546.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "547",
+        "img": "UI_EmotionIcon547.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "548",
+        "img": "UI_EmotionIcon548.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "549",
+        "img": "UI_EmotionIcon549.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "550",
+        "img": "UI_EmotionIcon550.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "551",
+        "img": "UI_EmotionIcon551.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "552",
+        "img": "UI_EmotionIcon552.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "553",
+        "img": "UI_EmotionIcon553.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "554",
+        "img": "UI_EmotionIcon554.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "555",
+        "img": "UI_EmotionIcon555.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "556",
+        "img": "UI_EmotionIcon556.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "557",
+        "img": "UI_EmotionIcon557.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "558",
+        "img": "UI_EmotionIcon558.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "559",
+        "img": "UI_EmotionIcon559.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "560",
+        "img": "UI_EmotionIcon560.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "561",
+        "img": "UI_EmotionIcon561.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "562",
+        "img": "UI_EmotionIcon562.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "563",
+        "img": "UI_EmotionIcon563.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "564",
+        "img": "UI_EmotionIcon564.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "565",
+        "img": "UI_EmotionIcon565.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "566",
+        "img": "UI_EmotionIcon566.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "567",
+        "img": "UI_EmotionIcon567.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "568",
+        "img": "UI_EmotionIcon568.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "569",
+        "img": "UI_EmotionIcon569.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "570",
+        "img": "UI_EmotionIcon570.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "571",
+        "img": "UI_EmotionIcon571.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "572",
+        "img": "UI_EmotionIcon572.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "573",
+        "img": "UI_EmotionIcon573.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "574",
+        "img": "UI_EmotionIcon574.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "575",
+        "img": "UI_EmotionIcon575.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "576",
+        "img": "UI_EmotionIcon576.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "577",
+        "img": "UI_EmotionIcon577.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "578",
+        "img": "UI_EmotionIcon578.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "579",
+        "img": "UI_EmotionIcon579.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "580",
+        "img": "UI_EmotionIcon580.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "581",
+        "img": "UI_EmotionIcon581.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "582",
+        "img": "UI_EmotionIcon582.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "583",
+        "img": "UI_EmotionIcon583.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "584",
+        "img": "UI_EmotionIcon584.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "585",
+        "img": "UI_EmotionIcon585.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "586",
+        "img": "UI_EmotionIcon586.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "587",
+        "img": "UI_EmotionIcon587.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "588",
+        "img": "UI_EmotionIcon588.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "589",
+        "img": "UI_EmotionIcon589.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "590",
+        "img": "UI_EmotionIcon590.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "591",
+        "img": "UI_EmotionIcon591.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "592",
+        "img": "UI_EmotionIcon592.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "593",
+        "img": "UI_EmotionIcon593.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "594",
+        "img": "UI_EmotionIcon594.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "595",
+        "img": "UI_EmotionIcon595.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "596",
+        "img": "UI_EmotionIcon596.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "597",
+        "img": "UI_EmotionIcon597.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "598",
+        "img": "UI_EmotionIcon598.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "599",
+        "img": "UI_EmotionIcon599.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "600",
+        "img": "UI_EmotionIcon600.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "601",
+        "img": "UI_EmotionIcon601.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "602",
+        "img": "UI_EmotionIcon602.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "603",
+        "img": "UI_EmotionIcon603.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "604",
+        "img": "UI_EmotionIcon604.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "605",
+        "img": "UI_EmotionIcon605.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "606",
+        "img": "UI_EmotionIcon606.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "607",
+        "img": "UI_EmotionIcon607.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "608",
+        "img": "UI_EmotionIcon608.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "609",
+        "img": "UI_EmotionIcon609.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "610",
+        "img": "UI_EmotionIcon610.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "611",
+        "img": "UI_EmotionIcon611.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "612",
+        "img": "UI_EmotionIcon612.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "613",
+        "img": "UI_EmotionIcon613.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "614",
+        "img": "UI_EmotionIcon614.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "615",
+        "img": "UI_EmotionIcon615.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "616",
+        "img": "UI_EmotionIcon616.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "617",
+        "img": "UI_EmotionIcon617.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "618",
+        "img": "UI_EmotionIcon618.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "619",
+        "img": "UI_EmotionIcon619.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "620",
+        "img": "UI_EmotionIcon620.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "621",
+        "img": "UI_EmotionIcon621.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "622",
+        "img": "UI_EmotionIcon622.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "623",
+        "img": "UI_EmotionIcon623.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "624",
+        "img": "UI_EmotionIcon624.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "text": "Hello!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    }
+]

@@ -1,0 +1,3139 @@
+[
+    {
+        "id": "3",
+        "name": "aether1",
+        "character": "aether",
+        "img": "aether/aether1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "4",
+        "name": "aether2",
+        "character": "aether",
+        "img": "aether/aether2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "5",
+        "name": "albedo1",
+        "character": "albedo",
+        "img": "albedo/albedo1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "6",
+        "name": "albedo2",
+        "character": "albedo",
+        "img": "albedo/albedo2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "7",
+        "name": "albedo3",
+        "character": "albedo",
+        "img": "albedo/albedo3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "8",
+        "name": "albedo4",
+        "character": "albedo",
+        "img": "albedo/albedo4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "9",
+        "name": "albedo5",
+        "character": "albedo",
+        "img": "albedo/albedo5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "10",
+        "name": "albedo6",
+        "character": "albedo",
+        "img": "albedo/albedo6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "11",
+        "name": "albedo7",
+        "character": "albedo",
+        "img": "albedo/albedo7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "12",
+        "name": "amber1",
+        "character": "amber",
+        "img": "amber/amber1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "13",
+        "name": "amber2",
+        "character": "amber",
+        "img": "amber/amber2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "14",
+        "name": "amber3",
+        "character": "amber",
+        "img": "amber/amber3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "15",
+        "name": "ayaka1",
+        "character": "ayaka",
+        "img": "ayaka/ayaka1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "16",
+        "name": "ayaka2",
+        "character": "ayaka",
+        "img": "ayaka/ayaka2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "17",
+        "name": "ayaka3",
+        "character": "ayaka",
+        "img": "ayaka/ayaka3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "18",
+        "name": "ayaka4",
+        "character": "ayaka",
+        "img": "ayaka/ayaka4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "19",
+        "name": "ayaka5",
+        "character": "ayaka",
+        "img": "ayaka/ayaka5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "20",
+        "name": "ayaka6",
+        "character": "ayaka",
+        "img": "ayaka/ayaka6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "21",
+        "name": "ayaka7",
+        "character": "ayaka",
+        "img": "ayaka/ayaka7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "22",
+        "name": "ayaka8",
+        "character": "ayaka",
+        "img": "ayaka/ayaka8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "23",
+        "name": "ayato1",
+        "character": "ayato",
+        "img": "ayato/ayato1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "24",
+        "name": "ayato2",
+        "character": "ayato",
+        "img": "ayato/ayato2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "25",
+        "name": "ayato3",
+        "character": "ayato",
+        "img": "ayato/ayato3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "26",
+        "name": "ayato4",
+        "character": "ayato",
+        "img": "ayato/ayato4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "27",
+        "name": "barbara1",
+        "character": "barbara",
+        "img": "barbara/barbara1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "28",
+        "name": "barbara2",
+        "character": "barbara",
+        "img": "barbara/barbara2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "29",
+        "name": "barbara3",
+        "character": "barbara",
+        "img": "barbara/barbara3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "30",
+        "name": "barbara4",
+        "character": "barbara",
+        "img": "barbara/barbara4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "31",
+        "name": "beidou1",
+        "character": "beidou",
+        "img": "beidou/beidou1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "32",
+        "name": "beidou2",
+        "character": "beidou",
+        "img": "beidou/beidou2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "33",
+        "name": "childe1",
+        "character": "childe",
+        "img": "childe/childe1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "34",
+        "name": "childe2",
+        "character": "childe",
+        "img": "childe/childe2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "35",
+        "name": "childe3",
+        "character": "childe",
+        "img": "childe/childe3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "36",
+        "name": "childe4",
+        "character": "childe",
+        "img": "childe/childe4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "37",
+        "name": "childe5",
+        "character": "childe",
+        "img": "childe/childe5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "38",
+        "name": "childe6",
+        "character": "childe",
+        "img": "childe/childe6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "39",
+        "name": "childe7",
+        "character": "childe",
+        "img": "childe/childe7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "40",
+        "name": "childe8",
+        "character": "childe",
+        "img": "childe/childe8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "41",
+        "name": "diluc1",
+        "character": "diluc",
+        "img": "diluc/diluc1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "42",
+        "name": "diona1",
+        "character": "diona",
+        "img": "diona/diona1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "43",
+        "name": "diona2",
+        "character": "diona",
+        "img": "diona/diona2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "44",
+        "name": "diona3",
+        "character": "diona",
+        "img": "diona/diona3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "45",
+        "name": "diona4",
+        "character": "diona",
+        "img": "diona/diona4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "46",
+        "name": "dog1",
+        "character": "dog",
+        "img": "dog/dog1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "47",
+        "name": "dog2",
+        "character": "dog",
+        "img": "dog/dog2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "48",
+        "name": "eula1",
+        "character": "eula",
+        "img": "eula/eula1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "49",
+        "name": "eula2",
+        "character": "eula",
+        "img": "eula/eula2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "50",
+        "name": "eula3",
+        "character": "eula",
+        "img": "eula/eula3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "51",
+        "name": "eula4",
+        "character": "eula",
+        "img": "eula/eula4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "52",
+        "name": "eula5",
+        "character": "eula",
+        "img": "eula/eula5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "53",
+        "name": "eula6",
+        "character": "eula",
+        "img": "eula/eula6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "54",
+        "name": "eula7",
+        "character": "eula",
+        "img": "eula/eula7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "55",
+        "name": "fischl1",
+        "character": "fischl",
+        "img": "fischl/fischl1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "56",
+        "name": "fischl2",
+        "character": "fischl",
+        "img": "fischl/fischl2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "57",
+        "name": "ganyu1",
+        "character": "ganyu",
+        "img": "ganyu/ganyu1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "58",
+        "name": "ganyu2",
+        "character": "ganyu",
+        "img": "ganyu/ganyu2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "59",
+        "name": "ganyu3",
+        "character": "ganyu",
+        "img": "ganyu/ganyu3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "60",
+        "name": "ganyu4",
+        "character": "ganyu",
+        "img": "ganyu/ganyu4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "61",
+        "name": "ganyu5",
+        "character": "ganyu",
+        "img": "ganyu/ganyu5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "62",
+        "name": "ganyu6",
+        "character": "ganyu",
+        "img": "ganyu/ganyu6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "63",
+        "name": "gorou1",
+        "character": "gorou",
+        "img": "gorou/gorou1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "64",
+        "name": "gorou2",
+        "character": "gorou",
+        "img": "gorou/gorou2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "65",
+        "name": "gorou3",
+        "character": "gorou",
+        "img": "gorou/gorou3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "66",
+        "name": "gorou4",
+        "character": "gorou",
+        "img": "gorou/gorou4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "67",
+        "name": "hutao1",
+        "character": "hutao",
+        "img": "hutao/hutao1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "68",
+        "name": "hutao10",
+        "character": "hutao",
+        "img": "hutao/hutao10.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "69",
+        "name": "hutao11",
+        "character": "hutao",
+        "img": "hutao/hutao11.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "70",
+        "name": "hutao2",
+        "character": "hutao",
+        "img": "hutao/hutao2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "71",
+        "name": "hutao3",
+        "character": "hutao",
+        "img": "hutao/hutao3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "72",
+        "name": "hutao4",
+        "character": "hutao",
+        "img": "hutao/hutao4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "73",
+        "name": "hutao5",
+        "character": "hutao",
+        "img": "hutao/hutao5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "74",
+        "name": "hutao6",
+        "character": "hutao",
+        "img": "hutao/hutao6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "75",
+        "name": "hutao7",
+        "character": "hutao",
+        "img": "hutao/hutao7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "76",
+        "name": "hutao8",
+        "character": "hutao",
+        "img": "hutao/hutao8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "77",
+        "name": "hutao9",
+        "character": "hutao",
+        "img": "hutao/hutao9.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "78",
+        "name": "itto1",
+        "character": "itto",
+        "img": "itto/itto1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "79",
+        "name": "itto2",
+        "character": "itto",
+        "img": "itto/itto2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "80",
+        "name": "itto3",
+        "character": "itto",
+        "img": "itto/itto3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "81",
+        "name": "itto4",
+        "character": "itto",
+        "img": "itto/itto4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "82",
+        "name": "jean1",
+        "character": "jean",
+        "img": "jean/jean1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "83",
+        "name": "jean2",
+        "character": "jean",
+        "img": "jean/jean2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "84",
+        "name": "jean3",
+        "character": "jean",
+        "img": "jean/jean3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "85",
+        "name": "jean4",
+        "character": "jean",
+        "img": "jean/jean4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "86",
+        "name": "jean5",
+        "character": "jean",
+        "img": "jean/jean5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "87",
+        "name": "jean6",
+        "character": "jean",
+        "img": "jean/jean6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "88",
+        "name": "jin1",
+        "character": "jin",
+        "img": "jin/jin1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "89",
+        "name": "jin2",
+        "character": "jin",
+        "img": "jin/jin2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "90",
+        "name": "jin3",
+        "character": "jin",
+        "img": "jin/jin3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "91",
+        "name": "jin4",
+        "character": "jin",
+        "img": "jin/jin4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "92",
+        "name": "kaeya1",
+        "character": "kaeya",
+        "img": "kaeya/kaeya1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "93",
+        "name": "kaeya2",
+        "character": "kaeya",
+        "img": "kaeya/kaeya2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "94",
+        "name": "kazuha1",
+        "character": "kazuha",
+        "img": "kazuha/kazuha1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "95",
+        "name": "kazuha2",
+        "character": "kazuha",
+        "img": "kazuha/kazuha2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "96",
+        "name": "kazuha3",
+        "character": "kazuha",
+        "img": "kazuha/kazuha3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "97",
+        "name": "kazuha4",
+        "character": "kazuha",
+        "img": "kazuha/kazuha4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "98",
+        "name": "keqing1",
+        "character": "keqing",
+        "img": "keqing/keqing1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "99",
+        "name": "keqing2",
+        "character": "keqing",
+        "img": "keqing/keqing2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "100",
+        "name": "keqing3",
+        "character": "keqing",
+        "img": "keqing/keqing3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "101",
+        "name": "keqing4",
+        "character": "keqing",
+        "img": "keqing/keqing4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "102",
+        "name": "keqing5",
+        "character": "keqing",
+        "img": "keqing/keqing5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "103",
+        "name": "keqing6",
+        "character": "keqing",
+        "img": "keqing/keqing6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "104",
+        "name": "klee1",
+        "character": "klee",
+        "img": "klee/klee1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "105",
+        "name": "klee2",
+        "character": "klee",
+        "img": "klee/klee2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "106",
+        "name": "klee3",
+        "character": "klee",
+        "img": "klee/klee3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "107",
+        "name": "klee4",
+        "character": "klee",
+        "img": "klee/klee4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "108",
+        "name": "kokomi1",
+        "character": "kokomi",
+        "img": "kokomi/kokomi1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "109",
+        "name": "kokomi2",
+        "character": "kokomi",
+        "img": "kokomi/kokomi2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "110",
+        "name": "kokomi3",
+        "character": "kokomi",
+        "img": "kokomi/kokomi3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "111",
+        "name": "kokomi4",
+        "character": "kokomi",
+        "img": "kokomi/kokomi4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "112",
+        "name": "kokomi5",
+        "character": "kokomi",
+        "img": "kokomi/kokomi5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "113",
+        "name": "kokomi6",
+        "character": "kokomi",
+        "img": "kokomi/kokomi6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "114",
+        "name": "kokomi7",
+        "character": "kokomi",
+        "img": "kokomi/kokomi7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "115",
+        "name": "lisa1",
+        "character": "lisa",
+        "img": "lisa/lisa1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "116",
+        "name": "lisa2",
+        "character": "lisa",
+        "img": "lisa/lisa2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "117",
+        "name": "lumine1",
+        "character": "lumine",
+        "img": "lumine/lumine1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "118",
+        "name": "lumine2",
+        "character": "lumine",
+        "img": "lumine/lumine2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "119",
+        "name": "mona1",
+        "character": "mona",
+        "img": "mona/mona1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "120",
+        "name": "mona2",
+        "character": "mona",
+        "img": "mona/mona2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "121",
+        "name": "mona3",
+        "character": "mona",
+        "img": "mona/mona3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "122",
+        "name": "mona4",
+        "character": "mona",
+        "img": "mona/mona4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "123",
+        "name": "ningguang1",
+        "character": "ningguang",
+        "img": "ningguang/ningguang1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "124",
+        "name": "ningguang2",
+        "character": "ningguang",
+        "img": "ningguang/ningguang2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "125",
+        "name": "paimon1",
+        "character": "paimon",
+        "img": "paimon/paimon1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "126",
+        "name": "paimon2",
+        "character": "paimon",
+        "img": "paimon/paimon2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "127",
+        "name": "paimon3",
+        "character": "paimon",
+        "img": "paimon/paimon3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "128",
+        "name": "paimon4",
+        "character": "paimon",
+        "img": "paimon/paimon4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "129",
+        "name": "paimon5",
+        "character": "paimon",
+        "img": "paimon/paimon5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "130",
+        "name": "paimon6",
+        "character": "paimon",
+        "img": "paimon/paimon6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "131",
+        "name": "qiqi1",
+        "character": "qiqi",
+        "img": "qiqi/qiqi1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "132",
+        "name": "qiqi2",
+        "character": "qiqi",
+        "img": "qiqi/qiqi2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "133",
+        "name": "qiqi3",
+        "character": "qiqi",
+        "img": "qiqi/qiqi3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "134",
+        "name": "raiden1",
+        "character": "raiden",
+        "img": "raiden/raiden1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "135",
+        "name": "raiden2",
+        "character": "raiden",
+        "img": "raiden/raiden2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "136",
+        "name": "raiden3",
+        "character": "raiden",
+        "img": "raiden/raiden3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "137",
+        "name": "raiden4",
+        "character": "raiden",
+        "img": "raiden/raiden4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "138",
+        "name": "raiden5",
+        "character": "raiden",
+        "img": "raiden/raiden5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "139",
+        "name": "raiden6",
+        "character": "raiden",
+        "img": "raiden/raiden6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "140",
+        "name": "raiden7",
+        "character": "raiden",
+        "img": "raiden/raiden7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "141",
+        "name": "raiden8",
+        "character": "raiden",
+        "img": "raiden/raiden8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "142",
+        "name": "rosaria1",
+        "character": "rosaria",
+        "img": "rosaria/rosaria1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "143",
+        "name": "rosaria2",
+        "character": "rosaria",
+        "img": "rosaria/rosaria2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "144",
+        "name": "rosaria3",
+        "character": "rosaria",
+        "img": "rosaria/rosaria3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "145",
+        "name": "rosaria4",
+        "character": "rosaria",
+        "img": "rosaria/rosaria4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "146",
+        "name": "samurai1",
+        "character": "samurai",
+        "img": "samurai/samurai1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "147",
+        "name": "samurai2",
+        "character": "samurai",
+        "img": "samurai/samurai2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "148",
+        "name": "sara1",
+        "character": "sara",
+        "img": "sara/sara1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "149",
+        "name": "sara2",
+        "character": "sara",
+        "img": "sara/sara2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "150",
+        "name": "sara3",
+        "character": "sara",
+        "img": "sara/sara3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "151",
+        "name": "sara4",
+        "character": "sara",
+        "img": "sara/sara4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "152",
+        "name": "sayu1",
+        "character": "sayu",
+        "img": "sayu/sayu1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "153",
+        "name": "sayu2",
+        "character": "sayu",
+        "img": "sayu/sayu2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "154",
+        "name": "sayu3",
+        "character": "sayu",
+        "img": "sayu/sayu3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "155",
+        "name": "sayu4",
+        "character": "sayu",
+        "img": "sayu/sayu4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "156",
+        "name": "shenhe1",
+        "character": "shenhe",
+        "img": "shenhe/shenhe1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "157",
+        "name": "shenhe2",
+        "character": "shenhe",
+        "img": "shenhe/shenhe2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "158",
+        "name": "shenhe3",
+        "character": "shenhe",
+        "img": "shenhe/shenhe3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "159",
+        "name": "shenhe4",
+        "character": "shenhe",
+        "img": "shenhe/shenhe4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "160",
+        "name": "sucrose1",
+        "character": "sucrose",
+        "img": "sucrose/sucrose1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "161",
+        "name": "sucrose2",
+        "character": "sucrose",
+        "img": "sucrose/sucrose2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "162",
+        "name": "sucrose3",
+        "character": "sucrose",
+        "img": "sucrose/sucrose3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "163",
+        "name": "sucrose4",
+        "character": "sucrose",
+        "img": "sucrose/sucrose4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "164",
+        "name": "sucrose5",
+        "character": "sucrose",
+        "img": "sucrose/sucrose5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "165",
+        "name": "sucrose6",
+        "character": "sucrose",
+        "img": "sucrose/sucrose6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "166",
+        "name": "tanuki1",
+        "character": "tanuki",
+        "img": "tanuki/tanuki1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "167",
+        "name": "tanuki2",
+        "character": "tanuki",
+        "img": "tanuki/tanuki2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "168",
+        "name": "thoma1",
+        "character": "thoma",
+        "img": "thoma/thoma1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "169",
+        "name": "thoma2",
+        "character": "thoma",
+        "img": "thoma/thoma2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "170",
+        "name": "thoma3",
+        "character": "thoma",
+        "img": "thoma/thoma3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "171",
+        "name": "thoma4",
+        "character": "thoma",
+        "img": "thoma/thoma4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "172",
+        "name": "thoma5",
+        "character": "thoma",
+        "img": "thoma/thoma5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "173",
+        "name": "thoma6",
+        "character": "thoma",
+        "img": "thoma/thoma6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "174",
+        "name": "venti1",
+        "character": "venti",
+        "img": "venti/venti1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "175",
+        "name": "venti2",
+        "character": "venti",
+        "img": "venti/venti2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "176",
+        "name": "venti3",
+        "character": "venti",
+        "img": "venti/venti3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "177",
+        "name": "venti4",
+        "character": "venti",
+        "img": "venti/venti4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "178",
+        "name": "venti5",
+        "character": "venti",
+        "img": "venti/venti5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "179",
+        "name": "venti6",
+        "character": "venti",
+        "img": "venti/venti6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "180",
+        "name": "venti7",
+        "character": "venti",
+        "img": "venti/venti7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "181",
+        "name": "venti8",
+        "character": "venti",
+        "img": "venti/venti8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "182",
+        "name": "venti9",
+        "character": "venti",
+        "img": "venti/venti9.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "183",
+        "name": "vishap1",
+        "character": "vishap",
+        "img": "vishap/vishap1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "184",
+        "name": "vishap2",
+        "character": "vishap",
+        "img": "vishap/vishap2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "185",
+        "name": "vishap3",
+        "character": "vishap",
+        "img": "vishap/vishap3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "186",
+        "name": "vishap4",
+        "character": "vishap",
+        "img": "vishap/vishap4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "187",
+        "name": "xiangling1",
+        "character": "xiangling",
+        "img": "xiangling/xiangling1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "188",
+        "name": "xiangling2",
+        "character": "xiangling",
+        "img": "xiangling/xiangling2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "189",
+        "name": "xiao1",
+        "character": "xiao",
+        "img": "xiao/xiao1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "190",
+        "name": "xiao10",
+        "character": "xiao",
+        "img": "xiao/xiao10.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "191",
+        "name": "xiao2",
+        "character": "xiao",
+        "img": "xiao/xiao2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "192",
+        "name": "xiao3",
+        "character": "xiao",
+        "img": "xiao/xiao3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "193",
+        "name": "xiao4",
+        "character": "xiao",
+        "img": "xiao/xiao4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "194",
+        "name": "xiao5",
+        "character": "xiao",
+        "img": "xiao/xiao5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "195",
+        "name": "xiao6",
+        "character": "xiao",
+        "img": "xiao/xiao6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "196",
+        "name": "xiao7",
+        "character": "xiao",
+        "img": "xiao/xiao7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "197",
+        "name": "xiao8",
+        "character": "xiao",
+        "img": "xiao/xiao8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "198",
+        "name": "xiao9",
+        "character": "xiao",
+        "img": "xiao/xiao9.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "199",
+        "name": "xingqiu1",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "200",
+        "name": "xingqiu2",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "201",
+        "name": "xingqiu3",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "202",
+        "name": "xingqiu4",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "203",
+        "name": "xinyan1",
+        "character": "xinyan",
+        "img": "xinyan/xinyan1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "204",
+        "name": "xinyan2",
+        "character": "xinyan",
+        "img": "xinyan/xinyan2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "205",
+        "name": "xinyan3",
+        "character": "xinyan",
+        "img": "xinyan/xinyan3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "206",
+        "name": "xinyan4",
+        "character": "xinyan",
+        "img": "xinyan/xinyan4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "207",
+        "name": "xinyan5",
+        "character": "xinyan",
+        "img": "xinyan/xinyan5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "208",
+        "name": "yae1",
+        "character": "yae",
+        "img": "yae/yae1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "209",
+        "name": "yae2",
+        "character": "yae",
+        "img": "yae/yae2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "210",
+        "name": "yae3",
+        "character": "yae",
+        "img": "yae/yae3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "211",
+        "name": "yae4",
+        "character": "yae",
+        "img": "yae/yae4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "212",
+        "name": "yanfei1",
+        "character": "yanfei",
+        "img": "yanfei/yanfei1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "213",
+        "name": "yanfei2",
+        "character": "yanfei",
+        "img": "yanfei/yanfei2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "214",
+        "name": "yanfei3",
+        "character": "yanfei",
+        "img": "yanfei/yanfei3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "215",
+        "name": "yanfei4",
+        "character": "yanfei",
+        "img": "yanfei/yanfei4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "216",
+        "name": "yoimiya1",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "217",
+        "name": "yoimiya2",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "218",
+        "name": "yoimiya3",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "219",
+        "name": "yoimiya4",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "220",
+        "name": "zhongli1",
+        "character": "zhongli",
+        "img": "zhongli/zhongli1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "221",
+        "name": "zhongli2",
+        "character": "zhongli",
+        "img": "zhongli/zhongli2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "222",
+        "name": "zhongli3",
+        "character": "zhongli",
+        "img": "zhongli/zhongli3.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "223",
+        "name": "zhongli4",
+        "character": "zhongli",
+        "img": "zhongli/zhongli4.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "224",
+        "name": "zhongli5",
+        "character": "zhongli",
+        "img": "zhongli/zhongli5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "225",
+        "name": "zhongli6",
+        "character": "zhongli",
+        "img": "zhongli/zhongli6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "226",
+        "name": "zhongli7",
+        "character": "zhongli",
+        "img": "zhongli/zhongli7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    }
+  
+]
