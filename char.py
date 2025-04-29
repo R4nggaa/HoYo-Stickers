@@ -64,5 +64,5 @@ def generate_characters_json(root_folder, output_file):
 if __name__ == "__main__":
     # Ganti dengan path folder img kamu
     root_folder = "img"
-    output_file = "characters.json"
+    output_file = "D:/GM/tools/GI-Stickers/src/characters.json"
     generate_characters_json(root_folder, output_file)
