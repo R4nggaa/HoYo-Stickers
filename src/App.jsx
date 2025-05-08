@@ -33,7 +33,7 @@ function App() {
     setInfoOpen(false);
   };
 
-  const [character, setCharacter] = useState(57);
+  const [character, setCharacter] = useState(180);
   const [text, setText] = useState(characters[character].defaultText.text);
   const [position, setPosition] = useState({
     x: characters[character].defaultText.x,
@@ -123,20 +123,10 @@ function App() {
   const download = () => {
     const canvas = document.getElementsByTagName("canvas")[0];
     const link = document.createElement("a");
-    link.download = `Emote_${characters[character].id}.png`;
+    link.download = `Sticker_${characters[character].name}.png`;
     link.href = canvas.toDataURL();
     link.click();
-    log(characters[character].id, characters[character].id, "download");
-  };
-  
-  const copy = async () => {
-    const canvas = document.getElementsByTagName("canvas")[0];
-    await navigator.clipboard.write([
-      new ClipboardItem({
-        "image/png": b64toBlob(canvas.toDataURL().split(",")[1]),
-      }),
-    ]);
-    log(characters[character].id, characters[character].id, "copy");
+    log(characters[character].id, characters[character].name, "download");
   };
 
   function b64toBlob(b64Data, contentType = null, sliceSize = null) {
@@ -156,15 +146,15 @@ function App() {
     return new Blob(byteArrays, { type: contentType });
   }
 
-  // const copy = async () => {
-  //   const canvas = document.getElementsByTagName("canvas")[0];
-  //   await navigator.clipboard.write([
-  //     new ClipboardItem({
-  //       "image/png": b64toBlob(canvas.toDataURL().split(",")[1]),
-  //     }),
-  //   ]);
-  //   log(characters[character].id, characters[character].name, "copy");
-  // };
+  const copy = async () => {
+    const canvas = document.getElementsByTagName("canvas")[0];
+    await navigator.clipboard.write([
+      new ClipboardItem({
+        "image/png": b64toBlob(canvas.toDataURL().split(",")[1]),
+      }),
+    ]);
+    log(characters[character].id, characters[character].name, "copy");
+  };
 
   return (
     <div className="App">
