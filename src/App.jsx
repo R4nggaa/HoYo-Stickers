@@ -244,7 +244,7 @@ function App() {
               <label>Text Color: </label>
               <CirclePicker
                 color={fontColor}
-                onChangeComplete={(color) => { setFontColor(color.hex)}}
+                onChangeComplete={(color) => { setFontColor(color.hex) }}
                 colors={[
                   "#0077DD",
                   "#19CD94",
@@ -261,7 +261,31 @@ function App() {
                   "#F86666",
                   "#FB8AAC",
                   "#FF6699",
-                  "#B18F6C",]}
+                  "#B18F6C",
+                  "#00B8A9",
+                  "#FF6F61",
+                  "#6A0572",
+                  "#AB83A1",
+                  "#F0C808",
+                  "#FFCB77",
+                  "#90BE6D",
+                  "#43AA8B",
+                  "#577590",
+                  "#A05195",
+                  "#D45087",
+                  "#F95D6A",
+                  "#FF7C43",
+                  "#FFA600",
+                  "#D4A5A5",
+                  "#AFD2E9",
+                  "#7FB685",
+                  "#5E548E",
+                  "#9A8C98",
+                  "#F4ACB7",
+                  "#B8F2E6",
+                  "#B5EAEA",
+                  "#EDF6F9",
+                  "#6FFFE9"]}
               />
             </div>
           </div>
