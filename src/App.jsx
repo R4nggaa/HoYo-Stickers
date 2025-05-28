@@ -16,11 +16,15 @@ const { ClipboardItem } = window;
 
 function App() {
   useEffect(() => {
-    try {
-      getConfiguration();
-    } catch (error) {
-      console.log(error);
-    }
+    const fetchConfig = async () => {
+      try {
+        const res = await getConfiguration();
+      } catch (error) {
+        console.log(error);
+      }
+    };
+
+    fetchConfig();
   }, []);
 
   const [infoOpen, setInfoOpen] = useState(false);
@@ -95,7 +99,7 @@ function App() {
       ctx.translate(position.x, position.y);
       ctx.rotate(rotate / 10);
       ctx.textAlign = "center";
-      ctx.strokeStyle = "white";
+      // ctx.strokeStyle = "white";
       ctx.fillStyle = fontColor;
       var lines = text.split("\n");
       if (curve) {
@@ -284,7 +288,7 @@ function App() {
                   "#F4ACB7",
                   "#B8F2E6",
                   "#B5EAEA",
-                  "#EDF6F9",
+                  "#FFFFFF",
                   "#6FFFE9"]}
               />
             </div>
