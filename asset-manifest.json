@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GI-Stickers/static/css/main.c4ccb380.css",
-    "main.js": "/GI-Stickers/static/js/main.faae5aba.js",
+    "main.js": "/GI-Stickers/static/js/main.2c311098.js",
     "static/media/YurukaStd.woff2": "/GI-Stickers/static/media/YurukaStd.e4589185c34a94a462b4.woff2",
     "index.html": "/GI-Stickers/index.html",
     "main.c4ccb380.css.map": "/GI-Stickers/static/css/main.c4ccb380.css.map",
-    "main.faae5aba.js.map": "/GI-Stickers/static/js/main.faae5aba.js.map"
+    "main.2c311098.js.map": "/GI-Stickers/static/js/main.2c311098.js.map"
   },
   "entrypoints": [
     "static/css/main.c4ccb380.css",
-    "static/js/main.faae5aba.js"
+    "static/js/main.2c311098.js"
   ]
 }
