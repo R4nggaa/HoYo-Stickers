@@ -10,6 +10,11 @@ import Info from "./components/Info";
 import getConfiguration from "./utils/config";
 import log from "./utils/log";
 import { CirclePicker } from "react-color";
+import giCharacters from "./gi-char.json";
+import hsrCharacters from "./hsr-char.json";
+import hi3Characters from "./hi3-char.json";
+import zzzCharacters from "./zzz-char.json";
+// import totCharacters from "./tot-char.json"; // TODO
 
 const { ClipboardItem } = window;
 
@@ -17,26 +22,37 @@ function App() {
   useEffect(() => {
     const fetchConfig = async () => {
       try {
-        await getConfiguration();
+        const res = await getConfiguration();
       } catch (error) {
         console.log(error);
       }
     };
+
     fetchConfig();
   }, []);
 
   const [infoOpen, setInfoOpen] = useState(false);
-  const [selectedGame, setSelectedGame] = useState("GI");
-  const [characters, setCharacters] = useState([]);
-  const [characterIndex, setCharacterIndex] = useState(0);
 
-  const character = characters[characterIndex] || {
-    defaultText: { text: "", x: 148, y: 128, s: 30, r: 0 },
-    img: "",
-    name: "unknown",
-    id: "unknown",
-    color: "#ffffff",
+  const characterMap = {
+    GI: giCharacters,
+    HSR: hsrCharacters,
+    HI3: hi3Characters,
+    ZZZ: zzzCharacters,
+    // TOT: totCharacters, // TODO
   };
+
+  const handleClickOpen = () => {
+    setInfoOpen(true);
+  };
+
+  const handleClose = () => {
+    setInfoOpen(false);
+  };
+
+  const [selectedGame, setSelectedGame] = useState("GI");
+  const [characterIndex, setCharacterIndex] = useState(0);
+  const characters = characterMap[selectedGame];
+  const character = characters[characterIndex];
 
   const [text, setText] = useState(character.defaultText.text);
   const [position, setPosition] = useState({
@@ -52,8 +68,6 @@ function App() {
   const img = new Image();
 
   useEffect(() => {
-    if (!character) return;
-
     setText(character.defaultText.text);
     setPosition({
       x: character.defaultText.x,
@@ -61,12 +75,14 @@ function App() {
     });
     setRotate(character.defaultText.r);
     setFontSize(character.defaultText.s);
-    setFontColor(character.color);
     setLoaded(false);
-  }, [characterIndex, characters]);
+  }, [character]);
 
   img.src = `img/${selectedGame}/${character.img}`;
-  img.onload = () => setLoaded(true);
+
+  img.onload = () => {
+    setLoaded(true);
+  };
 
   let angle = (Math.PI * text.length) / 7;
 
@@ -75,11 +91,11 @@ function App() {
     ctx.canvas.height = 256;
 
     if (loaded && document.fonts.check("12px YurukaStd")) {
-      const hRatio = ctx.canvas.width / img.width;
-      const vRatio = ctx.canvas.height / img.height;
-      const ratio = Math.min(hRatio, vRatio);
-      const centerShift_x = (ctx.canvas.width - img.width * ratio) / 2;
-      const centerShift_y = (ctx.canvas.height - img.height * ratio) / 2;
+      var hRatio = ctx.canvas.width / img.width;
+      var vRatio = ctx.canvas.height / img.height;
+      var ratio = Math.min(hRatio, vRatio);
+      var centerShift_x = (ctx.canvas.width - img.width * ratio) / 2;
+      var centerShift_y = (ctx.canvas.height - img.height * ratio) / 2;
       ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
       ctx.drawImage(
         img,
@@ -95,12 +111,13 @@ function App() {
       ctx.font = `${fontSize}px YurukaStd`;
       ctx.lineWidth = 9;
       ctx.save();
+
       ctx.translate(position.x, position.y);
       ctx.rotate(rotate / 10);
       ctx.textAlign = "center";
+      // ctx.strokeStyle = "white";
       ctx.fillStyle = fontColor;
-
-      const lines = text.split("\n");
+      var lines = text.split("\n");
       if (curve) {
         for (let line of lines) {
           for (let i = 0; i < line.length; i++) {
@@ -113,14 +130,13 @@ function App() {
           }
         }
       } else {
-        let yOffset = 0;
-        for (const line of lines) {
-          ctx.strokeText(line, 0, yOffset);
-          ctx.fillText(line, 0, yOffset);
-          yOffset += spaceSize;
+        for (var i = 0, k = 0; i < lines.length; i++) {
+          ctx.strokeText(lines[i], 0, k);
+          ctx.fillText(lines[i], 0, k);
+          k += spaceSize;
         }
+        ctx.restore();
       }
-      ctx.restore();
     }
   };
 
@@ -133,13 +149,19 @@ function App() {
     log(character.id, character.name, "download");
   };
 
-  function b64toBlob(b64Data, contentType = "image/png", sliceSize = 512) {
-    const byteCharacters = atob(b64Data);
-    const byteArrays = [];
+  function b64toBlob(b64Data, contentType = null, sliceSize = null) {
+    contentType = contentType || "image/png";
+    sliceSize = sliceSize || 512;
+    let byteCharacters = atob(b64Data);
+    let byteArrays = [];
     for (let offset = 0; offset < byteCharacters.length; offset += sliceSize) {
-      const slice = byteCharacters.slice(offset, offset + sliceSize);
-      const byteNumbers = Array.from(slice).map((char) => char.charCodeAt(0));
-      byteArrays.push(new Uint8Array(byteNumbers));
+      let slice = byteCharacters.slice(offset, offset + sliceSize);
+      let byteNumbers = new Array(slice.length);
+      for (let i = 0; i < slice.length; i++) {
+        byteNumbers[i] = slice.charCodeAt(i);
+      }
+      var byteArray = new Uint8Array(byteNumbers);
+      byteArrays.push(byteArray);
     }
     return new Blob(byteArrays, { type: contentType });
   }
@@ -156,7 +178,7 @@ function App() {
 
   return (
     <div className="App">
-      <Info open={infoOpen} handleClose={() => setInfoOpen(false)} />
+      <Info open={infoOpen} handleClose={handleClose} />
       <div className="container">
         <div className="vertical">
           <div className="canvas">
@@ -191,7 +213,7 @@ function App() {
           />
           <div className="settings">
             <div>
-              <label>Rotate:</label>
+              <label>Rotate: </label>
               <Slider
                 value={rotate}
                 onChange={(e, v) => setRotate(v)}
@@ -203,7 +225,9 @@ function App() {
               />
             </div>
             <div>
-              <label>Font size:</label>
+              <label>
+                <nobr>Font size: </nobr>
+              </label>
               <Slider
                 value={fontSize}
                 onChange={(e, v) => setFontSize(v)}
@@ -215,7 +239,9 @@ function App() {
               />
             </div>
             <div>
-              <label>Spacing:</label>
+              <label>
+                <nobr>Spacing: </nobr>
+              </label>
               <Slider
                 value={spaceSize}
                 onChange={(e, v) => setSpaceSize(v)}
@@ -227,7 +253,7 @@ function App() {
               />
             </div>
             <div>
-              <label>Curve (Beta):</label>
+              <label>Curve (Beta): </label>
               <Switch
                 checked={curve}
                 onChange={(e) => setCurve(e.target.checked)}
@@ -235,10 +261,51 @@ function App() {
               />
             </div>
             <div>
-              <label>Text Color:</label>
+              <label>Text Color: </label>
               <CirclePicker
                 color={fontColor}
-                onChangeComplete={(color) => setFontColor(color.hex)}
+                onChangeComplete={(color) => { setFontColor(color.hex) }}
+                colors={[
+                  "#0077DD",
+                  "#19CD94",
+                  "#3366CC",
+                  "#33AAEE",
+                  "#6495F0",
+                  "#7171AF",
+                  "#BB6688",
+                  "#BB88EE",
+                  "#E4485F",
+                  "#E8A505",
+                  "#F09A04",
+                  "#F39E7D",
+                  "#F86666",
+                  "#FB8AAC",
+                  "#FF6699",
+                  "#B18F6C",
+                  "#00B8A9",
+                  "#FF6F61",
+                  "#6A0572",
+                  "#AB83A1",
+                  "#F0C808",
+                  "#FFCB77",
+                  "#90BE6D",
+                  "#43AA8B",
+                  "#577590",
+                  "#A05195",
+                  "#D45087",
+                  "#F95D6A",
+                  "#FF7C43",
+                  "#FFA600",
+                  "#D4A5A5",
+                  "#AFD2E9",
+                  "#7FB685",
+                  "#5E548E",
+                  "#9A8C98",
+                  "#F4ACB7",
+                  "#B8F2E6",
+                  "#B5EAEA",
+                  "#FFFFFF",
+                  "#6FFFE9"]}
               />
             </div>
           </div>
@@ -248,7 +315,7 @@ function App() {
               size="small"
               color="secondary"
               value={text}
-              multiline
+              multiline={true}
               fullWidth
               onChange={(e) => setText(e.target.value)}
             />
@@ -256,17 +323,22 @@ function App() {
           <div className="picker">
             <Picker
               setCharacter={setCharacterIndex}
-              setCharacters={setCharacters}
               setGame={setSelectedGame}
             />
           </div>
           <div className="buttons">
-            <Button color="secondary" onClick={copy}>copy</Button>
-            <Button color="secondary" onClick={download}>download</Button>
+            <Button color="secondary" onClick={copy}>
+              copy
+            </Button>
+            <Button color="secondary" onClick={download}>
+              download
+            </Button>
           </div>
         </div>
         <div className="footer">
-          <Button color="secondary" onClick={() => setInfoOpen(true)}>Info</Button>
+          <Button color="secondary" onClick={handleClickOpen}>
+            Info
+          </Button>
         </div>
       </div>
     </div>

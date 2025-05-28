@@ -10,10 +10,10 @@ import giCharacters from "../gi-char.json";
 import hsrCharacters from "../hsr-char.json";
 import hi3Characters from "../hi3-char.json";
 import zzzCharacters from "../zzz-char.json";
-import totCharacters from "../tot-char.json";
+// import totCharacters from "../tot-char.json"; // TODO
 
 
-export default function Picker({ setCharacter }) {
+export default function Picker({ setCharacter, setGame }) {
   const [anchorEl, setAnchorEl] = useState(null);
   const [search, setSearch] = useState("");
   const [selectedGame, setSelectedGame] = useState("GI");
@@ -29,12 +29,12 @@ export default function Picker({ setCharacter }) {
   const open = Boolean(anchorEl);
   const id = open ? "picker" : undefined;
 
-    const characterMap = {
+  const characterMap = {
     GI: giCharacters,
     HSR: hsrCharacters,
     HI3: hi3Characters,
     ZZZ: zzzCharacters,
-    TOT: totCharacters,
+    // TOT: totCharacters, //TODO
   };
 
   const currentCharacters = characterMap[selectedGame] || [];
@@ -105,7 +105,10 @@ export default function Picker({ setCharacter }) {
             select
             label="Select Game"
             value={selectedGame}
-            onChange={(e) => setSelectedGame(e.target.value)}
+            onChange={(e) => {
+              setSelectedGame(e.target.value);
+              setGame(e.target.value);
+            }}
             fullWidth
             SelectProps={{ native: true }}
             size="small"
@@ -116,7 +119,7 @@ export default function Picker({ setCharacter }) {
             <option value="HSR">Honkai Star Rail</option>
             <option value="HI3">Honkai Impact 3rd</option>
             <option value="ZZZ">Zenless Zone Zero</option>
-            <option value="TOT">Tears of Themis</option>
+            {/* <option value="TOT">Tears of Themis</option> */}
           </TextField>
           <TextField
             label="Search character"

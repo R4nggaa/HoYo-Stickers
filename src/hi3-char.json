@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "1",
+    "name": "adam1",
+    "character": "adam",
+    "img": "adam/adam1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "2",
+    "name": "adam2",
+    "character": "adam",
+    "img": "adam/adam2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "3",
+    "name": "adam3",
+    "character": "adam",
+    "img": "adam/adam3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "4",
+    "name": "adam4",
+    "character": "adam",
+    "img": "adam/adam4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "5",
+    "name": "ai1",
+    "character": "ai",
+    "img": "ai/ai1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "6",
+    "name": "ai2",
+    "character": "ai",
+    "img": "ai/ai2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "7",
+    "name": "ai3",
+    "character": "ai",
+    "img": "ai/ai3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "8",
+    "name": "ai4",
+    "character": "ai",
+    "img": "ai/ai4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "9",
+    "name": "ai5",
+    "character": "ai",
+    "img": "ai/ai5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "10",
+    "name": "ai6",
+    "character": "ai",
+    "img": "ai/ai6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "11",
+    "name": "ai7",
+    "character": "ai",
+    "img": "ai/ai7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "12",
+    "name": "ai8",
+    "character": "ai",
+    "img": "ai/ai8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "13",
+    "name": "ai9",
+    "character": "ai",
+    "img": "ai/ai9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "14",
+    "name": "aponia1",
+    "character": "aponia",
+    "img": "aponia/aponia1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "15",
+    "name": "aponia2",
+    "character": "aponia",
+    "img": "aponia/aponia2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "16",
+    "name": "aponia3",
+    "character": "aponia",
+    "img": "aponia/aponia3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "17",
+    "name": "aponia4",
+    "character": "aponia",
+    "img": "aponia/aponia4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "18",
+    "name": "bloodembrace1",
+    "character": "bloodembrace",
+    "img": "bloodembrace/bloodembrace1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "19",
+    "name": "bronya1",
+    "character": "bronya",
+    "img": "bronya/bronya1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "20",
+    "name": "bronya2",
+    "character": "bronya",
+    "img": "bronya/bronya2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "21",
+    "name": "bronya3",
+    "character": "bronya",
+    "img": "bronya/bronya3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "22",
+    "name": "bronya4",
+    "character": "bronya",
+    "img": "bronya/bronya4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "23",
+    "name": "bronya5",
+    "character": "bronya",
+    "img": "bronya/bronya5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "24",
+    "name": "bronya6",
+    "character": "bronya",
+    "img": "bronya/bronya6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "25",
+    "name": "bronya7",
+    "character": "bronya",
+    "img": "bronya/bronya7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "26",
+    "name": "bronya8",
+    "character": "bronya",
+    "img": "bronya/bronya8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "27",
+    "name": "bronya9",
+    "character": "bronya",
+    "img": "bronya/bronya9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "28",
+    "name": "bronya10",
+    "character": "bronya",
+    "img": "bronya/bronya10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "29",
+    "name": "bronya11",
+    "character": "bronya",
+    "img": "bronya/bronya11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "30",
+    "name": "bronya12",
+    "character": "bronya",
+    "img": "bronya/bronya12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "31",
+    "name": "bronya13",
+    "character": "bronya",
+    "img": "bronya/bronya13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "32",
+    "name": "bronya14",
+    "character": "bronya",
+    "img": "bronya/bronya14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "33",
+    "name": "bronya15",
+    "character": "bronya",
+    "img": "bronya/bronya15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "34",
+    "name": "carole1",
+    "character": "carole",
+    "img": "carole/carole1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "35",
+    "name": "carole2",
+    "character": "carole",
+    "img": "carole/carole2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "36",
+    "name": "carole3",
+    "character": "carole",
+    "img": "carole/carole3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "37",
+    "name": "coralie1",
+    "character": "coralie",
+    "img": "coralie/coralie1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "38",
+    "name": "coralie2",
+    "character": "coralie",
+    "img": "coralie/coralie2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "39",
+    "name": "coralie3",
+    "character": "coralie",
+    "img": "coralie/coralie3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "40",
+    "name": "dreamseeker1",
+    "character": "dreamseeker",
+    "img": "dreamseeker/dreamseeker1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "41",
+    "name": "dreamseeker2",
+    "character": "dreamseeker",
+    "img": "dreamseeker/dreamseeker2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "42",
+    "name": "dreamseeker3",
+    "character": "dreamseeker",
+    "img": "dreamseeker/dreamseeker3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "43",
+    "name": "durandal1",
+    "character": "durandal",
+    "img": "durandal/durandal1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "44",
+    "name": "durandal2",
+    "character": "durandal",
+    "img": "durandal/durandal2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "45",
+    "name": "durandal3",
+    "character": "durandal",
+    "img": "durandal/durandal3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "46",
+    "name": "durandal4",
+    "character": "durandal",
+    "img": "durandal/durandal4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "47",
+    "name": "durandal5",
+    "character": "durandal",
+    "img": "durandal/durandal5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "48",
+    "name": "durandal6",
+    "character": "durandal",
+    "img": "durandal/durandal6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "49",
+    "name": "durandal7",
+    "character": "durandal",
+    "img": "durandal/durandal7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "50",
+    "name": "eden1",
+    "character": "eden",
+    "img": "eden/eden1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "51",
+    "name": "elysia1",
+    "character": "elysia",
+    "img": "elysia/elysia1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "52",
+    "name": "elysia2",
+    "character": "elysia",
+    "img": "elysia/elysia2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "53",
+    "name": "elysia3",
+    "character": "elysia",
+    "img": "elysia/elysia3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "54",
+    "name": "elysia4",
+    "character": "elysia",
+    "img": "elysia/elysia4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "55",
+    "name": "elysia5",
+    "character": "elysia",
+    "img": "elysia/elysia5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "56",
+    "name": "elysia6",
+    "character": "elysia",
+    "img": "elysia/elysia6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "57",
+    "name": "elysia7",
+    "character": "elysia",
+    "img": "elysia/elysia7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "58",
+    "name": "elysia8",
+    "character": "elysia",
+    "img": "elysia/elysia8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "59",
+    "name": "elysia9",
+    "character": "elysia",
+    "img": "elysia/elysia9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "60",
+    "name": "elysia10",
+    "character": "elysia",
+    "img": "elysia/elysia10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "61",
+    "name": "elysia11",
+    "character": "elysia",
+    "img": "elysia/elysia11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "62",
+    "name": "elysia12",
+    "character": "elysia",
+    "img": "elysia/elysia12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "63",
+    "name": "elysia13",
+    "character": "elysia",
+    "img": "elysia/elysia13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "64",
+    "name": "elysia14",
+    "character": "elysia",
+    "img": "elysia/elysia14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "65",
+    "name": "elysia15",
+    "character": "elysia",
+    "img": "elysia/elysia15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "66",
+    "name": "fischl1",
+    "character": "fischl",
+    "img": "fischl/fischl1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "67",
+    "name": "fischl2",
+    "character": "fischl",
+    "img": "fischl/fischl2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "68",
+    "name": "fischl3",
+    "character": "fischl",
+    "img": "fischl/fischl3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "69",
+    "name": "fuhua1",
+    "character": "fuhua",
+    "img": "fuhua/fuhua1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "70",
+    "name": "fuhua2",
+    "character": "fuhua",
+    "img": "fuhua/fuhua2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "71",
+    "name": "fuhua3",
+    "character": "fuhua",
+    "img": "fuhua/fuhua3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "72",
+    "name": "fuhua4",
+    "character": "fuhua",
+    "img": "fuhua/fuhua4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "73",
+    "name": "fuhua5",
+    "character": "fuhua",
+    "img": "fuhua/fuhua5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "74",
+    "name": "fuhua6",
+    "character": "fuhua",
+    "img": "fuhua/fuhua6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "75",
+    "name": "fuhua7",
+    "character": "fuhua",
+    "img": "fuhua/fuhua7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "76",
+    "name": "fuhua8",
+    "character": "fuhua",
+    "img": "fuhua/fuhua8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "77",
+    "name": "fuhua9",
+    "character": "fuhua",
+    "img": "fuhua/fuhua9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "78",
+    "name": "fuhua10",
+    "character": "fuhua",
+    "img": "fuhua/fuhua10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "79",
+    "name": "fuhua11",
+    "character": "fuhua",
+    "img": "fuhua/fuhua11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "80",
+    "name": "fuhua12",
+    "character": "fuhua",
+    "img": "fuhua/fuhua12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "81",
+    "name": "fuhua13",
+    "character": "fuhua",
+    "img": "fuhua/fuhua13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "82",
+    "name": "fuhua14",
+    "character": "fuhua",
+    "img": "fuhua/fuhua14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "83",
+    "name": "fuhua15",
+    "character": "fuhua",
+    "img": "fuhua/fuhua15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "84",
+    "name": "fuhua16",
+    "character": "fuhua",
+    "img": "fuhua/fuhua16.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "85",
+    "name": "fuhua17",
+    "character": "fuhua",
+    "img": "fuhua/fuhua17.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "86",
+    "name": "fuhua18",
+    "character": "fuhua",
+    "img": "fuhua/fuhua18.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "87",
+    "name": "fuhua19",
+    "character": "fuhua",
+    "img": "fuhua/fuhua19.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "88",
+    "name": "fuhua20",
+    "character": "fuhua",
+    "img": "fuhua/fuhua20.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "89",
+    "name": "fuhua21",
+    "character": "fuhua",
+    "img": "fuhua/fuhua21.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "90",
+    "name": "fuhua22",
+    "character": "fuhua",
+    "img": "fuhua/fuhua22.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "91",
+    "name": "fuhua23",
+    "character": "fuhua",
+    "img": "fuhua/fuhua23.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "92",
+    "name": "fuhua24",
+    "character": "fuhua",
+    "img": "fuhua/fuhua24.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "93",
+    "name": "fuhua25",
+    "character": "fuhua",
+    "img": "fuhua/fuhua25.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "94",
+    "name": "fuhua26",
+    "character": "fuhua",
+    "img": "fuhua/fuhua26.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "95",
+    "name": "fuhua27",
+    "character": "fuhua",
+    "img": "fuhua/fuhua27.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "96",
+    "name": "fuhua28",
+    "character": "fuhua",
+    "img": "fuhua/fuhua28.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "97",
+    "name": "griseo1",
+    "character": "griseo",
+    "img": "griseo/griseo1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "98",
+    "name": "griseo2",
+    "character": "griseo",
+    "img": "griseo/griseo2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "99",
+    "name": "griseo3",
+    "character": "griseo",
+    "img": "griseo/griseo3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "100",
+    "name": "griseo4",
+    "character": "griseo",
+    "img": "griseo/griseo4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "101",
+    "name": "griseo5",
+    "character": "griseo",
+    "img": "griseo/griseo5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "102",
+    "name": "griseo6",
+    "character": "griseo",
+    "img": "griseo/griseo6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "103",
+    "name": "griseo7",
+    "character": "griseo",
+    "img": "griseo/griseo7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "104",
+    "name": "helia1",
+    "character": "helia",
+    "img": "helia/helia1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "105",
+    "name": "helia2",
+    "character": "helia",
+    "img": "helia/helia2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "106",
+    "name": "helia3",
+    "character": "helia",
+    "img": "helia/helia3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "107",
+    "name": "higokumaru1",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "108",
+    "name": "higokumaru2",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "109",
+    "name": "higokumaru3",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "110",
+    "name": "higokumaru4",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "111",
+    "name": "higokumaru5",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "112",
+    "name": "higokumaru6",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "113",
+    "name": "higokumaru7",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "114",
+    "name": "higokumaru8",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "115",
+    "name": "higokumaru9",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "116",
+    "name": "higokumaru10",
+    "character": "higokumaru",
+    "img": "higokumaru/higokumaru10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "117",
+    "name": "himeko1",
+    "character": "himeko",
+    "img": "himeko/himeko1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "118",
+    "name": "jingwei1",
+    "character": "jingwei",
+    "img": "jingwei/jingwei1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "119",
+    "name": "jingwei2",
+    "character": "jingwei",
+    "img": "jingwei/jingwei2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "120",
+    "name": "jingwei3",
+    "character": "jingwei",
+    "img": "jingwei/jingwei3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "121",
+    "name": "kallen1",
+    "character": "kallen",
+    "img": "kallen/kallen1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "122",
+    "name": "kallen2",
+    "character": "kallen",
+    "img": "kallen/kallen2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "123",
+    "name": "kallen3",
+    "character": "kallen",
+    "img": "kallen/kallen3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "124",
+    "name": "kalpas1",
+    "character": "kalpas",
+    "img": "kalpas/kalpas1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "125",
+    "name": "kalpas2",
+    "character": "kalpas",
+    "img": "kalpas/kalpas2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "126",
+    "name": "keqing1",
+    "character": "keqing",
+    "img": "keqing/keqing1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "127",
+    "name": "keqing2",
+    "character": "keqing",
+    "img": "keqing/keqing2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "128",
+    "name": "kevin1",
+    "character": "kevin",
+    "img": "kevin/kevin1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "129",
+    "name": "kiana1",
+    "character": "kiana",
+    "img": "kiana/kiana1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "130",
+    "name": "kiana2",
+    "character": "kiana",
+    "img": "kiana/kiana2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "131",
+    "name": "kiana3",
+    "character": "kiana",
+    "img": "kiana/kiana3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "132",
+    "name": "kiana4",
+    "character": "kiana",
+    "img": "kiana/kiana4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "133",
+    "name": "kiana5",
+    "character": "kiana",
+    "img": "kiana/kiana5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "134",
+    "name": "kiana6",
+    "character": "kiana",
+    "img": "kiana/kiana6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "135",
+    "name": "kiana7",
+    "character": "kiana",
+    "img": "kiana/kiana7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "136",
+    "name": "kiana8",
+    "character": "kiana",
+    "img": "kiana/kiana8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "137",
+    "name": "kiana9",
+    "character": "kiana",
+    "img": "kiana/kiana9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "138",
+    "name": "kiana10",
+    "character": "kiana",
+    "img": "kiana/kiana10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "139",
+    "name": "kiana11",
+    "character": "kiana",
+    "img": "kiana/kiana11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "140",
+    "name": "kiana12",
+    "character": "kiana",
+    "img": "kiana/kiana12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "141",
+    "name": "kiana13",
+    "character": "kiana",
+    "img": "kiana/kiana13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "142",
+    "name": "kiana14",
+    "character": "kiana",
+    "img": "kiana/kiana14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "143",
+    "name": "kiana15",
+    "character": "kiana",
+    "img": "kiana/kiana15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "144",
+    "name": "kiana16",
+    "character": "kiana",
+    "img": "kiana/kiana16.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "145",
+    "name": "kiana17",
+    "character": "kiana",
+    "img": "kiana/kiana17.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "146",
+    "name": "kiana18",
+    "character": "kiana",
+    "img": "kiana/kiana18.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "147",
+    "name": "kiana19",
+    "character": "kiana",
+    "img": "kiana/kiana19.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "148",
+    "name": "kiana20",
+    "character": "kiana",
+    "img": "kiana/kiana20.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "149",
+    "name": "kiana21",
+    "character": "kiana",
+    "img": "kiana/kiana21.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "150",
+    "name": "kiana22",
+    "character": "kiana",
+    "img": "kiana/kiana22.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "151",
+    "name": "kiana23",
+    "character": "kiana",
+    "img": "kiana/kiana23.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "152",
+    "name": "kiana24",
+    "character": "kiana",
+    "img": "kiana/kiana24.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "153",
+    "name": "kira1",
+    "character": "kira",
+    "img": "kira/kira1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "154",
+    "name": "kira2",
+    "character": "kira",
+    "img": "kira/kira2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "155",
+    "name": "kira3",
+    "character": "kira",
+    "img": "kira/kira3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "156",
+    "name": "kira4",
+    "character": "kira",
+    "img": "kira/kira4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "157",
+    "name": "klein1",
+    "character": "klein",
+    "img": "klein/klein1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "158",
+    "name": "klein2",
+    "character": "klein",
+    "img": "klein/klein2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "159",
+    "name": "kosma1",
+    "character": "kosma",
+    "img": "kosma/kosma1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "160",
+    "name": "kosma2",
+    "character": "kosma",
+    "img": "kosma/kosma2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "161",
+    "name": "kosma3",
+    "character": "kosma",
+    "img": "kosma/kosma3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "162",
+    "name": "kosma4",
+    "character": "kosma",
+    "img": "kosma/kosma4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "163",
+    "name": "lantern1",
+    "character": "lantern",
+    "img": "lantern/lantern1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "164",
+    "name": "lantern2",
+    "character": "lantern",
+    "img": "lantern/lantern2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "165",
+    "name": "lantern3",
+    "character": "lantern",
+    "img": "lantern/lantern3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "166",
+    "name": "lantern4",
+    "character": "lantern",
+    "img": "lantern/lantern4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "167",
+    "name": "lyle1",
+    "character": "lyle",
+    "img": "lyle/lyle1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "168",
+    "name": "lyle2",
+    "character": "lyle",
+    "img": "lyle/lyle2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "169",
+    "name": "lyle3",
+    "character": "lyle",
+    "img": "lyle/lyle3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "170",
+    "name": "mei1",
+    "character": "mei",
+    "img": "mei/mei1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "171",
+    "name": "mei2",
+    "character": "mei",
+    "img": "mei/mei2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "172",
+    "name": "mei3",
+    "character": "mei",
+    "img": "mei/mei3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "173",
+    "name": "mei4",
+    "character": "mei",
+    "img": "mei/mei4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "174",
+    "name": "mei5",
+    "character": "mei",
+    "img": "mei/mei5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "175",
+    "name": "misteln1",
+    "character": "misteln",
+    "img": "misteln/misteln1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "176",
+    "name": "misteln2",
+    "character": "misteln",
+    "img": "misteln/misteln2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "177",
+    "name": "misteln3",
+    "character": "misteln",
+    "img": "misteln/misteln3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "178",
+    "name": "misteln4",
+    "character": "misteln",
+    "img": "misteln/misteln4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "179",
+    "name": "mobius1",
+    "character": "mobius",
+    "img": "mobius/mobius1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "180",
+    "name": "mobius2",
+    "character": "mobius",
+    "img": "mobius/mobius2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "181",
+    "name": "other1",
+    "character": "other",
+    "img": "other/other1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "182",
+    "name": "other2",
+    "character": "other",
+    "img": "other/other2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "183",
+    "name": "other3",
+    "character": "other",
+    "img": "other/other3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "184",
+    "name": "other4",
+    "character": "other",
+    "img": "other/other4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "185",
+    "name": "other5",
+    "character": "other",
+    "img": "other/other5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "186",
+    "name": "other6",
+    "character": "other",
+    "img": "other/other6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "187",
+    "name": "other7",
+    "character": "other",
+    "img": "other/other7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "188",
+    "name": "other8",
+    "character": "other",
+    "img": "other/other8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "189",
+    "name": "other9",
+    "character": "other",
+    "img": "other/other9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "190",
+    "name": "other10",
+    "character": "other",
+    "img": "other/other10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "191",
+    "name": "other11",
+    "character": "other",
+    "img": "other/other11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "192",
+    "name": "other12",
+    "character": "other",
+    "img": "other/other12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "193",
+    "name": "other13",
+    "character": "other",
+    "img": "other/other13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "194",
+    "name": "other14",
+    "character": "other",
+    "img": "other/other14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "195",
+    "name": "other15",
+    "character": "other",
+    "img": "other/other15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "196",
+    "name": "other16",
+    "character": "other",
+    "img": "other/other16.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "197",
+    "name": "other17",
+    "character": "other",
+    "img": "other/other17.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "198",
+    "name": "other18",
+    "character": "other",
+    "img": "other/other18.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "199",
+    "name": "other19",
+    "character": "other",
+    "img": "other/other19.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "200",
+    "name": "other20",
+    "character": "other",
+    "img": "other/other20.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "201",
+    "name": "otto1",
+    "character": "otto",
+    "img": "otto/otto1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "202",
+    "name": "otto2",
+    "character": "otto",
+    "img": "otto/otto2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "203",
+    "name": "otto3",
+    "character": "otto",
+    "img": "otto/otto3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "204",
+    "name": "pardofelis1",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "205",
+    "name": "pardofelis2",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "206",
+    "name": "pardofelis3",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "207",
+    "name": "pardofelis4",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "208",
+    "name": "pardofelis5",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "209",
+    "name": "pardofelis6",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "210",
+    "name": "pardofelis7",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "211",
+    "name": "pardofelis8",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "212",
+    "name": "pardofelis9",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "213",
+    "name": "pardofelis10",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "214",
+    "name": "pardofelis11",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "215",
+    "name": "pardofelis12",
+    "character": "pardofelis",
+    "img": "pardofelis/pardofelis12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "216",
+    "name": "prometheus1",
+    "character": "prometheus",
+    "img": "prometheus/prometheus1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "217",
+    "name": "prometheus2",
+    "character": "prometheus",
+    "img": "prometheus/prometheus2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "218",
+    "name": "prometheus3",
+    "character": "prometheus",
+    "img": "prometheus/prometheus3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "219",
+    "name": "prometheus4",
+    "character": "prometheus",
+    "img": "prometheus/prometheus4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "220",
+    "name": "rita1",
+    "character": "rita",
+    "img": "rita/rita1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "221",
+    "name": "rita2",
+    "character": "rita",
+    "img": "rita/rita2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "222",
+    "name": "rita3",
+    "character": "rita",
+    "img": "rita/rita3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "223",
+    "name": "rozaliya1",
+    "character": "rozaliya",
+    "img": "rozaliya/rozaliya1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "224",
+    "name": "rozaliya2",
+    "character": "rozaliya",
+    "img": "rozaliya/rozaliya2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "225",
+    "name": "seele1",
+    "character": "seele",
+    "img": "seele/seele1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "226",
+    "name": "seele2",
+    "character": "seele",
+    "img": "seele/seele2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "227",
+    "name": "seele3",
+    "character": "seele",
+    "img": "seele/seele3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "228",
+    "name": "seele4",
+    "character": "seele",
+    "img": "seele/seele4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "229",
+    "name": "seele5",
+    "character": "seele",
+    "img": "seele/seele5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "230",
+    "name": "seele6",
+    "character": "seele",
+    "img": "seele/seele6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "231",
+    "name": "seele7",
+    "character": "seele",
+    "img": "seele/seele7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "232",
+    "name": "seele8",
+    "character": "seele",
+    "img": "seele/seele8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "233",
+    "name": "senadina1",
+    "character": "senadina",
+    "img": "senadina/senadina1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "234",
+    "name": "senadina2",
+    "character": "senadina",
+    "img": "senadina/senadina2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "235",
+    "name": "senadina3",
+    "character": "senadina",
+    "img": "senadina/senadina3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "236",
+    "name": "serapheum1",
+    "character": "serapheum",
+    "img": "serapheum/serapheum1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "237",
+    "name": "serapheum2",
+    "character": "serapheum",
+    "img": "serapheum/serapheum2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "238",
+    "name": "sirin1",
+    "character": "sirin",
+    "img": "sirin/sirin1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "239",
+    "name": "sirin2",
+    "character": "sirin",
+    "img": "sirin/sirin2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "240",
+    "name": "sirin3",
+    "character": "sirin",
+    "img": "sirin/sirin3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "241",
+    "name": "sirin4",
+    "character": "sirin",
+    "img": "sirin/sirin4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "242",
+    "name": "songque1",
+    "character": "songque",
+    "img": "songque/songque1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "243",
+    "name": "songque2",
+    "character": "songque",
+    "img": "songque/songque2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "244",
+    "name": "songque3",
+    "character": "songque",
+    "img": "songque/songque3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "245",
+    "name": "songque4",
+    "character": "songque",
+    "img": "songque/songque4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "246",
+    "name": "songque5",
+    "character": "songque",
+    "img": "songque/songque5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "247",
+    "name": "songque6",
+    "character": "songque",
+    "img": "songque/songque6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "248",
+    "name": "songque7",
+    "character": "songque",
+    "img": "songque/songque7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "249",
+    "name": "songque8",
+    "character": "songque",
+    "img": "songque/songque8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "250",
+    "name": "songque9",
+    "character": "songque",
+    "img": "songque/songque9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "251",
+    "name": "sparkle1",
+    "character": "sparkle",
+    "img": "sparkle/sparkle1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "252",
+    "name": "sparkle2",
+    "character": "sparkle",
+    "img": "sparkle/sparkle2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "253",
+    "name": "sparkle3",
+    "character": "sparkle",
+    "img": "sparkle/sparkle3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "254",
+    "name": "sparkle4",
+    "character": "sparkle",
+    "img": "sparkle/sparkle4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "255",
+    "name": "su1",
+    "character": "su",
+    "img": "su/su1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "256",
+    "name": "susannah1",
+    "character": "susannah",
+    "img": "susannah/susannah1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "257",
+    "name": "susannah2",
+    "character": "susannah",
+    "img": "susannah/susannah2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "258",
+    "name": "susannah3",
+    "character": "susannah",
+    "img": "susannah/susannah3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "259",
+    "name": "susannah4",
+    "character": "susannah",
+    "img": "susannah/susannah4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "260",
+    "name": "sushang1",
+    "character": "sushang",
+    "img": "sushang/sushang1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "261",
+    "name": "sushang2",
+    "character": "sushang",
+    "img": "sushang/sushang2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "262",
+    "name": "sushang3",
+    "character": "sushang",
+    "img": "sushang/sushang3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "263",
+    "name": "sushang4",
+    "character": "sushang",
+    "img": "sushang/sushang4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "264",
+    "name": "sushang5",
+    "character": "sushang",
+    "img": "sushang/sushang5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "265",
+    "name": "sushang6",
+    "character": "sushang",
+    "img": "sushang/sushang6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "266",
+    "name": "sushang7",
+    "character": "sushang",
+    "img": "sushang/sushang7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "267",
+    "name": "sushang8",
+    "character": "sushang",
+    "img": "sushang/sushang8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "268",
+    "name": "thelema1",
+    "character": "thelema",
+    "img": "thelema/thelema1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "269",
+    "name": "thelema2",
+    "character": "thelema",
+    "img": "thelema/thelema2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "270",
+    "name": "thelema3",
+    "character": "thelema",
+    "img": "thelema/thelema3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "271",
+    "name": "thelema4",
+    "character": "thelema",
+    "img": "thelema/thelema4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "272",
+    "name": "theresa1",
+    "character": "theresa",
+    "img": "theresa/theresa1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "273",
+    "name": "theresa2",
+    "character": "theresa",
+    "img": "theresa/theresa2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "274",
+    "name": "theresa3",
+    "character": "theresa",
+    "img": "theresa/theresa3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "275",
+    "name": "theresa4",
+    "character": "theresa",
+    "img": "theresa/theresa4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "276",
+    "name": "theresa5",
+    "character": "theresa",
+    "img": "theresa/theresa5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "277",
+    "name": "theresa6",
+    "character": "theresa",
+    "img": "theresa/theresa6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "278",
+    "name": "theresa7",
+    "character": "theresa",
+    "img": "theresa/theresa7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "279",
+    "name": "theresa8",
+    "character": "theresa",
+    "img": "theresa/theresa8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "280",
+    "name": "theresa9",
+    "character": "theresa",
+    "img": "theresa/theresa9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "281",
+    "name": "theresa10",
+    "character": "theresa",
+    "img": "theresa/theresa10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "282",
+    "name": "theresa11",
+    "character": "theresa",
+    "img": "theresa/theresa11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "283",
+    "name": "theresa12",
+    "character": "theresa",
+    "img": "theresa/theresa12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "284",
+    "name": "theresa13",
+    "character": "theresa",
+    "img": "theresa/theresa13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "285",
+    "name": "theresa14",
+    "character": "theresa",
+    "img": "theresa/theresa14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "286",
+    "name": "theresa15",
+    "character": "theresa",
+    "img": "theresa/theresa15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "287",
+    "name": "theresa16",
+    "character": "theresa",
+    "img": "theresa/theresa16.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "288",
+    "name": "theresa17",
+    "character": "theresa",
+    "img": "theresa/theresa17.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "289",
+    "name": "theresa18",
+    "character": "theresa",
+    "img": "theresa/theresa18.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "290",
+    "name": "theresa19",
+    "character": "theresa",
+    "img": "theresa/theresa19.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "291",
+    "name": "theresa20",
+    "character": "theresa",
+    "img": "theresa/theresa20.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "292",
+    "name": "timido1",
+    "character": "timido",
+    "img": "timido/timido1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "293",
+    "name": "timido2",
+    "character": "timido",
+    "img": "timido/timido2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "294",
+    "name": "timido3",
+    "character": "timido",
+    "img": "timido/timido3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "295",
+    "name": "timido4",
+    "character": "timido",
+    "img": "timido/timido4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "296",
+    "name": "timido5",
+    "character": "timido",
+    "img": "timido/timido5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "297",
+    "name": "vill-v1",
+    "character": "vill-v",
+    "img": "vill-v/vill-v1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "298",
+    "name": "vill-v2",
+    "character": "vill-v",
+    "img": "vill-v/vill-v2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "299",
+    "name": "vill-v3",
+    "character": "vill-v",
+    "img": "vill-v/vill-v3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "300",
+    "name": "vill-v4",
+    "character": "vill-v",
+    "img": "vill-v/vill-v4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "301",
+    "name": "vita1",
+    "character": "vita",
+    "img": "vita/vita1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "302",
+    "name": "vita2",
+    "character": "vita",
+    "img": "vita/vita2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "303",
+    "name": "vita3",
+    "character": "vita",
+    "img": "vita/vita3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "304",
+    "name": "vita4",
+    "character": "vita",
+    "img": "vita/vita4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "305",
+    "name": "vita5",
+    "character": "vita",
+    "img": "vita/vita5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "306",
+    "name": "vita6",
+    "character": "vita",
+    "img": "vita/vita6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "307",
+    "name": "vita7",
+    "character": "vita",
+    "img": "vita/vita7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "308",
+    "name": "welt1",
+    "character": "welt",
+    "img": "welt/welt1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "309",
+    "name": "yae1",
+    "character": "yae",
+    "img": "yae/yae1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "310",
+    "name": "yae2",
+    "character": "yae",
+    "img": "yae/yae2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]

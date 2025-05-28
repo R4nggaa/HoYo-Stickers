@@ -1,7 +1,7 @@
 {
-  "name": "gi-stickers",
-  "version": "0.1.0",
-  "homepage": "https://R4nggaa.github.io/GI-Stickers",
+  "name": "hoyo-stickers",
+  "version": "0.2.0",
+  "homepage": "https://R4nggaa.github.io/HoYo-Stickers",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",

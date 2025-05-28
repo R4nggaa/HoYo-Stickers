@@ -24,7 +24,7 @@ export default function Info({ open, handleClose }) {
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
             <Typography variant="h6" component="h3">
-              Modified for Genshin Impact from here:
+              Modified for HoYoverse Game Stickers from here:
             </Typography>
             <List>
               <ListItem

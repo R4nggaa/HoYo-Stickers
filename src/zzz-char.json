@@ -1,0 +1,1654 @@
+[
+  {
+    "id": "1",
+    "name": "anby1",
+    "character": "anby",
+    "img": "anby/anby1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "2",
+    "name": "anby2",
+    "character": "anby",
+    "img": "anby/anby2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "3",
+    "name": "anby3",
+    "character": "anby",
+    "img": "anby/anby3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "4",
+    "name": "anby4",
+    "character": "anby",
+    "img": "anby/anby4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "5",
+    "name": "anby5",
+    "character": "anby",
+    "img": "anby/anby5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "6",
+    "name": "anby6",
+    "character": "anby",
+    "img": "anby/anby6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "7",
+    "name": "anby7",
+    "character": "anby",
+    "img": "anby/anby7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "8",
+    "name": "anby8",
+    "character": "anby",
+    "img": "anby/anby8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "9",
+    "name": "anton1",
+    "character": "anton",
+    "img": "anton/anton1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "10",
+    "name": "anton2",
+    "character": "anton",
+    "img": "anton/anton2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "11",
+    "name": "anton3",
+    "character": "anton",
+    "img": "anton/anton3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "12",
+    "name": "bangboo1",
+    "character": "bangboo",
+    "img": "bangboo/bangboo1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "13",
+    "name": "bangboo2",
+    "character": "bangboo",
+    "img": "bangboo/bangboo2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "14",
+    "name": "bangboo3",
+    "character": "bangboo",
+    "img": "bangboo/bangboo3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "15",
+    "name": "bangboo4",
+    "character": "bangboo",
+    "img": "bangboo/bangboo4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "16",
+    "name": "bangboo5",
+    "character": "bangboo",
+    "img": "bangboo/bangboo5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "17",
+    "name": "bangboo6",
+    "character": "bangboo",
+    "img": "bangboo/bangboo6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "18",
+    "name": "bangboo7",
+    "character": "bangboo",
+    "img": "bangboo/bangboo7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "19",
+    "name": "bangboo8",
+    "character": "bangboo",
+    "img": "bangboo/bangboo8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "20",
+    "name": "bangboo9",
+    "character": "bangboo",
+    "img": "bangboo/bangboo9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "21",
+    "name": "bangboo10",
+    "character": "bangboo",
+    "img": "bangboo/bangboo10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "22",
+    "name": "bangboo11",
+    "character": "bangboo",
+    "img": "bangboo/bangboo11.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "23",
+    "name": "bangboo12",
+    "character": "bangboo",
+    "img": "bangboo/bangboo12.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "24",
+    "name": "bangboo13",
+    "character": "bangboo",
+    "img": "bangboo/bangboo13.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "25",
+    "name": "bangboo14",
+    "character": "bangboo",
+    "img": "bangboo/bangboo14.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "26",
+    "name": "bangboo15",
+    "character": "bangboo",
+    "img": "bangboo/bangboo15.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "27",
+    "name": "bangboo16",
+    "character": "bangboo",
+    "img": "bangboo/bangboo16.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "28",
+    "name": "bangboo17",
+    "character": "bangboo",
+    "img": "bangboo/bangboo17.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "29",
+    "name": "bangboo18",
+    "character": "bangboo",
+    "img": "bangboo/bangboo18.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "30",
+    "name": "bangboo19",
+    "character": "bangboo",
+    "img": "bangboo/bangboo19.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "31",
+    "name": "bangboo20",
+    "character": "bangboo",
+    "img": "bangboo/bangboo20.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "32",
+    "name": "bangboo21",
+    "character": "bangboo",
+    "img": "bangboo/bangboo21.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "33",
+    "name": "bangboo22",
+    "character": "bangboo",
+    "img": "bangboo/bangboo22.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "34",
+    "name": "bangboo23",
+    "character": "bangboo",
+    "img": "bangboo/bangboo23.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "35",
+    "name": "bangboo24",
+    "character": "bangboo",
+    "img": "bangboo/bangboo24.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "36",
+    "name": "bangboo25",
+    "character": "bangboo",
+    "img": "bangboo/bangboo25.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "37",
+    "name": "bangboo26",
+    "character": "bangboo",
+    "img": "bangboo/bangboo26.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "38",
+    "name": "bangboo27",
+    "character": "bangboo",
+    "img": "bangboo/bangboo27.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "39",
+    "name": "bangboo28",
+    "character": "bangboo",
+    "img": "bangboo/bangboo28.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "40",
+    "name": "bangboo29",
+    "character": "bangboo",
+    "img": "bangboo/bangboo29.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "41",
+    "name": "bangboo30",
+    "character": "bangboo",
+    "img": "bangboo/bangboo30.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "42",
+    "name": "bangboo31",
+    "character": "bangboo",
+    "img": "bangboo/bangboo31.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "43",
+    "name": "bangboo32",
+    "character": "bangboo",
+    "img": "bangboo/bangboo32.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "44",
+    "name": "bangboo33",
+    "character": "bangboo",
+    "img": "bangboo/bangboo33.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "45",
+    "name": "bangboo34",
+    "character": "bangboo",
+    "img": "bangboo/bangboo34.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "46",
+    "name": "bangboo35",
+    "character": "bangboo",
+    "img": "bangboo/bangboo35.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "47",
+    "name": "bangboo36",
+    "character": "bangboo",
+    "img": "bangboo/bangboo36.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "48",
+    "name": "bangboo37",
+    "character": "bangboo",
+    "img": "bangboo/bangboo37.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "49",
+    "name": "bangboo38",
+    "character": "bangboo",
+    "img": "bangboo/bangboo38.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "50",
+    "name": "belle1",
+    "character": "belle",
+    "img": "belle/belle1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "51",
+    "name": "belle2",
+    "character": "belle",
+    "img": "belle/belle2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "52",
+    "name": "belle3",
+    "character": "belle",
+    "img": "belle/belle3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "53",
+    "name": "ben1",
+    "character": "ben",
+    "img": "ben/ben1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "54",
+    "name": "ben2",
+    "character": "ben",
+    "img": "ben/ben2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "55",
+    "name": "ben3",
+    "character": "ben",
+    "img": "ben/ben3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "56",
+    "name": "billy1",
+    "character": "billy",
+    "img": "billy/billy1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "57",
+    "name": "billy2",
+    "character": "billy",
+    "img": "billy/billy2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "58",
+    "name": "billy3",
+    "character": "billy",
+    "img": "billy/billy3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "59",
+    "name": "billy4",
+    "character": "billy",
+    "img": "billy/billy4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "60",
+    "name": "billy5",
+    "character": "billy",
+    "img": "billy/billy5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "61",
+    "name": "billy6",
+    "character": "billy",
+    "img": "billy/billy6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "62",
+    "name": "billy7",
+    "character": "billy",
+    "img": "billy/billy7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "63",
+    "name": "burnice1",
+    "character": "burnice",
+    "img": "burnice/burnice1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "64",
+    "name": "burnice2",
+    "character": "burnice",
+    "img": "burnice/burnice2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "65",
+    "name": "caesar1",
+    "character": "caesar",
+    "img": "caesar/caesar1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "66",
+    "name": "caesar2",
+    "character": "caesar",
+    "img": "caesar/caesar2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "67",
+    "name": "corin1",
+    "character": "corin",
+    "img": "corin/corin1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "68",
+    "name": "corin2",
+    "character": "corin",
+    "img": "corin/corin2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "69",
+    "name": "corin3",
+    "character": "corin",
+    "img": "corin/corin3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "70",
+    "name": "ellen1",
+    "character": "ellen",
+    "img": "ellen/ellen1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "71",
+    "name": "ellen2",
+    "character": "ellen",
+    "img": "ellen/ellen2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "72",
+    "name": "grace1",
+    "character": "grace",
+    "img": "grace/grace1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "73",
+    "name": "grace2",
+    "character": "grace",
+    "img": "grace/grace2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "74",
+    "name": "jane1",
+    "character": "jane",
+    "img": "jane/jane1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "75",
+    "name": "jane2",
+    "character": "jane",
+    "img": "jane/jane2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "76",
+    "name": "koleda1",
+    "character": "koleda",
+    "img": "koleda/koleda1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "77",
+    "name": "koleda2",
+    "character": "koleda",
+    "img": "koleda/koleda2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "78",
+    "name": "koleda3",
+    "character": "koleda",
+    "img": "koleda/koleda3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "79",
+    "name": "lucy1",
+    "character": "lucy",
+    "img": "lucy/lucy1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "80",
+    "name": "lucy2",
+    "character": "lucy",
+    "img": "lucy/lucy2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "81",
+    "name": "lycaon1",
+    "character": "lycaon",
+    "img": "lycaon/lycaon1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "82",
+    "name": "lycaon2",
+    "character": "lycaon",
+    "img": "lycaon/lycaon2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "83",
+    "name": "lycaon3",
+    "character": "lycaon",
+    "img": "lycaon/lycaon3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "84",
+    "name": "nekomata1",
+    "character": "nekomata",
+    "img": "nekomata/nekomata1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "85",
+    "name": "nekomata2",
+    "character": "nekomata",
+    "img": "nekomata/nekomata2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "86",
+    "name": "nekomata3",
+    "character": "nekomata",
+    "img": "nekomata/nekomata3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "87",
+    "name": "nicole1",
+    "character": "nicole",
+    "img": "nicole/nicole1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "88",
+    "name": "nicole2",
+    "character": "nicole",
+    "img": "nicole/nicole2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "89",
+    "name": "nicole3",
+    "character": "nicole",
+    "img": "nicole/nicole3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "90",
+    "name": "nicole4",
+    "character": "nicole",
+    "img": "nicole/nicole4.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "91",
+    "name": "nicole5",
+    "character": "nicole",
+    "img": "nicole/nicole5.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "92",
+    "name": "nicole6",
+    "character": "nicole",
+    "img": "nicole/nicole6.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "93",
+    "name": "nicole7",
+    "character": "nicole",
+    "img": "nicole/nicole7.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "94",
+    "name": "nicole8",
+    "character": "nicole",
+    "img": "nicole/nicole8.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "95",
+    "name": "nicole9",
+    "character": "nicole",
+    "img": "nicole/nicole9.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "96",
+    "name": "nicole10",
+    "character": "nicole",
+    "img": "nicole/nicole10.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "97",
+    "name": "other1",
+    "character": "other",
+    "img": "other/other1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "98",
+    "name": "other2",
+    "character": "other",
+    "img": "other/other2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "99",
+    "name": "other3",
+    "character": "other",
+    "img": "other/other3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "100",
+    "name": "piper1",
+    "character": "piper",
+    "img": "piper/piper1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "101",
+    "name": "piper2",
+    "character": "piper",
+    "img": "piper/piper2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "102",
+    "name": "qingyi1",
+    "character": "qingyi",
+    "img": "qingyi/qingyi1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "103",
+    "name": "qingyi2",
+    "character": "qingyi",
+    "img": "qingyi/qingyi2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "104",
+    "name": "rina1",
+    "character": "rina",
+    "img": "rina/rina1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "105",
+    "name": "rina2",
+    "character": "rina",
+    "img": "rina/rina2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "106",
+    "name": "seth1",
+    "character": "seth",
+    "img": "seth/seth1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "107",
+    "name": "seth2",
+    "character": "seth",
+    "img": "seth/seth2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "108",
+    "name": "soldier111",
+    "character": "soldier11",
+    "img": "soldier11/soldier111.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "109",
+    "name": "soldier112",
+    "character": "soldier11",
+    "img": "soldier11/soldier112.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "110",
+    "name": "soldier113",
+    "character": "soldier11",
+    "img": "soldier11/soldier113.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "111",
+    "name": "soukaku1",
+    "character": "soukaku",
+    "img": "soukaku/soukaku1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "112",
+    "name": "soukaku2",
+    "character": "soukaku",
+    "img": "soukaku/soukaku2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "113",
+    "name": "soukaku3",
+    "character": "soukaku",
+    "img": "soukaku/soukaku3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "114",
+    "name": "wise1",
+    "character": "wise",
+    "img": "wise/wise1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "115",
+    "name": "wise2",
+    "character": "wise",
+    "img": "wise/wise2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "116",
+    "name": "wise3",
+    "character": "wise",
+    "img": "wise/wise3.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "117",
+    "name": "zhuyuan1",
+    "character": "zhuyuan",
+    "img": "zhuyuan/zhuyuan1.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "118",
+    "name": "zhuyuan2",
+    "character": "zhuyuan",
+    "img": "zhuyuan/zhuyuan2.png",
+    "color": "#0077DD",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]
