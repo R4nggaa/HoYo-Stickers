@@ -1,7 +1,6 @@
 import "./App.css";
 import Canvas from "./components/Canvas";
 import { useState, useEffect } from "react";
-import characters from "./characters.json";
 import Slider from "@mui/material/Slider";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
@@ -18,55 +17,56 @@ function App() {
   useEffect(() => {
     const fetchConfig = async () => {
       try {
-        const res = await getConfiguration();
+        await getConfiguration();
       } catch (error) {
         console.log(error);
       }
     };
-
     fetchConfig();
   }, []);
 
   const [infoOpen, setInfoOpen] = useState(false);
+  const [selectedGame, setSelectedGame] = useState("GI");
+  const [characters, setCharacters] = useState([]);
+  const [characterIndex, setCharacterIndex] = useState(0);
 
-  const handleClickOpen = () => {
-    setInfoOpen(true);
+  const character = characters[characterIndex] || {
+    defaultText: { text: "", x: 148, y: 128, s: 30, r: 0 },
+    img: "",
+    name: "unknown",
+    id: "unknown",
+    color: "#ffffff",
   };
 
-  const handleClose = () => {
-    setInfoOpen(false);
-  };
-
-  const [character, setCharacter] = useState(180);
-  const [text, setText] = useState(characters[character].defaultText.text);
+  const [text, setText] = useState(character.defaultText.text);
   const [position, setPosition] = useState({
-    x: characters[character].defaultText.x,
-    y: characters[character].defaultText.y,
+    x: character.defaultText.x,
+    y: character.defaultText.y,
   });
-  const [fontSize, setFontSize] = useState(characters[character].defaultText.s);
+  const [fontSize, setFontSize] = useState(character.defaultText.s);
   const [spaceSize, setSpaceSize] = useState(50);
-  const [rotate, setRotate] = useState(characters[character].defaultText.r);
+  const [rotate, setRotate] = useState(character.defaultText.r);
   const [curve, setCurve] = useState(false);
   const [loaded, setLoaded] = useState(false);
-  const [fontColor, setFontColor] = useState(characters[character].color);
+  const [fontColor, setFontColor] = useState(character.color);
   const img = new Image();
 
   useEffect(() => {
-    // setText(characters[character].defaultText.text);
+    if (!character) return;
+
+    setText(character.defaultText.text);
     setPosition({
-      x: characters[character].defaultText.x,
-      y: characters[character].defaultText.y,
+      x: character.defaultText.x,
+      y: character.defaultText.y,
     });
-    setRotate(characters[character].defaultText.r);
-    setFontSize(characters[character].defaultText.s);
+    setRotate(character.defaultText.r);
+    setFontSize(character.defaultText.s);
+    setFontColor(character.color);
     setLoaded(false);
-  }, [character]);
+  }, [characterIndex, characters]);
 
-  img.src = "img/" + characters[character].img;
-
-  img.onload = () => {
-    setLoaded(true);
-  };
+  img.src = `img/${selectedGame}/${character.img}`;
+  img.onload = () => setLoaded(true);
 
   let angle = (Math.PI * text.length) / 7;
 
@@ -75,11 +75,11 @@ function App() {
     ctx.canvas.height = 256;
 
     if (loaded && document.fonts.check("12px YurukaStd")) {
-      var hRatio = ctx.canvas.width / img.width;
-      var vRatio = ctx.canvas.height / img.height;
-      var ratio = Math.min(hRatio, vRatio);
-      var centerShift_x = (ctx.canvas.width - img.width * ratio) / 2;
-      var centerShift_y = (ctx.canvas.height - img.height * ratio) / 2;
+      const hRatio = ctx.canvas.width / img.width;
+      const vRatio = ctx.canvas.height / img.height;
+      const ratio = Math.min(hRatio, vRatio);
+      const centerShift_x = (ctx.canvas.width - img.width * ratio) / 2;
+      const centerShift_y = (ctx.canvas.height - img.height * ratio) / 2;
       ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
       ctx.drawImage(
         img,
@@ -95,13 +95,12 @@ function App() {
       ctx.font = `${fontSize}px YurukaStd`;
       ctx.lineWidth = 9;
       ctx.save();
-
       ctx.translate(position.x, position.y);
       ctx.rotate(rotate / 10);
       ctx.textAlign = "center";
-      // ctx.strokeStyle = "white";
       ctx.fillStyle = fontColor;
-      var lines = text.split("\n");
+
+      const lines = text.split("\n");
       if (curve) {
         for (let line of lines) {
           for (let i = 0; i < line.length; i++) {
@@ -114,38 +113,33 @@ function App() {
           }
         }
       } else {
-        for (var i = 0, k = 0; i < lines.length; i++) {
-          ctx.strokeText(lines[i], 0, k);
-          ctx.fillText(lines[i], 0, k);
-          k += spaceSize;
+        let yOffset = 0;
+        for (const line of lines) {
+          ctx.strokeText(line, 0, yOffset);
+          ctx.fillText(line, 0, yOffset);
+          yOffset += spaceSize;
         }
-        ctx.restore();
       }
+      ctx.restore();
     }
   };
 
   const download = () => {
     const canvas = document.getElementsByTagName("canvas")[0];
     const link = document.createElement("a");
-    link.download = `Sticker_${characters[character].name}.png`;
+    link.download = `Sticker_${character.name}.png`;
     link.href = canvas.toDataURL();
     link.click();
-    log(characters[character].id, characters[character].name, "download");
+    log(character.id, character.name, "download");
   };
 
-  function b64toBlob(b64Data, contentType = null, sliceSize = null) {
-    contentType = contentType || "image/png";
-    sliceSize = sliceSize || 512;
-    let byteCharacters = atob(b64Data);
-    let byteArrays = [];
+  function b64toBlob(b64Data, contentType = "image/png", sliceSize = 512) {
+    const byteCharacters = atob(b64Data);
+    const byteArrays = [];
     for (let offset = 0; offset < byteCharacters.length; offset += sliceSize) {
-      let slice = byteCharacters.slice(offset, offset + sliceSize);
-      let byteNumbers = new Array(slice.length);
-      for (let i = 0; i < slice.length; i++) {
-        byteNumbers[i] = slice.charCodeAt(i);
-      }
-      var byteArray = new Uint8Array(byteNumbers);
-      byteArrays.push(byteArray);
+      const slice = byteCharacters.slice(offset, offset + sliceSize);
+      const byteNumbers = Array.from(slice).map((char) => char.charCodeAt(0));
+      byteArrays.push(new Uint8Array(byteNumbers));
     }
     return new Blob(byteArrays, { type: contentType });
   }
@@ -157,12 +151,12 @@ function App() {
         "image/png": b64toBlob(canvas.toDataURL().split(",")[1]),
       }),
     ]);
-    log(characters[character].id, characters[character].name, "copy");
+    log(character.id, character.name, "copy");
   };
 
   return (
     <div className="App">
-      <Info open={infoOpen} handleClose={handleClose} />
+      <Info open={infoOpen} handleClose={() => setInfoOpen(false)} />
       <div className="container">
         <div className="vertical">
           <div className="canvas">
@@ -197,7 +191,7 @@ function App() {
           />
           <div className="settings">
             <div>
-              <label>Rotate: </label>
+              <label>Rotate:</label>
               <Slider
                 value={rotate}
                 onChange={(e, v) => setRotate(v)}
@@ -209,9 +203,7 @@ function App() {
               />
             </div>
             <div>
-              <label>
-                <nobr>Font size: </nobr>
-              </label>
+              <label>Font size:</label>
               <Slider
                 value={fontSize}
                 onChange={(e, v) => setFontSize(v)}
@@ -223,9 +215,7 @@ function App() {
               />
             </div>
             <div>
-              <label>
-                <nobr>Spacing: </nobr>
-              </label>
+              <label>Spacing:</label>
               <Slider
                 value={spaceSize}
                 onChange={(e, v) => setSpaceSize(v)}
@@ -237,7 +227,7 @@ function App() {
               />
             </div>
             <div>
-              <label>Curve (Beta): </label>
+              <label>Curve (Beta):</label>
               <Switch
                 checked={curve}
                 onChange={(e) => setCurve(e.target.checked)}
@@ -245,51 +235,10 @@ function App() {
               />
             </div>
             <div>
-              <label>Text Color: </label>
+              <label>Text Color:</label>
               <CirclePicker
                 color={fontColor}
-                onChangeComplete={(color) => { setFontColor(color.hex) }}
-                colors={[
-                  "#0077DD",
-                  "#19CD94",
-                  "#3366CC",
-                  "#33AAEE",
-                  "#6495F0",
-                  "#7171AF",
-                  "#BB6688",
-                  "#BB88EE",
-                  "#E4485F",
-                  "#E8A505",
-                  "#F09A04",
-                  "#F39E7D",
-                  "#F86666",
-                  "#FB8AAC",
-                  "#FF6699",
-                  "#B18F6C",
-                  "#00B8A9",
-                  "#FF6F61",
-                  "#6A0572",
-                  "#AB83A1",
-                  "#F0C808",
-                  "#FFCB77",
-                  "#90BE6D",
-                  "#43AA8B",
-                  "#577590",
-                  "#A05195",
-                  "#D45087",
-                  "#F95D6A",
-                  "#FF7C43",
-                  "#FFA600",
-                  "#D4A5A5",
-                  "#AFD2E9",
-                  "#7FB685",
-                  "#5E548E",
-                  "#9A8C98",
-                  "#F4ACB7",
-                  "#B8F2E6",
-                  "#B5EAEA",
-                  "#FFFFFF",
-                  "#6FFFE9"]}
+                onChangeComplete={(color) => setFontColor(color.hex)}
               />
             </div>
           </div>
@@ -299,27 +248,25 @@ function App() {
               size="small"
               color="secondary"
               value={text}
-              multiline={true}
+              multiline
               fullWidth
               onChange={(e) => setText(e.target.value)}
             />
           </div>
           <div className="picker">
-            <Picker setCharacter={setCharacter} />
+            <Picker
+              setCharacter={setCharacterIndex}
+              setCharacters={setCharacters}
+              setGame={setSelectedGame}
+            />
           </div>
           <div className="buttons">
-            <Button color="secondary" onClick={copy}>
-              copy
-            </Button>
-            <Button color="secondary" onClick={download}>
-              download
-            </Button>
+            <Button color="secondary" onClick={copy}>copy</Button>
+            <Button color="secondary" onClick={download}>download</Button>
           </div>
         </div>
         <div className="footer">
-          <Button color="secondary" onClick={handleClickOpen}>
-            Info
-          </Button>
+          <Button color="secondary" onClick={() => setInfoOpen(true)}>Info</Button>
         </div>
       </div>
     </div>
