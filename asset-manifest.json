@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HoYo-Stickers/static/css/main.4aa8b254.css",
-    "main.js": "/HoYo-Stickers/static/js/main.48c1b459.js",
+    "main.js": "/HoYo-Stickers/static/js/main.91b68719.js",
     "static/media/YurukaStd.woff2": "/HoYo-Stickers/static/media/YurukaStd.e4589185c34a94a462b4.woff2",
     "index.html": "/HoYo-Stickers/index.html",
     "main.4aa8b254.css.map": "/HoYo-Stickers/static/css/main.4aa8b254.css.map",
-    "main.48c1b459.js.map": "/HoYo-Stickers/static/js/main.48c1b459.js.map"
+    "main.91b68719.js.map": "/HoYo-Stickers/static/js/main.91b68719.js.map"
   },
   "entrypoints": [
     "static/css/main.4aa8b254.css",
-    "static/js/main.48c1b459.js"
+    "static/js/main.91b68719.js"
   ]
 }
