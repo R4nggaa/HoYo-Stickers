@@ -4,7 +4,7 @@
     "name": "aether1",
     "character": "aether",
     "img": "aether/aether1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -18,7 +18,7 @@
     "name": "aether2",
     "character": "aether",
     "img": "aether/aether2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -32,7 +32,7 @@
     "name": "aether3",
     "character": "aether",
     "img": "aether/aether3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -46,7 +46,7 @@
     "name": "aether4",
     "character": "aether",
     "img": "aether/aether4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -60,7 +60,7 @@
     "name": "aether5",
     "character": "aether",
     "img": "aether/aether5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -74,7 +74,7 @@
     "name": "aether6",
     "character": "aether",
     "img": "aether/aether6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -88,7 +88,7 @@
     "name": "aether7",
     "character": "aether",
     "img": "aether/aether7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -102,7 +102,7 @@
     "name": "aether8",
     "character": "aether",
     "img": "aether/aether8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -116,7 +116,7 @@
     "name": "aether9",
     "character": "aether",
     "img": "aether/aether9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -130,7 +130,7 @@
     "name": "aether10",
     "character": "aether",
     "img": "aether/aether10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -144,7 +144,7 @@
     "name": "aether11",
     "character": "aether",
     "img": "aether/aether11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -158,7 +158,7 @@
     "name": "aether12",
     "character": "aether",
     "img": "aether/aether12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -172,7 +172,7 @@
     "name": "aether13",
     "character": "aether",
     "img": "aether/aether13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -186,7 +186,7 @@
     "name": "aether14",
     "character": "aether",
     "img": "aether/aether14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -200,7 +200,7 @@
     "name": "aether15",
     "character": "aether",
     "img": "aether/aether15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -214,7 +214,7 @@
     "name": "aether16",
     "character": "aether",
     "img": "aether/aether16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -228,7 +228,7 @@
     "name": "albedo1",
     "character": "albedo",
     "img": "albedo/albedo1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -242,7 +242,7 @@
     "name": "albedo2",
     "character": "albedo",
     "img": "albedo/albedo2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -256,7 +256,7 @@
     "name": "albedo3",
     "character": "albedo",
     "img": "albedo/albedo3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -270,7 +270,7 @@
     "name": "albedo4",
     "character": "albedo",
     "img": "albedo/albedo4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -284,7 +284,7 @@
     "name": "albedo5",
     "character": "albedo",
     "img": "albedo/albedo5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -298,7 +298,7 @@
     "name": "albedo6",
     "character": "albedo",
     "img": "albedo/albedo6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -312,7 +312,7 @@
     "name": "albedo7",
     "character": "albedo",
     "img": "albedo/albedo7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -326,7 +326,7 @@
     "name": "albedo8",
     "character": "albedo",
     "img": "albedo/albedo8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -340,7 +340,7 @@
     "name": "albedo9",
     "character": "albedo",
     "img": "albedo/albedo9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -354,7 +354,7 @@
     "name": "albedo10",
     "character": "albedo",
     "img": "albedo/albedo10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -368,7 +368,7 @@
     "name": "albedo11",
     "character": "albedo",
     "img": "albedo/albedo11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -382,7 +382,7 @@
     "name": "alhaitham1",
     "character": "alhaitham",
     "img": "alhaitham/alhaitham1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -396,7 +396,7 @@
     "name": "alhaitham2",
     "character": "alhaitham",
     "img": "alhaitham/alhaitham2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -410,7 +410,7 @@
     "name": "alhaitham3",
     "character": "alhaitham",
     "img": "alhaitham/alhaitham3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -424,7 +424,7 @@
     "name": "alhaitham4",
     "character": "alhaitham",
     "img": "alhaitham/alhaitham4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -438,7 +438,7 @@
     "name": "alice1",
     "character": "alice",
     "img": "alice/alice1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -452,7 +452,7 @@
     "name": "amber1",
     "character": "amber",
     "img": "amber/amber1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -466,7 +466,7 @@
     "name": "amber2",
     "character": "amber",
     "img": "amber/amber2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -480,7 +480,7 @@
     "name": "amber3",
     "character": "amber",
     "img": "amber/amber3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -494,7 +494,7 @@
     "name": "amber4",
     "character": "amber",
     "img": "amber/amber4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -508,7 +508,7 @@
     "name": "amber5",
     "character": "amber",
     "img": "amber/amber5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -522,7 +522,7 @@
     "name": "amber6",
     "character": "amber",
     "img": "amber/amber6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -536,7 +536,7 @@
     "name": "amber7",
     "character": "amber",
     "img": "amber/amber7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -550,7 +550,7 @@
     "name": "amber8",
     "character": "amber",
     "img": "amber/amber8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -564,7 +564,7 @@
     "name": "amber9",
     "character": "amber",
     "img": "amber/amber9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -578,7 +578,7 @@
     "name": "amber10",
     "character": "amber",
     "img": "amber/amber10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -592,7 +592,7 @@
     "name": "arle1",
     "character": "arle",
     "img": "arle/arle1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -606,7 +606,7 @@
     "name": "arle2",
     "character": "arle",
     "img": "arle/arle2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -620,7 +620,7 @@
     "name": "arle3",
     "character": "arle",
     "img": "arle/arle3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -634,7 +634,7 @@
     "name": "arle4",
     "character": "arle",
     "img": "arle/arle4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -648,7 +648,7 @@
     "name": "arle5",
     "character": "arle",
     "img": "arle/arle5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -662,7 +662,7 @@
     "name": "arle6",
     "character": "arle",
     "img": "arle/arle6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -676,7 +676,7 @@
     "name": "ayaka1",
     "character": "ayaka",
     "img": "ayaka/ayaka1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -690,7 +690,7 @@
     "name": "ayaka2",
     "character": "ayaka",
     "img": "ayaka/ayaka2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -704,7 +704,7 @@
     "name": "ayaka3",
     "character": "ayaka",
     "img": "ayaka/ayaka3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -718,7 +718,7 @@
     "name": "ayaka4",
     "character": "ayaka",
     "img": "ayaka/ayaka4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -732,7 +732,7 @@
     "name": "ayaka5",
     "character": "ayaka",
     "img": "ayaka/ayaka5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -746,7 +746,7 @@
     "name": "ayaka6",
     "character": "ayaka",
     "img": "ayaka/ayaka6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -760,7 +760,7 @@
     "name": "ayaka7",
     "character": "ayaka",
     "img": "ayaka/ayaka7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -774,7 +774,7 @@
     "name": "ayaka8",
     "character": "ayaka",
     "img": "ayaka/ayaka8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -788,7 +788,7 @@
     "name": "ayaka9",
     "character": "ayaka",
     "img": "ayaka/ayaka9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -802,7 +802,7 @@
     "name": "ayaka10",
     "character": "ayaka",
     "img": "ayaka/ayaka10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -816,7 +816,7 @@
     "name": "ayaka11",
     "character": "ayaka",
     "img": "ayaka/ayaka11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -830,7 +830,7 @@
     "name": "ayaka12",
     "character": "ayaka",
     "img": "ayaka/ayaka12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -844,7 +844,7 @@
     "name": "ayaka13",
     "character": "ayaka",
     "img": "ayaka/ayaka13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -858,7 +858,7 @@
     "name": "ayaka14",
     "character": "ayaka",
     "img": "ayaka/ayaka14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -872,7 +872,7 @@
     "name": "ayaka15",
     "character": "ayaka",
     "img": "ayaka/ayaka15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -886,7 +886,7 @@
     "name": "ayaka16",
     "character": "ayaka",
     "img": "ayaka/ayaka16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -900,7 +900,7 @@
     "name": "ayaka17",
     "character": "ayaka",
     "img": "ayaka/ayaka17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -914,7 +914,7 @@
     "name": "ayato1",
     "character": "ayato",
     "img": "ayato/ayato1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -928,7 +928,7 @@
     "name": "ayato2",
     "character": "ayato",
     "img": "ayato/ayato2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -942,7 +942,7 @@
     "name": "ayato3",
     "character": "ayato",
     "img": "ayato/ayato3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -956,7 +956,7 @@
     "name": "ayato4",
     "character": "ayato",
     "img": "ayato/ayato4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -970,7 +970,7 @@
     "name": "ayato5",
     "character": "ayato",
     "img": "ayato/ayato5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -984,7 +984,7 @@
     "name": "ayato6",
     "character": "ayato",
     "img": "ayato/ayato6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -998,7 +998,7 @@
     "name": "ayato7",
     "character": "ayato",
     "img": "ayato/ayato7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1012,7 +1012,7 @@
     "name": "ayato8",
     "character": "ayato",
     "img": "ayato/ayato8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1026,7 +1026,7 @@
     "name": "ayato9",
     "character": "ayato",
     "img": "ayato/ayato9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1040,7 +1040,7 @@
     "name": "ayato10",
     "character": "ayato",
     "img": "ayato/ayato10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1054,7 +1054,7 @@
     "name": "ayato11",
     "character": "ayato",
     "img": "ayato/ayato11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1068,7 +1068,7 @@
     "name": "azhdaha1",
     "character": "azhdaha",
     "img": "azhdaha/azhdaha1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1082,7 +1082,7 @@
     "name": "azhdaha2",
     "character": "azhdaha",
     "img": "azhdaha/azhdaha2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1096,7 +1096,7 @@
     "name": "azhdaha3",
     "character": "azhdaha",
     "img": "azhdaha/azhdaha3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1110,7 +1110,7 @@
     "name": "azhdaha4",
     "character": "azhdaha",
     "img": "azhdaha/azhdaha4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1124,7 +1124,7 @@
     "name": "azhdaha5",
     "character": "azhdaha",
     "img": "azhdaha/azhdaha5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1138,7 +1138,7 @@
     "name": "baizhu1",
     "character": "baizhu",
     "img": "baizhu/baizhu1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1152,7 +1152,7 @@
     "name": "baizhu2",
     "character": "baizhu",
     "img": "baizhu/baizhu2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1166,7 +1166,7 @@
     "name": "baizhu3",
     "character": "baizhu",
     "img": "baizhu/baizhu3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1180,7 +1180,7 @@
     "name": "baizhu4",
     "character": "baizhu",
     "img": "baizhu/baizhu4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1194,7 +1194,7 @@
     "name": "barbara1",
     "character": "barbara",
     "img": "barbara/barbara1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1208,7 +1208,7 @@
     "name": "barbara2",
     "character": "barbara",
     "img": "barbara/barbara2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1222,7 +1222,7 @@
     "name": "barbara3",
     "character": "barbara",
     "img": "barbara/barbara3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1236,7 +1236,7 @@
     "name": "barbara4",
     "character": "barbara",
     "img": "barbara/barbara4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1250,7 +1250,7 @@
     "name": "beidou1",
     "character": "beidou",
     "img": "beidou/beidou1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1264,7 +1264,7 @@
     "name": "beidou2",
     "character": "beidou",
     "img": "beidou/beidou2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1278,7 +1278,7 @@
     "name": "bennett1",
     "character": "bennett",
     "img": "bennett/bennett1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1292,7 +1292,7 @@
     "name": "bennett2",
     "character": "bennett",
     "img": "bennett/bennett2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1306,7 +1306,7 @@
     "name": "candace1",
     "character": "candace",
     "img": "candace/candace1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1320,7 +1320,7 @@
     "name": "candace2",
     "character": "candace",
     "img": "candace/candace2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1334,7 +1334,7 @@
     "name": "candace3",
     "character": "candace",
     "img": "candace/candace3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1348,7 +1348,7 @@
     "name": "candace4",
     "character": "candace",
     "img": "candace/candace4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1362,7 +1362,7 @@
     "name": "candace5",
     "character": "candace",
     "img": "candace/candace5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1376,7 +1376,7 @@
     "name": "charlotte1",
     "character": "charlotte",
     "img": "charlotte/charlotte1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1390,7 +1390,7 @@
     "name": "charlotte2",
     "character": "charlotte",
     "img": "charlotte/charlotte2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1404,7 +1404,7 @@
     "name": "charlotte3",
     "character": "charlotte",
     "img": "charlotte/charlotte3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1418,7 +1418,7 @@
     "name": "charlotte4",
     "character": "charlotte",
     "img": "charlotte/charlotte4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1432,7 +1432,7 @@
     "name": "charlotte5",
     "character": "charlotte",
     "img": "charlotte/charlotte5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1446,7 +1446,7 @@
     "name": "charlotte6",
     "character": "charlotte",
     "img": "charlotte/charlotte6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1460,7 +1460,7 @@
     "name": "chasca1",
     "character": "chasca",
     "img": "chasca/chasca1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1474,7 +1474,7 @@
     "name": "chasca2",
     "character": "chasca",
     "img": "chasca/chasca2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1488,7 +1488,7 @@
     "name": "chasca3",
     "character": "chasca",
     "img": "chasca/chasca3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1502,7 +1502,7 @@
     "name": "chasca4",
     "character": "chasca",
     "img": "chasca/chasca4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1516,7 +1516,7 @@
     "name": "chasca5",
     "character": "chasca",
     "img": "chasca/chasca5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1530,7 +1530,7 @@
     "name": "chasca6",
     "character": "chasca",
     "img": "chasca/chasca6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1544,7 +1544,7 @@
     "name": "chevreuse1",
     "character": "chevreuse",
     "img": "chevreuse/chevreuse1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1558,7 +1558,7 @@
     "name": "chevreuse2",
     "character": "chevreuse",
     "img": "chevreuse/chevreuse2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1572,7 +1572,7 @@
     "name": "chevreuse3",
     "character": "chevreuse",
     "img": "chevreuse/chevreuse3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1586,7 +1586,7 @@
     "name": "chevreuse4",
     "character": "chevreuse",
     "img": "chevreuse/chevreuse4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1600,7 +1600,7 @@
     "name": "chevreuse5",
     "character": "chevreuse",
     "img": "chevreuse/chevreuse5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1614,7 +1614,7 @@
     "name": "childe1",
     "character": "childe",
     "img": "childe/childe1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1628,7 +1628,7 @@
     "name": "childe2",
     "character": "childe",
     "img": "childe/childe2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1642,7 +1642,7 @@
     "name": "childe3",
     "character": "childe",
     "img": "childe/childe3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1656,7 +1656,7 @@
     "name": "childe4",
     "character": "childe",
     "img": "childe/childe4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1670,7 +1670,7 @@
     "name": "childe5",
     "character": "childe",
     "img": "childe/childe5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1684,7 +1684,7 @@
     "name": "childe6",
     "character": "childe",
     "img": "childe/childe6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1698,7 +1698,7 @@
     "name": "childe7",
     "character": "childe",
     "img": "childe/childe7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1712,7 +1712,7 @@
     "name": "childe8",
     "character": "childe",
     "img": "childe/childe8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1726,7 +1726,7 @@
     "name": "childe9",
     "character": "childe",
     "img": "childe/childe9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1740,7 +1740,7 @@
     "name": "childe10",
     "character": "childe",
     "img": "childe/childe10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1754,7 +1754,7 @@
     "name": "childe11",
     "character": "childe",
     "img": "childe/childe11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1768,7 +1768,7 @@
     "name": "childe12",
     "character": "childe",
     "img": "childe/childe12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1782,7 +1782,7 @@
     "name": "childe13",
     "character": "childe",
     "img": "childe/childe13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1796,7 +1796,7 @@
     "name": "childe14",
     "character": "childe",
     "img": "childe/childe14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1810,7 +1810,7 @@
     "name": "childe15",
     "character": "childe",
     "img": "childe/childe15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1824,7 +1824,7 @@
     "name": "childe16",
     "character": "childe",
     "img": "childe/childe16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1838,7 +1838,7 @@
     "name": "chiori1",
     "character": "chiori",
     "img": "chiori/chiori1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1852,7 +1852,7 @@
     "name": "chiori2",
     "character": "chiori",
     "img": "chiori/chiori2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1866,7 +1866,7 @@
     "name": "chiori3",
     "character": "chiori",
     "img": "chiori/chiori3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1880,7 +1880,7 @@
     "name": "chiori4",
     "character": "chiori",
     "img": "chiori/chiori4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1894,7 +1894,7 @@
     "name": "chongyun1",
     "character": "chongyun",
     "img": "chongyun/chongyun1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1908,7 +1908,7 @@
     "name": "chongyun2",
     "character": "chongyun",
     "img": "chongyun/chongyun2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1922,7 +1922,7 @@
     "name": "chongyun3",
     "character": "chongyun",
     "img": "chongyun/chongyun3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1936,7 +1936,7 @@
     "name": "chongyun4",
     "character": "chongyun",
     "img": "chongyun/chongyun4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1950,7 +1950,7 @@
     "name": "citlali1",
     "character": "citlali",
     "img": "citlali/citlali1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1964,7 +1964,7 @@
     "name": "citlali2",
     "character": "citlali",
     "img": "citlali/citlali2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1978,7 +1978,7 @@
     "name": "citlali3",
     "character": "citlali",
     "img": "citlali/citlali3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1992,7 +1992,7 @@
     "name": "citlali4",
     "character": "citlali",
     "img": "citlali/citlali4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2006,7 +2006,7 @@
     "name": "citlali5",
     "character": "citlali",
     "img": "citlali/citlali5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2020,7 +2020,7 @@
     "name": "citlali6",
     "character": "citlali",
     "img": "citlali/citlali6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2034,7 +2034,7 @@
     "name": "citlali7",
     "character": "citlali",
     "img": "citlali/citlali7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2048,7 +2048,7 @@
     "name": "citlali8",
     "character": "citlali",
     "img": "citlali/citlali8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2062,7 +2062,7 @@
     "name": "clorinde1",
     "character": "clorinde",
     "img": "clorinde/clorinde1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2076,7 +2076,7 @@
     "name": "clorinde2",
     "character": "clorinde",
     "img": "clorinde/clorinde2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2090,7 +2090,7 @@
     "name": "clorinde3",
     "character": "clorinde",
     "img": "clorinde/clorinde3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2104,7 +2104,7 @@
     "name": "clorinde4",
     "character": "clorinde",
     "img": "clorinde/clorinde4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2118,7 +2118,7 @@
     "name": "clorinde5",
     "character": "clorinde",
     "img": "clorinde/clorinde5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2132,7 +2132,7 @@
     "name": "collei1",
     "character": "collei",
     "img": "collei/collei1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2146,7 +2146,7 @@
     "name": "collei2",
     "character": "collei",
     "img": "collei/collei2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2160,7 +2160,7 @@
     "name": "collei3",
     "character": "collei",
     "img": "collei/collei3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2174,7 +2174,7 @@
     "name": "collei4",
     "character": "collei",
     "img": "collei/collei4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2188,7 +2188,7 @@
     "name": "collei5",
     "character": "collei",
     "img": "collei/collei5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2202,7 +2202,7 @@
     "name": "collei6",
     "character": "collei",
     "img": "collei/collei6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2216,7 +2216,7 @@
     "name": "collei7",
     "character": "collei",
     "img": "collei/collei7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2230,7 +2230,7 @@
     "name": "collei8",
     "character": "collei",
     "img": "collei/collei8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2244,7 +2244,7 @@
     "name": "collei9",
     "character": "collei",
     "img": "collei/collei9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2258,7 +2258,7 @@
     "name": "collei10",
     "character": "collei",
     "img": "collei/collei10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2272,7 +2272,7 @@
     "name": "collei11",
     "character": "collei",
     "img": "collei/collei11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2286,7 +2286,7 @@
     "name": "collei12",
     "character": "collei",
     "img": "collei/collei12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2300,7 +2300,7 @@
     "name": "collei13",
     "character": "collei",
     "img": "collei/collei13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2314,7 +2314,7 @@
     "name": "collei14",
     "character": "collei",
     "img": "collei/collei14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2328,7 +2328,7 @@
     "name": "collei15",
     "character": "collei",
     "img": "collei/collei15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2342,7 +2342,7 @@
     "name": "collei16",
     "character": "collei",
     "img": "collei/collei16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2356,7 +2356,7 @@
     "name": "collei17",
     "character": "collei",
     "img": "collei/collei17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2370,7 +2370,7 @@
     "name": "collei18",
     "character": "collei",
     "img": "collei/collei18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2384,7 +2384,7 @@
     "name": "cyno1",
     "character": "cyno",
     "img": "cyno/cyno1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2398,7 +2398,7 @@
     "name": "cyno2",
     "character": "cyno",
     "img": "cyno/cyno2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2412,7 +2412,7 @@
     "name": "cyno3",
     "character": "cyno",
     "img": "cyno/cyno3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2426,7 +2426,7 @@
     "name": "cyno4",
     "character": "cyno",
     "img": "cyno/cyno4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2440,7 +2440,7 @@
     "name": "cyno5",
     "character": "cyno",
     "img": "cyno/cyno5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2454,7 +2454,7 @@
     "name": "cyno6",
     "character": "cyno",
     "img": "cyno/cyno6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2468,7 +2468,7 @@
     "name": "cyno7",
     "character": "cyno",
     "img": "cyno/cyno7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2482,7 +2482,7 @@
     "name": "cyno8",
     "character": "cyno",
     "img": "cyno/cyno8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2496,7 +2496,7 @@
     "name": "cyno9",
     "character": "cyno",
     "img": "cyno/cyno9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2510,7 +2510,7 @@
     "name": "cyno10",
     "character": "cyno",
     "img": "cyno/cyno10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2524,7 +2524,7 @@
     "name": "dainsleif1",
     "character": "dainsleif",
     "img": "dainsleif/dainsleif1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2538,7 +2538,7 @@
     "name": "dainsleif2",
     "character": "dainsleif",
     "img": "dainsleif/dainsleif2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2552,7 +2552,7 @@
     "name": "dehya1",
     "character": "dehya",
     "img": "dehya/dehya1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2566,7 +2566,7 @@
     "name": "dehya2",
     "character": "dehya",
     "img": "dehya/dehya2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2580,7 +2580,7 @@
     "name": "dehya3",
     "character": "dehya",
     "img": "dehya/dehya3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2594,7 +2594,7 @@
     "name": "dehya4",
     "character": "dehya",
     "img": "dehya/dehya4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2608,7 +2608,7 @@
     "name": "diluc1",
     "character": "diluc",
     "img": "diluc/diluc1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2622,7 +2622,7 @@
     "name": "diluc2",
     "character": "diluc",
     "img": "diluc/diluc2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2636,7 +2636,7 @@
     "name": "diona1",
     "character": "diona",
     "img": "diona/diona1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2650,7 +2650,7 @@
     "name": "diona2",
     "character": "diona",
     "img": "diona/diona2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2664,7 +2664,7 @@
     "name": "diona3",
     "character": "diona",
     "img": "diona/diona3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2678,7 +2678,7 @@
     "name": "diona4",
     "character": "diona",
     "img": "diona/diona4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2692,7 +2692,7 @@
     "name": "diona5",
     "character": "diona",
     "img": "diona/diona5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2706,7 +2706,7 @@
     "name": "diona6",
     "character": "diona",
     "img": "diona/diona6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2720,7 +2720,7 @@
     "name": "diona7",
     "character": "diona",
     "img": "diona/diona7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2734,7 +2734,7 @@
     "name": "dog1",
     "character": "dog",
     "img": "dog/dog1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2748,7 +2748,7 @@
     "name": "dog2",
     "character": "dog",
     "img": "dog/dog2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2762,7 +2762,7 @@
     "name": "dog3",
     "character": "dog",
     "img": "dog/dog3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2776,7 +2776,7 @@
     "name": "dog4",
     "character": "dog",
     "img": "dog/dog4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2790,7 +2790,7 @@
     "name": "dog5",
     "character": "dog",
     "img": "dog/dog5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2804,7 +2804,7 @@
     "name": "dori1",
     "character": "dori",
     "img": "dori/dori1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2818,7 +2818,7 @@
     "name": "dori2",
     "character": "dori",
     "img": "dori/dori2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2832,7 +2832,7 @@
     "name": "dori3",
     "character": "dori",
     "img": "dori/dori3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2846,7 +2846,7 @@
     "name": "dori4",
     "character": "dori",
     "img": "dori/dori4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2860,7 +2860,7 @@
     "name": "emilie1",
     "character": "emilie",
     "img": "emilie/emilie1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2874,7 +2874,7 @@
     "name": "emilie2",
     "character": "emilie",
     "img": "emilie/emilie2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2888,7 +2888,7 @@
     "name": "emilie3",
     "character": "emilie",
     "img": "emilie/emilie3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2902,7 +2902,7 @@
     "name": "emilie4",
     "character": "emilie",
     "img": "emilie/emilie4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2916,7 +2916,7 @@
     "name": "escoffier1",
     "character": "escoffier",
     "img": "escoffier/escoffier1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2930,7 +2930,7 @@
     "name": "escoffier2",
     "character": "escoffier",
     "img": "escoffier/escoffier2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2944,7 +2944,7 @@
     "name": "escoffier3",
     "character": "escoffier",
     "img": "escoffier/escoffier3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2958,7 +2958,7 @@
     "name": "escoffier4",
     "character": "escoffier",
     "img": "escoffier/escoffier4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2972,7 +2972,7 @@
     "name": "escoffier5",
     "character": "escoffier",
     "img": "escoffier/escoffier5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2986,7 +2986,7 @@
     "name": "escoffier6",
     "character": "escoffier",
     "img": "escoffier/escoffier6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3000,7 +3000,7 @@
     "name": "escoffier7",
     "character": "escoffier",
     "img": "escoffier/escoffier7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3014,7 +3014,7 @@
     "name": "escoffier8",
     "character": "escoffier",
     "img": "escoffier/escoffier8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3028,7 +3028,7 @@
     "name": "escoffier9",
     "character": "escoffier",
     "img": "escoffier/escoffier9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3042,7 +3042,7 @@
     "name": "escoffier10",
     "character": "escoffier",
     "img": "escoffier/escoffier10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3056,7 +3056,7 @@
     "name": "escoffier11",
     "character": "escoffier",
     "img": "escoffier/escoffier11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3070,7 +3070,7 @@
     "name": "escoffier12",
     "character": "escoffier",
     "img": "escoffier/escoffier12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3084,7 +3084,7 @@
     "name": "escoffier13",
     "character": "escoffier",
     "img": "escoffier/escoffier13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3098,7 +3098,7 @@
     "name": "escoffier14",
     "character": "escoffier",
     "img": "escoffier/escoffier14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3112,7 +3112,7 @@
     "name": "escoffier15",
     "character": "escoffier",
     "img": "escoffier/escoffier15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3126,7 +3126,7 @@
     "name": "escoffier16",
     "character": "escoffier",
     "img": "escoffier/escoffier16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3140,7 +3140,7 @@
     "name": "escoffier17",
     "character": "escoffier",
     "img": "escoffier/escoffier17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3154,7 +3154,7 @@
     "name": "escoffier18",
     "character": "escoffier",
     "img": "escoffier/escoffier18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3168,7 +3168,7 @@
     "name": "eula1",
     "character": "eula",
     "img": "eula/eula1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3182,7 +3182,7 @@
     "name": "eula2",
     "character": "eula",
     "img": "eula/eula2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3196,7 +3196,7 @@
     "name": "eula3",
     "character": "eula",
     "img": "eula/eula3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3210,7 +3210,7 @@
     "name": "eula4",
     "character": "eula",
     "img": "eula/eula4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3224,7 +3224,7 @@
     "name": "eula5",
     "character": "eula",
     "img": "eula/eula5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3238,7 +3238,7 @@
     "name": "eula6",
     "character": "eula",
     "img": "eula/eula6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3252,7 +3252,7 @@
     "name": "eula7",
     "character": "eula",
     "img": "eula/eula7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3266,7 +3266,7 @@
     "name": "eula8",
     "character": "eula",
     "img": "eula/eula8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3280,7 +3280,7 @@
     "name": "eula9",
     "character": "eula",
     "img": "eula/eula9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3294,7 +3294,7 @@
     "name": "eula10",
     "character": "eula",
     "img": "eula/eula10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3308,7 +3308,7 @@
     "name": "eula11",
     "character": "eula",
     "img": "eula/eula11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3322,7 +3322,7 @@
     "name": "eula12",
     "character": "eula",
     "img": "eula/eula12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3336,7 +3336,7 @@
     "name": "eula13",
     "character": "eula",
     "img": "eula/eula13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3350,7 +3350,7 @@
     "name": "eula14",
     "character": "eula",
     "img": "eula/eula14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3364,7 +3364,7 @@
     "name": "eula15",
     "character": "eula",
     "img": "eula/eula15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3378,7 +3378,7 @@
     "name": "eula16",
     "character": "eula",
     "img": "eula/eula16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3392,7 +3392,7 @@
     "name": "eula17",
     "character": "eula",
     "img": "eula/eula17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3406,7 +3406,7 @@
     "name": "eula18",
     "character": "eula",
     "img": "eula/eula18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3420,7 +3420,7 @@
     "name": "faruzan1",
     "character": "faruzan",
     "img": "faruzan/faruzan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3434,7 +3434,7 @@
     "name": "faruzan2",
     "character": "faruzan",
     "img": "faruzan/faruzan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3448,7 +3448,7 @@
     "name": "faruzan3",
     "character": "faruzan",
     "img": "faruzan/faruzan3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3462,7 +3462,7 @@
     "name": "faruzan4",
     "character": "faruzan",
     "img": "faruzan/faruzan4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3476,7 +3476,7 @@
     "name": "faruzan5",
     "character": "faruzan",
     "img": "faruzan/faruzan5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3490,7 +3490,7 @@
     "name": "faruzan6",
     "character": "faruzan",
     "img": "faruzan/faruzan6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3504,7 +3504,7 @@
     "name": "fischl1",
     "character": "fischl",
     "img": "fischl/fischl1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3518,7 +3518,7 @@
     "name": "fischl2",
     "character": "fischl",
     "img": "fischl/fischl2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3532,7 +3532,7 @@
     "name": "fischl3",
     "character": "fischl",
     "img": "fischl/fischl3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3546,7 +3546,7 @@
     "name": "fischl4",
     "character": "fischl",
     "img": "fischl/fischl4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3560,7 +3560,7 @@
     "name": "fischl5",
     "character": "fischl",
     "img": "fischl/fischl5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3574,7 +3574,7 @@
     "name": "freminet1",
     "character": "freminet",
     "img": "freminet/freminet1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3588,7 +3588,7 @@
     "name": "freminet2",
     "character": "freminet",
     "img": "freminet/freminet2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3602,7 +3602,7 @@
     "name": "freminet3",
     "character": "freminet",
     "img": "freminet/freminet3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3616,7 +3616,7 @@
     "name": "freminet4",
     "character": "freminet",
     "img": "freminet/freminet4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3630,7 +3630,7 @@
     "name": "freminet5",
     "character": "freminet",
     "img": "freminet/freminet5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3644,7 +3644,7 @@
     "name": "freminet6",
     "character": "freminet",
     "img": "freminet/freminet6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3658,7 +3658,7 @@
     "name": "freminet7",
     "character": "freminet",
     "img": "freminet/freminet7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3672,7 +3672,7 @@
     "name": "fungi1",
     "character": "fungi",
     "img": "fungi/fungi1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3686,7 +3686,7 @@
     "name": "fungi2",
     "character": "fungi",
     "img": "fungi/fungi2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3700,7 +3700,7 @@
     "name": "fungi3",
     "character": "fungi",
     "img": "fungi/fungi3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3714,7 +3714,7 @@
     "name": "fungi4",
     "character": "fungi",
     "img": "fungi/fungi4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3728,7 +3728,7 @@
     "name": "fungi5",
     "character": "fungi",
     "img": "fungi/fungi5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3742,7 +3742,7 @@
     "name": "fungi6",
     "character": "fungi",
     "img": "fungi/fungi6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3756,7 +3756,7 @@
     "name": "furina1",
     "character": "furina",
     "img": "furina/furina1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3770,7 +3770,7 @@
     "name": "furina2",
     "character": "furina",
     "img": "furina/furina2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3784,7 +3784,7 @@
     "name": "furina3",
     "character": "furina",
     "img": "furina/furina3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3798,7 +3798,7 @@
     "name": "furina4",
     "character": "furina",
     "img": "furina/furina4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3812,7 +3812,7 @@
     "name": "furina5",
     "character": "furina",
     "img": "furina/furina5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3826,7 +3826,7 @@
     "name": "furina6",
     "character": "furina",
     "img": "furina/furina6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3840,7 +3840,7 @@
     "name": "furina7",
     "character": "furina",
     "img": "furina/furina7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3854,7 +3854,7 @@
     "name": "gaming1",
     "character": "gaming",
     "img": "gaming/gaming1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3868,7 +3868,7 @@
     "name": "gaming2",
     "character": "gaming",
     "img": "gaming/gaming2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3882,7 +3882,7 @@
     "name": "gaming3",
     "character": "gaming",
     "img": "gaming/gaming3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3896,7 +3896,7 @@
     "name": "gaming4",
     "character": "gaming",
     "img": "gaming/gaming4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3910,7 +3910,7 @@
     "name": "gaming5",
     "character": "gaming",
     "img": "gaming/gaming5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3924,7 +3924,7 @@
     "name": "gaming6",
     "character": "gaming",
     "img": "gaming/gaming6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3938,7 +3938,7 @@
     "name": "gaming7",
     "character": "gaming",
     "img": "gaming/gaming7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3952,7 +3952,7 @@
     "name": "ganyu1",
     "character": "ganyu",
     "img": "ganyu/ganyu1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3966,7 +3966,7 @@
     "name": "ganyu2",
     "character": "ganyu",
     "img": "ganyu/ganyu2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3980,7 +3980,7 @@
     "name": "ganyu3",
     "character": "ganyu",
     "img": "ganyu/ganyu3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3994,7 +3994,7 @@
     "name": "ganyu4",
     "character": "ganyu",
     "img": "ganyu/ganyu4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4008,7 +4008,7 @@
     "name": "ganyu5",
     "character": "ganyu",
     "img": "ganyu/ganyu5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4022,7 +4022,7 @@
     "name": "ganyu6",
     "character": "ganyu",
     "img": "ganyu/ganyu6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4036,7 +4036,7 @@
     "name": "ganyu7",
     "character": "ganyu",
     "img": "ganyu/ganyu7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4050,7 +4050,7 @@
     "name": "ganyu8",
     "character": "ganyu",
     "img": "ganyu/ganyu8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4064,7 +4064,7 @@
     "name": "ganyu9",
     "character": "ganyu",
     "img": "ganyu/ganyu9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4078,7 +4078,7 @@
     "name": "ganyu10",
     "character": "ganyu",
     "img": "ganyu/ganyu10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4092,7 +4092,7 @@
     "name": "gorou1",
     "character": "gorou",
     "img": "gorou/gorou1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4106,7 +4106,7 @@
     "name": "gorou2",
     "character": "gorou",
     "img": "gorou/gorou2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4120,7 +4120,7 @@
     "name": "gorou3",
     "character": "gorou",
     "img": "gorou/gorou3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4134,7 +4134,7 @@
     "name": "gorou4",
     "character": "gorou",
     "img": "gorou/gorou4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4148,7 +4148,7 @@
     "name": "gorou5",
     "character": "gorou",
     "img": "gorou/gorou5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4162,7 +4162,7 @@
     "name": "heizou1",
     "character": "heizou",
     "img": "heizou/heizou1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4176,7 +4176,7 @@
     "name": "heizou2",
     "character": "heizou",
     "img": "heizou/heizou2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4190,7 +4190,7 @@
     "name": "heizou3",
     "character": "heizou",
     "img": "heizou/heizou3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4204,7 +4204,7 @@
     "name": "heizou4",
     "character": "heizou",
     "img": "heizou/heizou4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4218,7 +4218,7 @@
     "name": "hilichurl1",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4232,7 +4232,7 @@
     "name": "hilichurl2",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4246,7 +4246,7 @@
     "name": "hilichurl3",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4260,7 +4260,7 @@
     "name": "hilichurl4",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4274,7 +4274,7 @@
     "name": "hilichurl5",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4288,7 +4288,7 @@
     "name": "hilichurl6",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4302,7 +4302,7 @@
     "name": "hilichurl7",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4316,7 +4316,7 @@
     "name": "hilichurl8",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4330,7 +4330,7 @@
     "name": "hilichurl9",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4344,7 +4344,7 @@
     "name": "hilichurl10",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4358,7 +4358,7 @@
     "name": "hilichurl11",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4372,7 +4372,7 @@
     "name": "hilichurl12",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4386,7 +4386,7 @@
     "name": "hilichurl13",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4400,7 +4400,7 @@
     "name": "hilichurl14",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4414,7 +4414,7 @@
     "name": "hilichurl15",
     "character": "hilichurl",
     "img": "hilichurl/hilichurl15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4428,7 +4428,7 @@
     "name": "hutao1",
     "character": "hutao",
     "img": "hutao/hutao1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4442,7 +4442,7 @@
     "name": "hutao2",
     "character": "hutao",
     "img": "hutao/hutao2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4456,7 +4456,7 @@
     "name": "hutao3",
     "character": "hutao",
     "img": "hutao/hutao3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4470,7 +4470,7 @@
     "name": "hutao4",
     "character": "hutao",
     "img": "hutao/hutao4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4484,7 +4484,7 @@
     "name": "hutao5",
     "character": "hutao",
     "img": "hutao/hutao5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4498,7 +4498,7 @@
     "name": "hutao6",
     "character": "hutao",
     "img": "hutao/hutao6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4512,7 +4512,7 @@
     "name": "hutao7",
     "character": "hutao",
     "img": "hutao/hutao7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4526,7 +4526,7 @@
     "name": "hutao8",
     "character": "hutao",
     "img": "hutao/hutao8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4540,7 +4540,7 @@
     "name": "hutao9",
     "character": "hutao",
     "img": "hutao/hutao9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4554,7 +4554,7 @@
     "name": "hutao10",
     "character": "hutao",
     "img": "hutao/hutao10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4568,7 +4568,7 @@
     "name": "hutao11",
     "character": "hutao",
     "img": "hutao/hutao11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4582,7 +4582,7 @@
     "name": "hutao12",
     "character": "hutao",
     "img": "hutao/hutao12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4596,7 +4596,7 @@
     "name": "hutao13",
     "character": "hutao",
     "img": "hutao/hutao13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4610,7 +4610,7 @@
     "name": "hutao14",
     "character": "hutao",
     "img": "hutao/hutao14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4624,7 +4624,7 @@
     "name": "hutao15",
     "character": "hutao",
     "img": "hutao/hutao15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4638,7 +4638,7 @@
     "name": "hutao16",
     "character": "hutao",
     "img": "hutao/hutao16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4652,7 +4652,7 @@
     "name": "hutao17",
     "character": "hutao",
     "img": "hutao/hutao17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4666,7 +4666,7 @@
     "name": "hutao18",
     "character": "hutao",
     "img": "hutao/hutao18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4680,7 +4680,7 @@
     "name": "hutao19",
     "character": "hutao",
     "img": "hutao/hutao19.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4694,7 +4694,7 @@
     "name": "hutao20",
     "character": "hutao",
     "img": "hutao/hutao20.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4708,7 +4708,7 @@
     "name": "hutao21",
     "character": "hutao",
     "img": "hutao/hutao21.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4722,7 +4722,7 @@
     "name": "hutao22",
     "character": "hutao",
     "img": "hutao/hutao22.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4736,7 +4736,7 @@
     "name": "hutao23",
     "character": "hutao",
     "img": "hutao/hutao23.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4750,7 +4750,7 @@
     "name": "hutao24",
     "character": "hutao",
     "img": "hutao/hutao24.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4764,7 +4764,7 @@
     "name": "hutao25",
     "character": "hutao",
     "img": "hutao/hutao25.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4778,7 +4778,7 @@
     "name": "hutao26",
     "character": "hutao",
     "img": "hutao/hutao26.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4792,7 +4792,7 @@
     "name": "hutao27",
     "character": "hutao",
     "img": "hutao/hutao27.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4806,7 +4806,7 @@
     "name": "hutao28",
     "character": "hutao",
     "img": "hutao/hutao28.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4820,7 +4820,7 @@
     "name": "hutao29",
     "character": "hutao",
     "img": "hutao/hutao29.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4834,7 +4834,7 @@
     "name": "iansan1",
     "character": "iansan",
     "img": "iansan/iansan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4848,7 +4848,7 @@
     "name": "iansan2",
     "character": "iansan",
     "img": "iansan/iansan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4862,7 +4862,7 @@
     "name": "iansan3",
     "character": "iansan",
     "img": "iansan/iansan3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4876,7 +4876,7 @@
     "name": "iansan4",
     "character": "iansan",
     "img": "iansan/iansan4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4890,7 +4890,7 @@
     "name": "iansan5",
     "character": "iansan",
     "img": "iansan/iansan5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4904,7 +4904,7 @@
     "name": "iansan6",
     "character": "iansan",
     "img": "iansan/iansan6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4918,7 +4918,7 @@
     "name": "ifa1",
     "character": "ifa",
     "img": "ifa/ifa1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4932,7 +4932,7 @@
     "name": "ifa2",
     "character": "ifa",
     "img": "ifa/ifa2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4946,7 +4946,7 @@
     "name": "ifa3",
     "character": "ifa",
     "img": "ifa/ifa3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4960,7 +4960,7 @@
     "name": "ifa4",
     "character": "ifa",
     "img": "ifa/ifa4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4974,7 +4974,7 @@
     "name": "ifa5",
     "character": "ifa",
     "img": "ifa/ifa5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4988,7 +4988,7 @@
     "name": "ilcapitano1",
     "character": "ilcapitano",
     "img": "ilcapitano/ilcapitano1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5002,7 +5002,7 @@
     "name": "itto1",
     "character": "itto",
     "img": "itto/itto1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5016,7 +5016,7 @@
     "name": "itto2",
     "character": "itto",
     "img": "itto/itto2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5030,7 +5030,7 @@
     "name": "itto3",
     "character": "itto",
     "img": "itto/itto3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5044,7 +5044,7 @@
     "name": "itto4",
     "character": "itto",
     "img": "itto/itto4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5058,7 +5058,7 @@
     "name": "itto5",
     "character": "itto",
     "img": "itto/itto5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5072,7 +5072,7 @@
     "name": "itto6",
     "character": "itto",
     "img": "itto/itto6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5086,7 +5086,7 @@
     "name": "itto7",
     "character": "itto",
     "img": "itto/itto7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5100,7 +5100,7 @@
     "name": "itto8",
     "character": "itto",
     "img": "itto/itto8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5114,7 +5114,7 @@
     "name": "itto9",
     "character": "itto",
     "img": "itto/itto9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5128,7 +5128,7 @@
     "name": "itto10",
     "character": "itto",
     "img": "itto/itto10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5142,7 +5142,7 @@
     "name": "jean1",
     "character": "jean",
     "img": "jean/jean1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5156,7 +5156,7 @@
     "name": "jean2",
     "character": "jean",
     "img": "jean/jean2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5170,7 +5170,7 @@
     "name": "jean3",
     "character": "jean",
     "img": "jean/jean3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5184,7 +5184,7 @@
     "name": "jean4",
     "character": "jean",
     "img": "jean/jean4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5198,7 +5198,7 @@
     "name": "jean5",
     "character": "jean",
     "img": "jean/jean5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5212,7 +5212,7 @@
     "name": "jean6",
     "character": "jean",
     "img": "jean/jean6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5226,7 +5226,7 @@
     "name": "jean7",
     "character": "jean",
     "img": "jean/jean7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5240,7 +5240,7 @@
     "name": "jean8",
     "character": "jean",
     "img": "jean/jean8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5254,7 +5254,7 @@
     "name": "kachina1",
     "character": "kachina",
     "img": "kachina/kachina1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5268,7 +5268,7 @@
     "name": "kachina2",
     "character": "kachina",
     "img": "kachina/kachina2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5282,7 +5282,7 @@
     "name": "kachina3",
     "character": "kachina",
     "img": "kachina/kachina3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5296,7 +5296,7 @@
     "name": "kachina4",
     "character": "kachina",
     "img": "kachina/kachina4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5310,7 +5310,7 @@
     "name": "kachina5",
     "character": "kachina",
     "img": "kachina/kachina5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5324,7 +5324,7 @@
     "name": "kaeya1",
     "character": "kaeya",
     "img": "kaeya/kaeya1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5338,7 +5338,7 @@
     "name": "kaeya2",
     "character": "kaeya",
     "img": "kaeya/kaeya2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5352,7 +5352,7 @@
     "name": "kaeya3",
     "character": "kaeya",
     "img": "kaeya/kaeya3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5366,7 +5366,7 @@
     "name": "kaeya4",
     "character": "kaeya",
     "img": "kaeya/kaeya4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5380,7 +5380,7 @@
     "name": "kaeya5",
     "character": "kaeya",
     "img": "kaeya/kaeya5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5394,7 +5394,7 @@
     "name": "kaeya6",
     "character": "kaeya",
     "img": "kaeya/kaeya6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5408,7 +5408,7 @@
     "name": "kaveh1",
     "character": "kaveh",
     "img": "kaveh/kaveh1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5422,7 +5422,7 @@
     "name": "kaveh2",
     "character": "kaveh",
     "img": "kaveh/kaveh2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5436,7 +5436,7 @@
     "name": "kaveh3",
     "character": "kaveh",
     "img": "kaveh/kaveh3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5450,7 +5450,7 @@
     "name": "kaveh4",
     "character": "kaveh",
     "img": "kaveh/kaveh4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5464,7 +5464,7 @@
     "name": "kaveh5",
     "character": "kaveh",
     "img": "kaveh/kaveh5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5478,7 +5478,7 @@
     "name": "kaveh6",
     "character": "kaveh",
     "img": "kaveh/kaveh6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5492,7 +5492,7 @@
     "name": "kaveh7",
     "character": "kaveh",
     "img": "kaveh/kaveh7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5506,7 +5506,7 @@
     "name": "kaveh8",
     "character": "kaveh",
     "img": "kaveh/kaveh8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5520,7 +5520,7 @@
     "name": "kazuha1",
     "character": "kazuha",
     "img": "kazuha/kazuha1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5534,7 +5534,7 @@
     "name": "kazuha2",
     "character": "kazuha",
     "img": "kazuha/kazuha2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5548,7 +5548,7 @@
     "name": "kazuha3",
     "character": "kazuha",
     "img": "kazuha/kazuha3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5562,7 +5562,7 @@
     "name": "kazuha4",
     "character": "kazuha",
     "img": "kazuha/kazuha4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5576,7 +5576,7 @@
     "name": "kazuha5",
     "character": "kazuha",
     "img": "kazuha/kazuha5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5590,7 +5590,7 @@
     "name": "kazuha6",
     "character": "kazuha",
     "img": "kazuha/kazuha6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5604,7 +5604,7 @@
     "name": "kazuha7",
     "character": "kazuha",
     "img": "kazuha/kazuha7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5618,7 +5618,7 @@
     "name": "kazuha8",
     "character": "kazuha",
     "img": "kazuha/kazuha8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5632,7 +5632,7 @@
     "name": "kazuha9",
     "character": "kazuha",
     "img": "kazuha/kazuha9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5646,7 +5646,7 @@
     "name": "kazuha10",
     "character": "kazuha",
     "img": "kazuha/kazuha10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5660,7 +5660,7 @@
     "name": "kazuha11",
     "character": "kazuha",
     "img": "kazuha/kazuha11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5674,7 +5674,7 @@
     "name": "kazuha12",
     "character": "kazuha",
     "img": "kazuha/kazuha12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5688,7 +5688,7 @@
     "name": "kazuha13",
     "character": "kazuha",
     "img": "kazuha/kazuha13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5702,7 +5702,7 @@
     "name": "kazuha14",
     "character": "kazuha",
     "img": "kazuha/kazuha14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5716,7 +5716,7 @@
     "name": "kazuha15",
     "character": "kazuha",
     "img": "kazuha/kazuha15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5730,7 +5730,7 @@
     "name": "kazuha16",
     "character": "kazuha",
     "img": "kazuha/kazuha16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5744,7 +5744,7 @@
     "name": "keqing1",
     "character": "keqing",
     "img": "keqing/keqing1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5758,7 +5758,7 @@
     "name": "keqing2",
     "character": "keqing",
     "img": "keqing/keqing2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5772,7 +5772,7 @@
     "name": "keqing3",
     "character": "keqing",
     "img": "keqing/keqing3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5786,7 +5786,7 @@
     "name": "keqing4",
     "character": "keqing",
     "img": "keqing/keqing4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5800,7 +5800,7 @@
     "name": "keqing5",
     "character": "keqing",
     "img": "keqing/keqing5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5814,7 +5814,7 @@
     "name": "keqing6",
     "character": "keqing",
     "img": "keqing/keqing6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5828,7 +5828,7 @@
     "name": "keqing7",
     "character": "keqing",
     "img": "keqing/keqing7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5842,7 +5842,7 @@
     "name": "keqing8",
     "character": "keqing",
     "img": "keqing/keqing8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5856,7 +5856,7 @@
     "name": "keqing9",
     "character": "keqing",
     "img": "keqing/keqing9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5870,7 +5870,7 @@
     "name": "keqing10",
     "character": "keqing",
     "img": "keqing/keqing10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5884,7 +5884,7 @@
     "name": "keqing11",
     "character": "keqing",
     "img": "keqing/keqing11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5898,7 +5898,7 @@
     "name": "keqing12",
     "character": "keqing",
     "img": "keqing/keqing12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5912,7 +5912,7 @@
     "name": "keqing13",
     "character": "keqing",
     "img": "keqing/keqing13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5926,7 +5926,7 @@
     "name": "keqing14",
     "character": "keqing",
     "img": "keqing/keqing14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5940,7 +5940,7 @@
     "name": "keqing15",
     "character": "keqing",
     "img": "keqing/keqing15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5954,7 +5954,7 @@
     "name": "kinich1",
     "character": "kinich",
     "img": "kinich/kinich1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5968,7 +5968,7 @@
     "name": "kinich2",
     "character": "kinich",
     "img": "kinich/kinich2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5982,7 +5982,7 @@
     "name": "kinich3",
     "character": "kinich",
     "img": "kinich/kinich3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -5996,7 +5996,7 @@
     "name": "kinich4",
     "character": "kinich",
     "img": "kinich/kinich4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6010,7 +6010,7 @@
     "name": "kinich5",
     "character": "kinich",
     "img": "kinich/kinich5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6024,7 +6024,7 @@
     "name": "kinich6",
     "character": "kinich",
     "img": "kinich/kinich6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6038,7 +6038,7 @@
     "name": "kinich7",
     "character": "kinich",
     "img": "kinich/kinich7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6052,7 +6052,7 @@
     "name": "kinich8",
     "character": "kinich",
     "img": "kinich/kinich8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6066,7 +6066,7 @@
     "name": "kirara1",
     "character": "kirara",
     "img": "kirara/kirara1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6080,7 +6080,7 @@
     "name": "kirara2",
     "character": "kirara",
     "img": "kirara/kirara2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6094,7 +6094,7 @@
     "name": "kirara3",
     "character": "kirara",
     "img": "kirara/kirara3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6108,7 +6108,7 @@
     "name": "kirara4",
     "character": "kirara",
     "img": "kirara/kirara4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6122,7 +6122,7 @@
     "name": "kirara5",
     "character": "kirara",
     "img": "kirara/kirara5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6136,7 +6136,7 @@
     "name": "kirara6",
     "character": "kirara",
     "img": "kirara/kirara6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6150,7 +6150,7 @@
     "name": "kirara7",
     "character": "kirara",
     "img": "kirara/kirara7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6164,7 +6164,7 @@
     "name": "klee1",
     "character": "klee",
     "img": "klee/klee1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6178,7 +6178,7 @@
     "name": "klee2",
     "character": "klee",
     "img": "klee/klee2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6192,7 +6192,7 @@
     "name": "klee3",
     "character": "klee",
     "img": "klee/klee3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6206,7 +6206,7 @@
     "name": "klee4",
     "character": "klee",
     "img": "klee/klee4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6220,7 +6220,7 @@
     "name": "klee5",
     "character": "klee",
     "img": "klee/klee5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6234,7 +6234,7 @@
     "name": "klee6",
     "character": "klee",
     "img": "klee/klee6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6248,7 +6248,7 @@
     "name": "klee7",
     "character": "klee",
     "img": "klee/klee7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6262,7 +6262,7 @@
     "name": "kokomi1",
     "character": "kokomi",
     "img": "kokomi/kokomi1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6276,7 +6276,7 @@
     "name": "kokomi2",
     "character": "kokomi",
     "img": "kokomi/kokomi2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6290,7 +6290,7 @@
     "name": "kokomi3",
     "character": "kokomi",
     "img": "kokomi/kokomi3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6304,7 +6304,7 @@
     "name": "kokomi4",
     "character": "kokomi",
     "img": "kokomi/kokomi4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6318,7 +6318,7 @@
     "name": "kokomi5",
     "character": "kokomi",
     "img": "kokomi/kokomi5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6332,7 +6332,7 @@
     "name": "kokomi6",
     "character": "kokomi",
     "img": "kokomi/kokomi6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6346,7 +6346,7 @@
     "name": "kokomi7",
     "character": "kokomi",
     "img": "kokomi/kokomi7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6360,7 +6360,7 @@
     "name": "kokomi8",
     "character": "kokomi",
     "img": "kokomi/kokomi8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6374,7 +6374,7 @@
     "name": "kokomi9",
     "character": "kokomi",
     "img": "kokomi/kokomi9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6388,7 +6388,7 @@
     "name": "kokomi10",
     "character": "kokomi",
     "img": "kokomi/kokomi10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6402,7 +6402,7 @@
     "name": "kokomi11",
     "character": "kokomi",
     "img": "kokomi/kokomi11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6416,7 +6416,7 @@
     "name": "kuki1",
     "character": "kuki",
     "img": "kuki/kuki1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6430,7 +6430,7 @@
     "name": "kuki2",
     "character": "kuki",
     "img": "kuki/kuki2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6444,7 +6444,7 @@
     "name": "kuki3",
     "character": "kuki",
     "img": "kuki/kuki3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6458,7 +6458,7 @@
     "name": "kuki4",
     "character": "kuki",
     "img": "kuki/kuki4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6472,7 +6472,7 @@
     "name": "lanyan1",
     "character": "lanyan",
     "img": "lanyan/lanyan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6486,7 +6486,7 @@
     "name": "lanyan2",
     "character": "lanyan",
     "img": "lanyan/lanyan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6500,7 +6500,7 @@
     "name": "lanyan3",
     "character": "lanyan",
     "img": "lanyan/lanyan3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6514,7 +6514,7 @@
     "name": "layla1",
     "character": "layla",
     "img": "layla/layla1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6528,7 +6528,7 @@
     "name": "layla2",
     "character": "layla",
     "img": "layla/layla2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6542,7 +6542,7 @@
     "name": "layla3",
     "character": "layla",
     "img": "layla/layla3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6556,7 +6556,7 @@
     "name": "layla4",
     "character": "layla",
     "img": "layla/layla4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6570,7 +6570,7 @@
     "name": "layla5",
     "character": "layla",
     "img": "layla/layla5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6584,7 +6584,7 @@
     "name": "lisa1",
     "character": "lisa",
     "img": "lisa/lisa1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6598,7 +6598,7 @@
     "name": "lisa2",
     "character": "lisa",
     "img": "lisa/lisa2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6612,7 +6612,7 @@
     "name": "lisa3",
     "character": "lisa",
     "img": "lisa/lisa3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6626,7 +6626,7 @@
     "name": "lumine1",
     "character": "lumine",
     "img": "lumine/lumine1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6640,7 +6640,7 @@
     "name": "lumine2",
     "character": "lumine",
     "img": "lumine/lumine2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6654,7 +6654,7 @@
     "name": "lumine3",
     "character": "lumine",
     "img": "lumine/lumine3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6668,7 +6668,7 @@
     "name": "lumine4",
     "character": "lumine",
     "img": "lumine/lumine4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6682,7 +6682,7 @@
     "name": "lynette1",
     "character": "lynette",
     "img": "lynette/lynette1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6696,7 +6696,7 @@
     "name": "lynette2",
     "character": "lynette",
     "img": "lynette/lynette2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6710,7 +6710,7 @@
     "name": "lynette3",
     "character": "lynette",
     "img": "lynette/lynette3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6724,7 +6724,7 @@
     "name": "lynette4",
     "character": "lynette",
     "img": "lynette/lynette4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6738,7 +6738,7 @@
     "name": "lynette5",
     "character": "lynette",
     "img": "lynette/lynette5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6752,7 +6752,7 @@
     "name": "lynette6",
     "character": "lynette",
     "img": "lynette/lynette6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6766,7 +6766,7 @@
     "name": "lynette7",
     "character": "lynette",
     "img": "lynette/lynette7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6780,7 +6780,7 @@
     "name": "lynette8",
     "character": "lynette",
     "img": "lynette/lynette8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6794,7 +6794,7 @@
     "name": "lynette9",
     "character": "lynette",
     "img": "lynette/lynette9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6808,7 +6808,7 @@
     "name": "lynette10",
     "character": "lynette",
     "img": "lynette/lynette10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6822,7 +6822,7 @@
     "name": "lyney1",
     "character": "lyney",
     "img": "lyney/lyney1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6836,7 +6836,7 @@
     "name": "lyney2",
     "character": "lyney",
     "img": "lyney/lyney2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6850,7 +6850,7 @@
     "name": "lyney3",
     "character": "lyney",
     "img": "lyney/lyney3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6864,7 +6864,7 @@
     "name": "lyney4",
     "character": "lyney",
     "img": "lyney/lyney4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6878,7 +6878,7 @@
     "name": "lyney5",
     "character": "lyney",
     "img": "lyney/lyney5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6892,7 +6892,7 @@
     "name": "lyney6",
     "character": "lyney",
     "img": "lyney/lyney6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6906,7 +6906,7 @@
     "name": "lyney7",
     "character": "lyney",
     "img": "lyney/lyney7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6920,7 +6920,7 @@
     "name": "lyney8",
     "character": "lyney",
     "img": "lyney/lyney8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6934,7 +6934,7 @@
     "name": "lyney9",
     "character": "lyney",
     "img": "lyney/lyney9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6948,7 +6948,7 @@
     "name": "mavuika1",
     "character": "mavuika",
     "img": "mavuika/mavuika1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6962,7 +6962,7 @@
     "name": "mavuika2",
     "character": "mavuika",
     "img": "mavuika/mavuika2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6976,7 +6976,7 @@
     "name": "mavuika3",
     "character": "mavuika",
     "img": "mavuika/mavuika3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -6990,7 +6990,7 @@
     "name": "mavuika4",
     "character": "mavuika",
     "img": "mavuika/mavuika4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7004,7 +7004,7 @@
     "name": "mavuika5",
     "character": "mavuika",
     "img": "mavuika/mavuika5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7018,7 +7018,7 @@
     "name": "mavuika6",
     "character": "mavuika",
     "img": "mavuika/mavuika6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7032,7 +7032,7 @@
     "name": "mavuika7",
     "character": "mavuika",
     "img": "mavuika/mavuika7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7046,7 +7046,7 @@
     "name": "mika1",
     "character": "mika",
     "img": "mika/mika1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7060,7 +7060,7 @@
     "name": "mika2",
     "character": "mika",
     "img": "mika/mika2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7074,7 +7074,7 @@
     "name": "mika3",
     "character": "mika",
     "img": "mika/mika3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7088,7 +7088,7 @@
     "name": "mika4",
     "character": "mika",
     "img": "mika/mika4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7102,7 +7102,7 @@
     "name": "mizuki1",
     "character": "mizuki",
     "img": "mizuki/mizuki1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7116,7 +7116,7 @@
     "name": "mizuki2",
     "character": "mizuki",
     "img": "mizuki/mizuki2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7130,7 +7130,7 @@
     "name": "mizuki3",
     "character": "mizuki",
     "img": "mizuki/mizuki3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7144,7 +7144,7 @@
     "name": "mizuki4",
     "character": "mizuki",
     "img": "mizuki/mizuki4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7158,7 +7158,7 @@
     "name": "mizuki5",
     "character": "mizuki",
     "img": "mizuki/mizuki5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7172,7 +7172,7 @@
     "name": "mizuki6",
     "character": "mizuki",
     "img": "mizuki/mizuki6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7186,7 +7186,7 @@
     "name": "mona1",
     "character": "mona",
     "img": "mona/mona1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7200,7 +7200,7 @@
     "name": "mona2",
     "character": "mona",
     "img": "mona/mona2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7214,7 +7214,7 @@
     "name": "mona3",
     "character": "mona",
     "img": "mona/mona3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7228,7 +7228,7 @@
     "name": "mona4",
     "character": "mona",
     "img": "mona/mona4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7242,7 +7242,7 @@
     "name": "mona5",
     "character": "mona",
     "img": "mona/mona5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7256,7 +7256,7 @@
     "name": "mona6",
     "character": "mona",
     "img": "mona/mona6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7270,7 +7270,7 @@
     "name": "mona7",
     "character": "mona",
     "img": "mona/mona7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7284,7 +7284,7 @@
     "name": "mona8",
     "character": "mona",
     "img": "mona/mona8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7298,7 +7298,7 @@
     "name": "mona9",
     "character": "mona",
     "img": "mona/mona9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7312,7 +7312,7 @@
     "name": "mualani1",
     "character": "mualani",
     "img": "mualani/mualani1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7326,7 +7326,7 @@
     "name": "mualani2",
     "character": "mualani",
     "img": "mualani/mualani2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7340,7 +7340,7 @@
     "name": "mualani3",
     "character": "mualani",
     "img": "mualani/mualani3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7354,7 +7354,7 @@
     "name": "mualani4",
     "character": "mualani",
     "img": "mualani/mualani4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7368,7 +7368,7 @@
     "name": "mualani5",
     "character": "mualani",
     "img": "mualani/mualani5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7382,7 +7382,7 @@
     "name": "nahida1",
     "character": "nahida",
     "img": "nahida/nahida1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7396,7 +7396,7 @@
     "name": "nahida2",
     "character": "nahida",
     "img": "nahida/nahida2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7410,7 +7410,7 @@
     "name": "nahida3",
     "character": "nahida",
     "img": "nahida/nahida3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7424,7 +7424,7 @@
     "name": "nahida4",
     "character": "nahida",
     "img": "nahida/nahida4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7438,7 +7438,7 @@
     "name": "nahida5",
     "character": "nahida",
     "img": "nahida/nahida5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7452,7 +7452,7 @@
     "name": "nahida6",
     "character": "nahida",
     "img": "nahida/nahida6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7466,7 +7466,7 @@
     "name": "nahida7",
     "character": "nahida",
     "img": "nahida/nahida7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7480,7 +7480,7 @@
     "name": "nahida8",
     "character": "nahida",
     "img": "nahida/nahida8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7494,7 +7494,7 @@
     "name": "nahida9",
     "character": "nahida",
     "img": "nahida/nahida9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7508,7 +7508,7 @@
     "name": "nahida10",
     "character": "nahida",
     "img": "nahida/nahida10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7522,7 +7522,7 @@
     "name": "navia1",
     "character": "navia",
     "img": "navia/navia1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7536,7 +7536,7 @@
     "name": "navia2",
     "character": "navia",
     "img": "navia/navia2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7550,7 +7550,7 @@
     "name": "navia3",
     "character": "navia",
     "img": "navia/navia3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7564,7 +7564,7 @@
     "name": "navia4",
     "character": "navia",
     "img": "navia/navia4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7578,7 +7578,7 @@
     "name": "navia5",
     "character": "navia",
     "img": "navia/navia5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7592,7 +7592,7 @@
     "name": "navia6",
     "character": "navia",
     "img": "navia/navia6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7606,7 +7606,7 @@
     "name": "navia7",
     "character": "navia",
     "img": "navia/navia7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7620,7 +7620,7 @@
     "name": "navia8",
     "character": "navia",
     "img": "navia/navia8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7634,7 +7634,7 @@
     "name": "navia9",
     "character": "navia",
     "img": "navia/navia9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7648,7 +7648,7 @@
     "name": "neuvillette1",
     "character": "neuvillette",
     "img": "neuvillette/neuvillette1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7662,7 +7662,7 @@
     "name": "neuvillette2",
     "character": "neuvillette",
     "img": "neuvillette/neuvillette2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7676,7 +7676,7 @@
     "name": "neuvillette3",
     "character": "neuvillette",
     "img": "neuvillette/neuvillette3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7690,7 +7690,7 @@
     "name": "neuvillette4",
     "character": "neuvillette",
     "img": "neuvillette/neuvillette4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7704,7 +7704,7 @@
     "name": "neuvillette5",
     "character": "neuvillette",
     "img": "neuvillette/neuvillette5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7718,7 +7718,7 @@
     "name": "nilou1",
     "character": "nilou",
     "img": "nilou/nilou1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7732,7 +7732,7 @@
     "name": "nilou2",
     "character": "nilou",
     "img": "nilou/nilou2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7746,7 +7746,7 @@
     "name": "nilou3",
     "character": "nilou",
     "img": "nilou/nilou3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7760,7 +7760,7 @@
     "name": "nilou4",
     "character": "nilou",
     "img": "nilou/nilou4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7774,7 +7774,7 @@
     "name": "nilou5",
     "character": "nilou",
     "img": "nilou/nilou5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7788,7 +7788,7 @@
     "name": "nilou6",
     "character": "nilou",
     "img": "nilou/nilou6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7802,7 +7802,7 @@
     "name": "ningguang1",
     "character": "ningguang",
     "img": "ningguang/ningguang1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7816,7 +7816,7 @@
     "name": "ningguang2",
     "character": "ningguang",
     "img": "ningguang/ningguang2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7830,7 +7830,7 @@
     "name": "ningguang3",
     "character": "ningguang",
     "img": "ningguang/ningguang3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7844,7 +7844,7 @@
     "name": "noelle1",
     "character": "noelle",
     "img": "noelle/noelle1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7858,7 +7858,7 @@
     "name": "ororon1",
     "character": "ororon",
     "img": "ororon/ororon1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7872,7 +7872,7 @@
     "name": "ororon2",
     "character": "ororon",
     "img": "ororon/ororon2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7886,7 +7886,7 @@
     "name": "ororon3",
     "character": "ororon",
     "img": "ororon/ororon3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7900,7 +7900,7 @@
     "name": "ororon4",
     "character": "ororon",
     "img": "ororon/ororon4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7914,7 +7914,7 @@
     "name": "ororon5",
     "character": "ororon",
     "img": "ororon/ororon5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7928,7 +7928,7 @@
     "name": "ororon6",
     "character": "ororon",
     "img": "ororon/ororon6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7942,7 +7942,7 @@
     "name": "ororon7",
     "character": "ororon",
     "img": "ororon/ororon7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7956,7 +7956,7 @@
     "name": "other1",
     "character": "other",
     "img": "other/other1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7970,7 +7970,7 @@
     "name": "other2",
     "character": "other",
     "img": "other/other2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7984,7 +7984,7 @@
     "name": "other3",
     "character": "other",
     "img": "other/other3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -7998,7 +7998,7 @@
     "name": "other4",
     "character": "other",
     "img": "other/other4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8012,7 +8012,7 @@
     "name": "other5",
     "character": "other",
     "img": "other/other5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8026,7 +8026,7 @@
     "name": "other6",
     "character": "other",
     "img": "other/other6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8040,7 +8040,7 @@
     "name": "other7",
     "character": "other",
     "img": "other/other7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8054,7 +8054,7 @@
     "name": "other8",
     "character": "other",
     "img": "other/other8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8068,7 +8068,7 @@
     "name": "other9",
     "character": "other",
     "img": "other/other9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8082,7 +8082,7 @@
     "name": "other10",
     "character": "other",
     "img": "other/other10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8096,7 +8096,7 @@
     "name": "other11",
     "character": "other",
     "img": "other/other11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8110,7 +8110,7 @@
     "name": "other12",
     "character": "other",
     "img": "other/other12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8124,7 +8124,7 @@
     "name": "other13",
     "character": "other",
     "img": "other/other13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8138,7 +8138,7 @@
     "name": "other14",
     "character": "other",
     "img": "other/other14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8152,7 +8152,7 @@
     "name": "other15",
     "character": "other",
     "img": "other/other15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8166,7 +8166,7 @@
     "name": "other16",
     "character": "other",
     "img": "other/other16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8180,7 +8180,7 @@
     "name": "other17",
     "character": "other",
     "img": "other/other17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8194,7 +8194,7 @@
     "name": "other18",
     "character": "other",
     "img": "other/other18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8208,7 +8208,7 @@
     "name": "other19",
     "character": "other",
     "img": "other/other19.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8222,7 +8222,7 @@
     "name": "other20",
     "character": "other",
     "img": "other/other20.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8236,7 +8236,7 @@
     "name": "other21",
     "character": "other",
     "img": "other/other21.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8250,7 +8250,7 @@
     "name": "paimon1",
     "character": "paimon",
     "img": "paimon/paimon1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8264,7 +8264,7 @@
     "name": "paimon2",
     "character": "paimon",
     "img": "paimon/paimon2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8278,7 +8278,7 @@
     "name": "paimon3",
     "character": "paimon",
     "img": "paimon/paimon3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8292,7 +8292,7 @@
     "name": "paimon4",
     "character": "paimon",
     "img": "paimon/paimon4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8306,7 +8306,7 @@
     "name": "paimon5",
     "character": "paimon",
     "img": "paimon/paimon5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8320,7 +8320,7 @@
     "name": "paimon6",
     "character": "paimon",
     "img": "paimon/paimon6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8334,7 +8334,7 @@
     "name": "paimon7",
     "character": "paimon",
     "img": "paimon/paimon7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8348,7 +8348,7 @@
     "name": "paimon8",
     "character": "paimon",
     "img": "paimon/paimon8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8362,7 +8362,7 @@
     "name": "paimon9",
     "character": "paimon",
     "img": "paimon/paimon9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8376,7 +8376,7 @@
     "name": "paimon10",
     "character": "paimon",
     "img": "paimon/paimon10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8390,7 +8390,7 @@
     "name": "paimon11",
     "character": "paimon",
     "img": "paimon/paimon11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8404,7 +8404,7 @@
     "name": "paimon12",
     "character": "paimon",
     "img": "paimon/paimon12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8418,7 +8418,7 @@
     "name": "paimon13",
     "character": "paimon",
     "img": "paimon/paimon13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8432,7 +8432,7 @@
     "name": "paimon14",
     "character": "paimon",
     "img": "paimon/paimon14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8446,7 +8446,7 @@
     "name": "paimon15",
     "character": "paimon",
     "img": "paimon/paimon15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8460,7 +8460,7 @@
     "name": "paimon16",
     "character": "paimon",
     "img": "paimon/paimon16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8474,7 +8474,7 @@
     "name": "paimon17",
     "character": "paimon",
     "img": "paimon/paimon17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8488,7 +8488,7 @@
     "name": "paimon18",
     "character": "paimon",
     "img": "paimon/paimon18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8502,7 +8502,7 @@
     "name": "paimon19",
     "character": "paimon",
     "img": "paimon/paimon19.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8516,7 +8516,7 @@
     "name": "paimon20",
     "character": "paimon",
     "img": "paimon/paimon20.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8530,7 +8530,7 @@
     "name": "paimon21",
     "character": "paimon",
     "img": "paimon/paimon21.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8544,7 +8544,7 @@
     "name": "paimon22",
     "character": "paimon",
     "img": "paimon/paimon22.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8558,7 +8558,7 @@
     "name": "paimon23",
     "character": "paimon",
     "img": "paimon/paimon23.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8572,7 +8572,7 @@
     "name": "paimon24",
     "character": "paimon",
     "img": "paimon/paimon24.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8586,7 +8586,7 @@
     "name": "paimon25",
     "character": "paimon",
     "img": "paimon/paimon25.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8600,7 +8600,7 @@
     "name": "paimon26",
     "character": "paimon",
     "img": "paimon/paimon26.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8614,7 +8614,7 @@
     "name": "paimon27",
     "character": "paimon",
     "img": "paimon/paimon27.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8628,7 +8628,7 @@
     "name": "paimon28",
     "character": "paimon",
     "img": "paimon/paimon28.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8642,7 +8642,7 @@
     "name": "paimon29",
     "character": "paimon",
     "img": "paimon/paimon29.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8656,7 +8656,7 @@
     "name": "paimon30",
     "character": "paimon",
     "img": "paimon/paimon30.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8670,7 +8670,7 @@
     "name": "paimon31",
     "character": "paimon",
     "img": "paimon/paimon31.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8684,7 +8684,7 @@
     "name": "paimon32",
     "character": "paimon",
     "img": "paimon/paimon32.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8698,7 +8698,7 @@
     "name": "paimon33",
     "character": "paimon",
     "img": "paimon/paimon33.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8712,7 +8712,7 @@
     "name": "paimon34",
     "character": "paimon",
     "img": "paimon/paimon34.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8726,7 +8726,7 @@
     "name": "paimon35",
     "character": "paimon",
     "img": "paimon/paimon35.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8740,7 +8740,7 @@
     "name": "paimon36",
     "character": "paimon",
     "img": "paimon/paimon36.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8754,7 +8754,7 @@
     "name": "paimon37",
     "character": "paimon",
     "img": "paimon/paimon37.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8768,7 +8768,7 @@
     "name": "paimon38",
     "character": "paimon",
     "img": "paimon/paimon38.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8782,7 +8782,7 @@
     "name": "paimon39",
     "character": "paimon",
     "img": "paimon/paimon39.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8796,7 +8796,7 @@
     "name": "paimon40",
     "character": "paimon",
     "img": "paimon/paimon40.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8810,7 +8810,7 @@
     "name": "paimon41",
     "character": "paimon",
     "img": "paimon/paimon41.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8824,7 +8824,7 @@
     "name": "paimon42",
     "character": "paimon",
     "img": "paimon/paimon42.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8838,7 +8838,7 @@
     "name": "paimon43",
     "character": "paimon",
     "img": "paimon/paimon43.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8852,7 +8852,7 @@
     "name": "paimon44",
     "character": "paimon",
     "img": "paimon/paimon44.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8866,7 +8866,7 @@
     "name": "paimon45",
     "character": "paimon",
     "img": "paimon/paimon45.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8880,7 +8880,7 @@
     "name": "qiqi1",
     "character": "qiqi",
     "img": "qiqi/qiqi1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8894,7 +8894,7 @@
     "name": "qiqi2",
     "character": "qiqi",
     "img": "qiqi/qiqi2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8908,7 +8908,7 @@
     "name": "qiqi3",
     "character": "qiqi",
     "img": "qiqi/qiqi3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8922,7 +8922,7 @@
     "name": "qiqi4",
     "character": "qiqi",
     "img": "qiqi/qiqi4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8936,7 +8936,7 @@
     "name": "qiqi5",
     "character": "qiqi",
     "img": "qiqi/qiqi5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8950,7 +8950,7 @@
     "name": "qiqi6",
     "character": "qiqi",
     "img": "qiqi/qiqi6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8964,7 +8964,7 @@
     "name": "raiden1",
     "character": "raiden",
     "img": "raiden/raiden1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8978,7 +8978,7 @@
     "name": "raiden2",
     "character": "raiden",
     "img": "raiden/raiden2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -8992,7 +8992,7 @@
     "name": "raiden3",
     "character": "raiden",
     "img": "raiden/raiden3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9006,7 +9006,7 @@
     "name": "raiden4",
     "character": "raiden",
     "img": "raiden/raiden4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9020,7 +9020,7 @@
     "name": "raiden5",
     "character": "raiden",
     "img": "raiden/raiden5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9034,7 +9034,7 @@
     "name": "raiden6",
     "character": "raiden",
     "img": "raiden/raiden6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9048,7 +9048,7 @@
     "name": "raiden7",
     "character": "raiden",
     "img": "raiden/raiden7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9062,7 +9062,7 @@
     "name": "raiden8",
     "character": "raiden",
     "img": "raiden/raiden8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9076,7 +9076,7 @@
     "name": "raiden9",
     "character": "raiden",
     "img": "raiden/raiden9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9090,7 +9090,7 @@
     "name": "raiden10",
     "character": "raiden",
     "img": "raiden/raiden10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9104,7 +9104,7 @@
     "name": "raiden11",
     "character": "raiden",
     "img": "raiden/raiden11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9118,7 +9118,7 @@
     "name": "raiden12",
     "character": "raiden",
     "img": "raiden/raiden12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9132,7 +9132,7 @@
     "name": "raiden13",
     "character": "raiden",
     "img": "raiden/raiden13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9146,7 +9146,7 @@
     "name": "raiden14",
     "character": "raiden",
     "img": "raiden/raiden14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9160,7 +9160,7 @@
     "name": "razor1",
     "character": "razor",
     "img": "razor/razor1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9174,7 +9174,7 @@
     "name": "razor2",
     "character": "razor",
     "img": "razor/razor2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9188,7 +9188,7 @@
     "name": "razor3",
     "character": "razor",
     "img": "razor/razor3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9202,7 +9202,7 @@
     "name": "razor4",
     "character": "razor",
     "img": "razor/razor4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9216,7 +9216,7 @@
     "name": "rosaria1",
     "character": "rosaria",
     "img": "rosaria/rosaria1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9230,7 +9230,7 @@
     "name": "rosaria2",
     "character": "rosaria",
     "img": "rosaria/rosaria2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9244,7 +9244,7 @@
     "name": "rosaria3",
     "character": "rosaria",
     "img": "rosaria/rosaria3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9258,7 +9258,7 @@
     "name": "rosaria4",
     "character": "rosaria",
     "img": "rosaria/rosaria4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9272,7 +9272,7 @@
     "name": "rosaria5",
     "character": "rosaria",
     "img": "rosaria/rosaria5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9286,7 +9286,7 @@
     "name": "sara1",
     "character": "sara",
     "img": "sara/sara1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9300,7 +9300,7 @@
     "name": "sara2",
     "character": "sara",
     "img": "sara/sara2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9314,7 +9314,7 @@
     "name": "sara3",
     "character": "sara",
     "img": "sara/sara3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9328,7 +9328,7 @@
     "name": "sara4",
     "character": "sara",
     "img": "sara/sara4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9342,7 +9342,7 @@
     "name": "sayu1",
     "character": "sayu",
     "img": "sayu/sayu1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9356,7 +9356,7 @@
     "name": "sayu2",
     "character": "sayu",
     "img": "sayu/sayu2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9370,7 +9370,7 @@
     "name": "sayu3",
     "character": "sayu",
     "img": "sayu/sayu3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9384,7 +9384,7 @@
     "name": "sayu4",
     "character": "sayu",
     "img": "sayu/sayu4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9398,7 +9398,7 @@
     "name": "sayu5",
     "character": "sayu",
     "img": "sayu/sayu5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9412,7 +9412,7 @@
     "name": "scara1",
     "character": "scara",
     "img": "scara/scara1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9426,7 +9426,7 @@
     "name": "scara2",
     "character": "scara",
     "img": "scara/scara2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9440,7 +9440,7 @@
     "name": "scara3",
     "character": "scara",
     "img": "scara/scara3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9454,7 +9454,7 @@
     "name": "scara4",
     "character": "scara",
     "img": "scara/scara4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9468,7 +9468,7 @@
     "name": "scara5",
     "character": "scara",
     "img": "scara/scara5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9482,7 +9482,7 @@
     "name": "scara6",
     "character": "scara",
     "img": "scara/scara6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9496,7 +9496,7 @@
     "name": "scara7",
     "character": "scara",
     "img": "scara/scara7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9510,7 +9510,7 @@
     "name": "scara8",
     "character": "scara",
     "img": "scara/scara8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9524,7 +9524,7 @@
     "name": "scara9",
     "character": "scara",
     "img": "scara/scara9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9538,7 +9538,7 @@
     "name": "scara10",
     "character": "scara",
     "img": "scara/scara10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9552,7 +9552,7 @@
     "name": "scara11",
     "character": "scara",
     "img": "scara/scara11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9566,7 +9566,7 @@
     "name": "sethos1",
     "character": "sethos",
     "img": "sethos/sethos1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9580,7 +9580,7 @@
     "name": "sethos2",
     "character": "sethos",
     "img": "sethos/sethos2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9594,7 +9594,7 @@
     "name": "sethos3",
     "character": "sethos",
     "img": "sethos/sethos3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9608,7 +9608,7 @@
     "name": "sethos4",
     "character": "sethos",
     "img": "sethos/sethos4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9622,7 +9622,7 @@
     "name": "sethos5",
     "character": "sethos",
     "img": "sethos/sethos5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9636,7 +9636,7 @@
     "name": "shenhe1",
     "character": "shenhe",
     "img": "shenhe/shenhe1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9650,7 +9650,7 @@
     "name": "shenhe2",
     "character": "shenhe",
     "img": "shenhe/shenhe2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9664,7 +9664,7 @@
     "name": "shenhe3",
     "character": "shenhe",
     "img": "shenhe/shenhe3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9678,7 +9678,7 @@
     "name": "shenhe4",
     "character": "shenhe",
     "img": "shenhe/shenhe4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9692,7 +9692,7 @@
     "name": "shenhe5",
     "character": "shenhe",
     "img": "shenhe/shenhe5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9706,7 +9706,7 @@
     "name": "shenhe6",
     "character": "shenhe",
     "img": "shenhe/shenhe6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9720,7 +9720,7 @@
     "name": "shiki1",
     "character": "shiki",
     "img": "shiki/shiki1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9734,7 +9734,7 @@
     "name": "shiki2",
     "character": "shiki",
     "img": "shiki/shiki2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9748,7 +9748,7 @@
     "name": "shiki3",
     "character": "shiki",
     "img": "shiki/shiki3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9762,7 +9762,7 @@
     "name": "sigewinne1",
     "character": "sigewinne",
     "img": "sigewinne/sigewinne1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9776,7 +9776,7 @@
     "name": "sigewinne2",
     "character": "sigewinne",
     "img": "sigewinne/sigewinne2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9790,7 +9790,7 @@
     "name": "sigewinne3",
     "character": "sigewinne",
     "img": "sigewinne/sigewinne3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9804,7 +9804,7 @@
     "name": "sigewinne4",
     "character": "sigewinne",
     "img": "sigewinne/sigewinne4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9818,7 +9818,7 @@
     "name": "sucrose1",
     "character": "sucrose",
     "img": "sucrose/sucrose1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9832,7 +9832,7 @@
     "name": "sucrose2",
     "character": "sucrose",
     "img": "sucrose/sucrose2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9846,7 +9846,7 @@
     "name": "sucrose3",
     "character": "sucrose",
     "img": "sucrose/sucrose3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9860,7 +9860,7 @@
     "name": "sucrose4",
     "character": "sucrose",
     "img": "sucrose/sucrose4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9874,7 +9874,7 @@
     "name": "sucrose5",
     "character": "sucrose",
     "img": "sucrose/sucrose5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9888,7 +9888,7 @@
     "name": "sucrose6",
     "character": "sucrose",
     "img": "sucrose/sucrose6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9902,7 +9902,7 @@
     "name": "sucrose7",
     "character": "sucrose",
     "img": "sucrose/sucrose7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9916,7 +9916,7 @@
     "name": "sucrose8",
     "character": "sucrose",
     "img": "sucrose/sucrose8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9930,7 +9930,7 @@
     "name": "sucrose9",
     "character": "sucrose",
     "img": "sucrose/sucrose9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9944,7 +9944,7 @@
     "name": "sucrose10",
     "character": "sucrose",
     "img": "sucrose/sucrose10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9958,7 +9958,7 @@
     "name": "tanuki1",
     "character": "tanuki",
     "img": "tanuki/tanuki1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9972,7 +9972,7 @@
     "name": "tanuki2",
     "character": "tanuki",
     "img": "tanuki/tanuki2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -9986,7 +9986,7 @@
     "name": "thoma1",
     "character": "thoma",
     "img": "thoma/thoma1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10000,7 +10000,7 @@
     "name": "thoma2",
     "character": "thoma",
     "img": "thoma/thoma2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10014,7 +10014,7 @@
     "name": "thoma3",
     "character": "thoma",
     "img": "thoma/thoma3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10028,7 +10028,7 @@
     "name": "thoma4",
     "character": "thoma",
     "img": "thoma/thoma4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10042,7 +10042,7 @@
     "name": "thoma5",
     "character": "thoma",
     "img": "thoma/thoma5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10056,7 +10056,7 @@
     "name": "thoma6",
     "character": "thoma",
     "img": "thoma/thoma6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10070,7 +10070,7 @@
     "name": "thoma7",
     "character": "thoma",
     "img": "thoma/thoma7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10084,7 +10084,7 @@
     "name": "thoma8",
     "character": "thoma",
     "img": "thoma/thoma8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10098,7 +10098,7 @@
     "name": "thoma9",
     "character": "thoma",
     "img": "thoma/thoma9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10112,7 +10112,7 @@
     "name": "thoma10",
     "character": "thoma",
     "img": "thoma/thoma10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10126,7 +10126,7 @@
     "name": "tighnari1",
     "character": "tighnari",
     "img": "tighnari/tighnari1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10140,7 +10140,7 @@
     "name": "tighnari2",
     "character": "tighnari",
     "img": "tighnari/tighnari2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10154,7 +10154,7 @@
     "name": "tighnari3",
     "character": "tighnari",
     "img": "tighnari/tighnari3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10168,7 +10168,7 @@
     "name": "tighnari4",
     "character": "tighnari",
     "img": "tighnari/tighnari4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10182,7 +10182,7 @@
     "name": "tighnari5",
     "character": "tighnari",
     "img": "tighnari/tighnari5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10196,7 +10196,7 @@
     "name": "tighnari6",
     "character": "tighnari",
     "img": "tighnari/tighnari6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10210,7 +10210,7 @@
     "name": "tighnari7",
     "character": "tighnari",
     "img": "tighnari/tighnari7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10224,7 +10224,7 @@
     "name": "tighnari8",
     "character": "tighnari",
     "img": "tighnari/tighnari8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10238,7 +10238,7 @@
     "name": "varesa1",
     "character": "varesa",
     "img": "varesa/varesa1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10252,7 +10252,7 @@
     "name": "varesa2",
     "character": "varesa",
     "img": "varesa/varesa2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10266,7 +10266,7 @@
     "name": "varesa3",
     "character": "varesa",
     "img": "varesa/varesa3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10280,7 +10280,7 @@
     "name": "varesa4",
     "character": "varesa",
     "img": "varesa/varesa4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10294,7 +10294,7 @@
     "name": "venti1",
     "character": "venti",
     "img": "venti/venti1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10308,7 +10308,7 @@
     "name": "venti2",
     "character": "venti",
     "img": "venti/venti2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10322,7 +10322,7 @@
     "name": "venti3",
     "character": "venti",
     "img": "venti/venti3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10336,7 +10336,7 @@
     "name": "venti4",
     "character": "venti",
     "img": "venti/venti4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10350,7 +10350,7 @@
     "name": "venti5",
     "character": "venti",
     "img": "venti/venti5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10364,7 +10364,7 @@
     "name": "venti6",
     "character": "venti",
     "img": "venti/venti6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10378,7 +10378,7 @@
     "name": "venti7",
     "character": "venti",
     "img": "venti/venti7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10392,7 +10392,7 @@
     "name": "venti8",
     "character": "venti",
     "img": "venti/venti8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10406,7 +10406,7 @@
     "name": "venti9",
     "character": "venti",
     "img": "venti/venti9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10420,7 +10420,7 @@
     "name": "venti10",
     "character": "venti",
     "img": "venti/venti10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10434,7 +10434,7 @@
     "name": "venti11",
     "character": "venti",
     "img": "venti/venti11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10448,7 +10448,7 @@
     "name": "venti12",
     "character": "venti",
     "img": "venti/venti12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10462,7 +10462,7 @@
     "name": "venti13",
     "character": "venti",
     "img": "venti/venti13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10476,7 +10476,7 @@
     "name": "venti14",
     "character": "venti",
     "img": "venti/venti14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10490,7 +10490,7 @@
     "name": "venti15",
     "character": "venti",
     "img": "venti/venti15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10504,7 +10504,7 @@
     "name": "wriothesley1",
     "character": "wriothesley",
     "img": "wriothesley/wriothesley1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10518,7 +10518,7 @@
     "name": "wriothesley2",
     "character": "wriothesley",
     "img": "wriothesley/wriothesley2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10532,7 +10532,7 @@
     "name": "wriothesley3",
     "character": "wriothesley",
     "img": "wriothesley/wriothesley3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10546,7 +10546,7 @@
     "name": "wriothesley4",
     "character": "wriothesley",
     "img": "wriothesley/wriothesley4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10560,7 +10560,7 @@
     "name": "wriothesley5",
     "character": "wriothesley",
     "img": "wriothesley/wriothesley5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10574,7 +10574,7 @@
     "name": "xiangling1",
     "character": "xiangling",
     "img": "xiangling/xiangling1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10588,7 +10588,7 @@
     "name": "xiangling2",
     "character": "xiangling",
     "img": "xiangling/xiangling2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10602,7 +10602,7 @@
     "name": "xiangling3",
     "character": "xiangling",
     "img": "xiangling/xiangling3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10616,7 +10616,7 @@
     "name": "xiangling4",
     "character": "xiangling",
     "img": "xiangling/xiangling4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10630,7 +10630,7 @@
     "name": "xiangling5",
     "character": "xiangling",
     "img": "xiangling/xiangling5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10644,7 +10644,7 @@
     "name": "xianyun1",
     "character": "xianyun",
     "img": "xianyun/xianyun1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10658,7 +10658,7 @@
     "name": "xianyun2",
     "character": "xianyun",
     "img": "xianyun/xianyun2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10672,7 +10672,7 @@
     "name": "xianyun3",
     "character": "xianyun",
     "img": "xianyun/xianyun3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10686,7 +10686,7 @@
     "name": "xianyun4",
     "character": "xianyun",
     "img": "xianyun/xianyun4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10700,7 +10700,7 @@
     "name": "xianyun5",
     "character": "xianyun",
     "img": "xianyun/xianyun5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10714,7 +10714,7 @@
     "name": "xianyun6",
     "character": "xianyun",
     "img": "xianyun/xianyun6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10728,7 +10728,7 @@
     "name": "xianyun7",
     "character": "xianyun",
     "img": "xianyun/xianyun7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10742,7 +10742,7 @@
     "name": "xianyun8",
     "character": "xianyun",
     "img": "xianyun/xianyun8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10756,7 +10756,7 @@
     "name": "xiao1",
     "character": "xiao",
     "img": "xiao/xiao1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10770,7 +10770,7 @@
     "name": "xiao2",
     "character": "xiao",
     "img": "xiao/xiao2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10784,7 +10784,7 @@
     "name": "xiao3",
     "character": "xiao",
     "img": "xiao/xiao3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10798,7 +10798,7 @@
     "name": "xiao4",
     "character": "xiao",
     "img": "xiao/xiao4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10812,7 +10812,7 @@
     "name": "xiao5",
     "character": "xiao",
     "img": "xiao/xiao5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10826,7 +10826,7 @@
     "name": "xiao6",
     "character": "xiao",
     "img": "xiao/xiao6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10840,7 +10840,7 @@
     "name": "xiao7",
     "character": "xiao",
     "img": "xiao/xiao7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10854,7 +10854,7 @@
     "name": "xiao8",
     "character": "xiao",
     "img": "xiao/xiao8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10868,7 +10868,7 @@
     "name": "xiao9",
     "character": "xiao",
     "img": "xiao/xiao9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10882,7 +10882,7 @@
     "name": "xiao10",
     "character": "xiao",
     "img": "xiao/xiao10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10896,7 +10896,7 @@
     "name": "xiao11",
     "character": "xiao",
     "img": "xiao/xiao11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10910,7 +10910,7 @@
     "name": "xiao12",
     "character": "xiao",
     "img": "xiao/xiao12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10924,7 +10924,7 @@
     "name": "xiao13",
     "character": "xiao",
     "img": "xiao/xiao13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10938,7 +10938,7 @@
     "name": "xiao14",
     "character": "xiao",
     "img": "xiao/xiao14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10952,7 +10952,7 @@
     "name": "xilonen1",
     "character": "xilonen",
     "img": "xilonen/xilonen1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10966,7 +10966,7 @@
     "name": "xilonen2",
     "character": "xilonen",
     "img": "xilonen/xilonen2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10980,7 +10980,7 @@
     "name": "xilonen3",
     "character": "xilonen",
     "img": "xilonen/xilonen3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -10994,7 +10994,7 @@
     "name": "xilonen4",
     "character": "xilonen",
     "img": "xilonen/xilonen4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11008,7 +11008,7 @@
     "name": "xilonen5",
     "character": "xilonen",
     "img": "xilonen/xilonen5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11022,7 +11022,7 @@
     "name": "xingqiu1",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11036,7 +11036,7 @@
     "name": "xingqiu2",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11050,7 +11050,7 @@
     "name": "xingqiu3",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11064,7 +11064,7 @@
     "name": "xingqiu4",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11078,7 +11078,7 @@
     "name": "xingqiu5",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11092,7 +11092,7 @@
     "name": "xingqiu6",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11106,7 +11106,7 @@
     "name": "xingqiu7",
     "character": "xingqiu",
     "img": "xingqiu/xingqiu7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11120,7 +11120,7 @@
     "name": "xinyan1",
     "character": "xinyan",
     "img": "xinyan/xinyan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11134,7 +11134,7 @@
     "name": "xinyan2",
     "character": "xinyan",
     "img": "xinyan/xinyan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11148,7 +11148,7 @@
     "name": "xinyan3",
     "character": "xinyan",
     "img": "xinyan/xinyan3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11162,7 +11162,7 @@
     "name": "xinyan4",
     "character": "xinyan",
     "img": "xinyan/xinyan4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11176,7 +11176,7 @@
     "name": "xinyan5",
     "character": "xinyan",
     "img": "xinyan/xinyan5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11190,7 +11190,7 @@
     "name": "xinyan6",
     "character": "xinyan",
     "img": "xinyan/xinyan6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11204,7 +11204,7 @@
     "name": "xinyan7",
     "character": "xinyan",
     "img": "xinyan/xinyan7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11218,7 +11218,7 @@
     "name": "xinyan8",
     "character": "xinyan",
     "img": "xinyan/xinyan8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11232,7 +11232,7 @@
     "name": "xinyan9",
     "character": "xinyan",
     "img": "xinyan/xinyan9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11246,7 +11246,7 @@
     "name": "xinyan10",
     "character": "xinyan",
     "img": "xinyan/xinyan10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11260,7 +11260,7 @@
     "name": "yae1",
     "character": "yae",
     "img": "yae/yae1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11274,7 +11274,7 @@
     "name": "yae2",
     "character": "yae",
     "img": "yae/yae2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11288,7 +11288,7 @@
     "name": "yae3",
     "character": "yae",
     "img": "yae/yae3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11302,7 +11302,7 @@
     "name": "yae4",
     "character": "yae",
     "img": "yae/yae4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11316,7 +11316,7 @@
     "name": "yae5",
     "character": "yae",
     "img": "yae/yae5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11330,7 +11330,7 @@
     "name": "yae6",
     "character": "yae",
     "img": "yae/yae6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11344,7 +11344,7 @@
     "name": "yae7",
     "character": "yae",
     "img": "yae/yae7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11358,7 +11358,7 @@
     "name": "yae8",
     "character": "yae",
     "img": "yae/yae8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11372,7 +11372,7 @@
     "name": "yae9",
     "character": "yae",
     "img": "yae/yae9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11386,7 +11386,7 @@
     "name": "yae10",
     "character": "yae",
     "img": "yae/yae10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11400,7 +11400,7 @@
     "name": "yanfei1",
     "character": "yanfei",
     "img": "yanfei/yanfei1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11414,7 +11414,7 @@
     "name": "yanfei2",
     "character": "yanfei",
     "img": "yanfei/yanfei2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11428,7 +11428,7 @@
     "name": "yanfei3",
     "character": "yanfei",
     "img": "yanfei/yanfei3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11442,7 +11442,7 @@
     "name": "yanfei4",
     "character": "yanfei",
     "img": "yanfei/yanfei4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11456,7 +11456,7 @@
     "name": "yanfei5",
     "character": "yanfei",
     "img": "yanfei/yanfei5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11470,7 +11470,7 @@
     "name": "yanfei6",
     "character": "yanfei",
     "img": "yanfei/yanfei6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11484,7 +11484,7 @@
     "name": "yanfei7",
     "character": "yanfei",
     "img": "yanfei/yanfei7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11498,7 +11498,7 @@
     "name": "yaoyao1",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11512,7 +11512,7 @@
     "name": "yaoyao2",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11526,7 +11526,7 @@
     "name": "yaoyao3",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11540,7 +11540,7 @@
     "name": "yaoyao4",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11554,7 +11554,7 @@
     "name": "yaoyao5",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11568,7 +11568,7 @@
     "name": "yaoyao6",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11582,7 +11582,7 @@
     "name": "yaoyao7",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11596,7 +11596,7 @@
     "name": "yaoyao8",
     "character": "yaoyao",
     "img": "yaoyao/yaoyao8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11610,7 +11610,7 @@
     "name": "yelan1",
     "character": "yelan",
     "img": "yelan/yelan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11624,7 +11624,7 @@
     "name": "yelan2",
     "character": "yelan",
     "img": "yelan/yelan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11638,7 +11638,7 @@
     "name": "yelan3",
     "character": "yelan",
     "img": "yelan/yelan3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11652,7 +11652,7 @@
     "name": "yelan4",
     "character": "yelan",
     "img": "yelan/yelan4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11666,7 +11666,7 @@
     "name": "yelan5",
     "character": "yelan",
     "img": "yelan/yelan5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11680,7 +11680,7 @@
     "name": "yoimiya1",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11694,7 +11694,7 @@
     "name": "yoimiya2",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11708,7 +11708,7 @@
     "name": "yoimiya3",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11722,7 +11722,7 @@
     "name": "yoimiya4",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11736,7 +11736,7 @@
     "name": "yoimiya5",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11750,7 +11750,7 @@
     "name": "yoimiya6",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11764,7 +11764,7 @@
     "name": "yoimiya7",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11778,7 +11778,7 @@
     "name": "yoimiya8",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11792,7 +11792,7 @@
     "name": "yoimiya9",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11806,7 +11806,7 @@
     "name": "yoimiya10",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11820,7 +11820,7 @@
     "name": "yoimiya11",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11834,7 +11834,7 @@
     "name": "yoimiya12",
     "character": "yoimiya",
     "img": "yoimiya/yoimiya12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11848,7 +11848,7 @@
     "name": "yunjin1",
     "character": "yunjin",
     "img": "yunjin/yunjin1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11862,7 +11862,7 @@
     "name": "yunjin2",
     "character": "yunjin",
     "img": "yunjin/yunjin2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11876,7 +11876,7 @@
     "name": "yunjin3",
     "character": "yunjin",
     "img": "yunjin/yunjin3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11890,7 +11890,7 @@
     "name": "yunjin4",
     "character": "yunjin",
     "img": "yunjin/yunjin4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11904,7 +11904,7 @@
     "name": "zhongli1",
     "character": "zhongli",
     "img": "zhongli/zhongli1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11918,7 +11918,7 @@
     "name": "zhongli2",
     "character": "zhongli",
     "img": "zhongli/zhongli2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11932,7 +11932,7 @@
     "name": "zhongli3",
     "character": "zhongli",
     "img": "zhongli/zhongli3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11946,7 +11946,7 @@
     "name": "zhongli4",
     "character": "zhongli",
     "img": "zhongli/zhongli4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11960,7 +11960,7 @@
     "name": "zhongli5",
     "character": "zhongli",
     "img": "zhongli/zhongli5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11974,7 +11974,7 @@
     "name": "zhongli6",
     "character": "zhongli",
     "img": "zhongli/zhongli6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -11988,7 +11988,7 @@
     "name": "zhongli7",
     "character": "zhongli",
     "img": "zhongli/zhongli7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -12002,7 +12002,7 @@
     "name": "zhongli8",
     "character": "zhongli",
     "img": "zhongli/zhongli8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -12016,7 +12016,7 @@
     "name": "zhongli9",
     "character": "zhongli",
     "img": "zhongli/zhongli9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -12030,7 +12030,7 @@
     "name": "zhongli10",
     "character": "zhongli",
     "img": "zhongli/zhongli10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,

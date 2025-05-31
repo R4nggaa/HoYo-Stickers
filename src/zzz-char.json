@@ -4,7 +4,7 @@
     "name": "anby1",
     "character": "anby",
     "img": "anby/anby1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -18,7 +18,7 @@
     "name": "anby2",
     "character": "anby",
     "img": "anby/anby2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -32,7 +32,7 @@
     "name": "anby3",
     "character": "anby",
     "img": "anby/anby3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -46,7 +46,7 @@
     "name": "anby4",
     "character": "anby",
     "img": "anby/anby4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -60,7 +60,7 @@
     "name": "anby5",
     "character": "anby",
     "img": "anby/anby5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -74,7 +74,7 @@
     "name": "anby6",
     "character": "anby",
     "img": "anby/anby6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -88,7 +88,7 @@
     "name": "anby7",
     "character": "anby",
     "img": "anby/anby7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -102,7 +102,7 @@
     "name": "anby8",
     "character": "anby",
     "img": "anby/anby8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -116,7 +116,7 @@
     "name": "anton1",
     "character": "anton",
     "img": "anton/anton1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -130,7 +130,7 @@
     "name": "anton2",
     "character": "anton",
     "img": "anton/anton2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -144,7 +144,7 @@
     "name": "anton3",
     "character": "anton",
     "img": "anton/anton3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -158,7 +158,7 @@
     "name": "bangboo1",
     "character": "bangboo",
     "img": "bangboo/bangboo1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -172,7 +172,7 @@
     "name": "bangboo2",
     "character": "bangboo",
     "img": "bangboo/bangboo2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -186,7 +186,7 @@
     "name": "bangboo3",
     "character": "bangboo",
     "img": "bangboo/bangboo3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -200,7 +200,7 @@
     "name": "bangboo4",
     "character": "bangboo",
     "img": "bangboo/bangboo4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -214,7 +214,7 @@
     "name": "bangboo5",
     "character": "bangboo",
     "img": "bangboo/bangboo5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -228,7 +228,7 @@
     "name": "bangboo6",
     "character": "bangboo",
     "img": "bangboo/bangboo6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -242,7 +242,7 @@
     "name": "bangboo7",
     "character": "bangboo",
     "img": "bangboo/bangboo7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -256,7 +256,7 @@
     "name": "bangboo8",
     "character": "bangboo",
     "img": "bangboo/bangboo8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -270,7 +270,7 @@
     "name": "bangboo9",
     "character": "bangboo",
     "img": "bangboo/bangboo9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -284,7 +284,7 @@
     "name": "bangboo10",
     "character": "bangboo",
     "img": "bangboo/bangboo10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -298,7 +298,7 @@
     "name": "bangboo11",
     "character": "bangboo",
     "img": "bangboo/bangboo11.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -312,7 +312,7 @@
     "name": "bangboo12",
     "character": "bangboo",
     "img": "bangboo/bangboo12.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -326,7 +326,7 @@
     "name": "bangboo13",
     "character": "bangboo",
     "img": "bangboo/bangboo13.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -340,7 +340,7 @@
     "name": "bangboo14",
     "character": "bangboo",
     "img": "bangboo/bangboo14.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -354,7 +354,7 @@
     "name": "bangboo15",
     "character": "bangboo",
     "img": "bangboo/bangboo15.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -368,7 +368,7 @@
     "name": "bangboo16",
     "character": "bangboo",
     "img": "bangboo/bangboo16.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -382,7 +382,7 @@
     "name": "bangboo17",
     "character": "bangboo",
     "img": "bangboo/bangboo17.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -396,7 +396,7 @@
     "name": "bangboo18",
     "character": "bangboo",
     "img": "bangboo/bangboo18.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -410,7 +410,7 @@
     "name": "bangboo19",
     "character": "bangboo",
     "img": "bangboo/bangboo19.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -424,7 +424,7 @@
     "name": "bangboo20",
     "character": "bangboo",
     "img": "bangboo/bangboo20.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -438,7 +438,7 @@
     "name": "bangboo21",
     "character": "bangboo",
     "img": "bangboo/bangboo21.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -452,7 +452,7 @@
     "name": "bangboo22",
     "character": "bangboo",
     "img": "bangboo/bangboo22.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -466,7 +466,7 @@
     "name": "bangboo23",
     "character": "bangboo",
     "img": "bangboo/bangboo23.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -480,7 +480,7 @@
     "name": "bangboo24",
     "character": "bangboo",
     "img": "bangboo/bangboo24.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -494,7 +494,7 @@
     "name": "bangboo25",
     "character": "bangboo",
     "img": "bangboo/bangboo25.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -508,7 +508,7 @@
     "name": "bangboo26",
     "character": "bangboo",
     "img": "bangboo/bangboo26.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -522,7 +522,7 @@
     "name": "bangboo27",
     "character": "bangboo",
     "img": "bangboo/bangboo27.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -536,7 +536,7 @@
     "name": "bangboo28",
     "character": "bangboo",
     "img": "bangboo/bangboo28.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -550,7 +550,7 @@
     "name": "bangboo29",
     "character": "bangboo",
     "img": "bangboo/bangboo29.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -564,7 +564,7 @@
     "name": "bangboo30",
     "character": "bangboo",
     "img": "bangboo/bangboo30.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -578,7 +578,7 @@
     "name": "bangboo31",
     "character": "bangboo",
     "img": "bangboo/bangboo31.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -592,7 +592,7 @@
     "name": "bangboo32",
     "character": "bangboo",
     "img": "bangboo/bangboo32.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -606,7 +606,7 @@
     "name": "bangboo33",
     "character": "bangboo",
     "img": "bangboo/bangboo33.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -620,7 +620,7 @@
     "name": "bangboo34",
     "character": "bangboo",
     "img": "bangboo/bangboo34.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -634,7 +634,7 @@
     "name": "bangboo35",
     "character": "bangboo",
     "img": "bangboo/bangboo35.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -648,7 +648,7 @@
     "name": "bangboo36",
     "character": "bangboo",
     "img": "bangboo/bangboo36.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -662,7 +662,7 @@
     "name": "bangboo37",
     "character": "bangboo",
     "img": "bangboo/bangboo37.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -676,7 +676,7 @@
     "name": "bangboo38",
     "character": "bangboo",
     "img": "bangboo/bangboo38.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -690,7 +690,7 @@
     "name": "belle1",
     "character": "belle",
     "img": "belle/belle1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -704,7 +704,7 @@
     "name": "belle2",
     "character": "belle",
     "img": "belle/belle2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -718,7 +718,7 @@
     "name": "belle3",
     "character": "belle",
     "img": "belle/belle3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -732,7 +732,7 @@
     "name": "ben1",
     "character": "ben",
     "img": "ben/ben1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -746,7 +746,7 @@
     "name": "ben2",
     "character": "ben",
     "img": "ben/ben2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -760,7 +760,7 @@
     "name": "ben3",
     "character": "ben",
     "img": "ben/ben3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -774,7 +774,7 @@
     "name": "billy1",
     "character": "billy",
     "img": "billy/billy1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -788,7 +788,7 @@
     "name": "billy2",
     "character": "billy",
     "img": "billy/billy2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -802,7 +802,7 @@
     "name": "billy3",
     "character": "billy",
     "img": "billy/billy3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -816,7 +816,7 @@
     "name": "billy4",
     "character": "billy",
     "img": "billy/billy4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -830,7 +830,7 @@
     "name": "billy5",
     "character": "billy",
     "img": "billy/billy5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -844,7 +844,7 @@
     "name": "billy6",
     "character": "billy",
     "img": "billy/billy6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -858,7 +858,7 @@
     "name": "billy7",
     "character": "billy",
     "img": "billy/billy7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -872,7 +872,7 @@
     "name": "burnice1",
     "character": "burnice",
     "img": "burnice/burnice1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -886,7 +886,7 @@
     "name": "burnice2",
     "character": "burnice",
     "img": "burnice/burnice2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -900,7 +900,7 @@
     "name": "caesar1",
     "character": "caesar",
     "img": "caesar/caesar1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -914,7 +914,7 @@
     "name": "caesar2",
     "character": "caesar",
     "img": "caesar/caesar2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -928,7 +928,7 @@
     "name": "corin1",
     "character": "corin",
     "img": "corin/corin1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -942,7 +942,7 @@
     "name": "corin2",
     "character": "corin",
     "img": "corin/corin2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -956,7 +956,7 @@
     "name": "corin3",
     "character": "corin",
     "img": "corin/corin3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -970,7 +970,7 @@
     "name": "ellen1",
     "character": "ellen",
     "img": "ellen/ellen1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -984,7 +984,7 @@
     "name": "ellen2",
     "character": "ellen",
     "img": "ellen/ellen2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -998,7 +998,7 @@
     "name": "grace1",
     "character": "grace",
     "img": "grace/grace1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1012,7 +1012,7 @@
     "name": "grace2",
     "character": "grace",
     "img": "grace/grace2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1026,7 +1026,7 @@
     "name": "jane1",
     "character": "jane",
     "img": "jane/jane1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1040,7 +1040,7 @@
     "name": "jane2",
     "character": "jane",
     "img": "jane/jane2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1054,7 +1054,7 @@
     "name": "koleda1",
     "character": "koleda",
     "img": "koleda/koleda1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1068,7 +1068,7 @@
     "name": "koleda2",
     "character": "koleda",
     "img": "koleda/koleda2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1082,7 +1082,7 @@
     "name": "koleda3",
     "character": "koleda",
     "img": "koleda/koleda3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1096,7 +1096,7 @@
     "name": "lucy1",
     "character": "lucy",
     "img": "lucy/lucy1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1110,7 +1110,7 @@
     "name": "lucy2",
     "character": "lucy",
     "img": "lucy/lucy2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1124,7 +1124,7 @@
     "name": "lycaon1",
     "character": "lycaon",
     "img": "lycaon/lycaon1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1138,7 +1138,7 @@
     "name": "lycaon2",
     "character": "lycaon",
     "img": "lycaon/lycaon2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1152,7 +1152,7 @@
     "name": "lycaon3",
     "character": "lycaon",
     "img": "lycaon/lycaon3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1166,7 +1166,7 @@
     "name": "nekomata1",
     "character": "nekomata",
     "img": "nekomata/nekomata1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1180,7 +1180,7 @@
     "name": "nekomata2",
     "character": "nekomata",
     "img": "nekomata/nekomata2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1194,7 +1194,7 @@
     "name": "nekomata3",
     "character": "nekomata",
     "img": "nekomata/nekomata3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1208,7 +1208,7 @@
     "name": "nicole1",
     "character": "nicole",
     "img": "nicole/nicole1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1222,7 +1222,7 @@
     "name": "nicole2",
     "character": "nicole",
     "img": "nicole/nicole2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1236,7 +1236,7 @@
     "name": "nicole3",
     "character": "nicole",
     "img": "nicole/nicole3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1250,7 +1250,7 @@
     "name": "nicole4",
     "character": "nicole",
     "img": "nicole/nicole4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1264,7 +1264,7 @@
     "name": "nicole5",
     "character": "nicole",
     "img": "nicole/nicole5.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1278,7 +1278,7 @@
     "name": "nicole6",
     "character": "nicole",
     "img": "nicole/nicole6.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1292,7 +1292,7 @@
     "name": "nicole7",
     "character": "nicole",
     "img": "nicole/nicole7.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1306,7 +1306,7 @@
     "name": "nicole8",
     "character": "nicole",
     "img": "nicole/nicole8.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1320,7 +1320,7 @@
     "name": "nicole9",
     "character": "nicole",
     "img": "nicole/nicole9.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1334,7 +1334,7 @@
     "name": "nicole10",
     "character": "nicole",
     "img": "nicole/nicole10.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1348,7 +1348,7 @@
     "name": "other1",
     "character": "other",
     "img": "other/other1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1362,7 +1362,7 @@
     "name": "other2",
     "character": "other",
     "img": "other/other2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1376,7 +1376,7 @@
     "name": "other3",
     "character": "other",
     "img": "other/other3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1390,7 +1390,7 @@
     "name": "piper1",
     "character": "piper",
     "img": "piper/piper1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1404,7 +1404,7 @@
     "name": "piper2",
     "character": "piper",
     "img": "piper/piper2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1418,7 +1418,7 @@
     "name": "qingyi1",
     "character": "qingyi",
     "img": "qingyi/qingyi1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1432,7 +1432,7 @@
     "name": "qingyi2",
     "character": "qingyi",
     "img": "qingyi/qingyi2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1446,7 +1446,7 @@
     "name": "rina1",
     "character": "rina",
     "img": "rina/rina1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1460,7 +1460,7 @@
     "name": "rina2",
     "character": "rina",
     "img": "rina/rina2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1474,7 +1474,7 @@
     "name": "seth1",
     "character": "seth",
     "img": "seth/seth1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1488,7 +1488,7 @@
     "name": "seth2",
     "character": "seth",
     "img": "seth/seth2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1502,7 +1502,7 @@
     "name": "soldier111",
     "character": "soldier11",
     "img": "soldier11/soldier111.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1516,7 +1516,7 @@
     "name": "soldier112",
     "character": "soldier11",
     "img": "soldier11/soldier112.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1530,7 +1530,7 @@
     "name": "soldier113",
     "character": "soldier11",
     "img": "soldier11/soldier113.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1544,7 +1544,7 @@
     "name": "soukaku1",
     "character": "soukaku",
     "img": "soukaku/soukaku1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1558,7 +1558,7 @@
     "name": "soukaku2",
     "character": "soukaku",
     "img": "soukaku/soukaku2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1572,7 +1572,7 @@
     "name": "soukaku3",
     "character": "soukaku",
     "img": "soukaku/soukaku3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1586,7 +1586,7 @@
     "name": "wise1",
     "character": "wise",
     "img": "wise/wise1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1600,7 +1600,7 @@
     "name": "wise2",
     "character": "wise",
     "img": "wise/wise2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1614,7 +1614,7 @@
     "name": "wise3",
     "character": "wise",
     "img": "wise/wise3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1628,7 +1628,7 @@
     "name": "zhuyuan1",
     "character": "zhuyuan",
     "img": "zhuyuan/zhuyuan1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1642,7 +1642,7 @@
     "name": "zhuyuan2",
     "character": "zhuyuan",
     "img": "zhuyuan/zhuyuan2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,

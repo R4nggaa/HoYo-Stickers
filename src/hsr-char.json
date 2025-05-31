@@ -4,7 +4,7 @@
     "name": "acheron1",
     "character": "acheron",
     "img": "acheron/acheron1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -18,7 +18,7 @@
     "name": "acheron2",
     "character": "acheron",
     "img": "acheron/acheron2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -32,7 +32,7 @@
     "name": "acheron3",
     "character": "acheron",
     "img": "acheron/acheron3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -46,7 +46,7 @@
     "name": "acheron4",
     "character": "acheron",
     "img": "acheron/acheron4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -60,7 +60,7 @@
     "name": "aglaea1",
     "character": "aglaea",
     "img": "aglaea/aglaea1.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -74,7 +74,7 @@
     "name": "aglaea2",
     "character": "aglaea",
     "img": "aglaea/aglaea2.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -88,7 +88,7 @@
     "name": "aglaea3",
     "character": "aglaea",
     "img": "aglaea/aglaea3.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -102,7 +102,7 @@
     "name": "aglaea4",
     "character": "aglaea",
     "img": "aglaea/aglaea4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -113,10 +113,10 @@
   },
   {
     "id": "9",
-    "name": "argenti1",
-    "character": "argenti",
-    "img": "argenti/argenti1.png",
-    "color": "#0077DD",
+    "name": "aglaea5",
+    "character": "aglaea",
+    "img": "aglaea/aglaea5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -127,10 +127,10 @@
   },
   {
     "id": "10",
-    "name": "argenti2",
-    "character": "argenti",
-    "img": "argenti/argenti2.png",
-    "color": "#0077DD",
+    "name": "anaxa1",
+    "character": "anaxa",
+    "img": "anaxa/anaxa1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -141,10 +141,10 @@
   },
   {
     "id": "11",
-    "name": "argenti3",
+    "name": "argenti1",
     "character": "argenti",
-    "img": "argenti/argenti3.png",
-    "color": "#0077DD",
+    "img": "argenti/argenti1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -155,10 +155,10 @@
   },
   {
     "id": "12",
-    "name": "argenti4",
+    "name": "argenti2",
     "character": "argenti",
-    "img": "argenti/argenti4.png",
-    "color": "#0077DD",
+    "img": "argenti/argenti2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -169,10 +169,10 @@
   },
   {
     "id": "13",
-    "name": "arlan1",
-    "character": "arlan",
-    "img": "arlan/arlan1.png",
-    "color": "#0077DD",
+    "name": "argenti3",
+    "character": "argenti",
+    "img": "argenti/argenti3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -183,10 +183,10 @@
   },
   {
     "id": "14",
-    "name": "arlan2",
-    "character": "arlan",
-    "img": "arlan/arlan2.png",
-    "color": "#0077DD",
+    "name": "argenti4",
+    "character": "argenti",
+    "img": "argenti/argenti4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -197,10 +197,10 @@
   },
   {
     "id": "15",
-    "name": "asta1",
-    "character": "asta",
-    "img": "asta/asta1.png",
-    "color": "#0077DD",
+    "name": "arlan1",
+    "character": "arlan",
+    "img": "arlan/arlan1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -211,10 +211,10 @@
   },
   {
     "id": "16",
-    "name": "asta2",
-    "character": "asta",
-    "img": "asta/asta2.png",
-    "color": "#0077DD",
+    "name": "arlan2",
+    "character": "arlan",
+    "img": "arlan/arlan2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -225,10 +225,10 @@
   },
   {
     "id": "17",
-    "name": "aventurine1",
-    "character": "aventurine",
-    "img": "aventurine/aventurine1.png",
-    "color": "#0077DD",
+    "name": "asta1",
+    "character": "asta",
+    "img": "asta/asta1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -239,10 +239,10 @@
   },
   {
     "id": "18",
-    "name": "aventurine2",
-    "character": "aventurine",
-    "img": "aventurine/aventurine2.png",
-    "color": "#0077DD",
+    "name": "asta2",
+    "character": "asta",
+    "img": "asta/asta2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -253,10 +253,10 @@
   },
   {
     "id": "19",
-    "name": "aventurine3",
+    "name": "aventurine1",
     "character": "aventurine",
-    "img": "aventurine/aventurine3.png",
-    "color": "#0077DD",
+    "img": "aventurine/aventurine1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -267,10 +267,10 @@
   },
   {
     "id": "20",
-    "name": "aventurine4",
+    "name": "aventurine2",
     "character": "aventurine",
-    "img": "aventurine/aventurine4.png",
-    "color": "#0077DD",
+    "img": "aventurine/aventurine2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -281,10 +281,10 @@
   },
   {
     "id": "21",
-    "name": "aventurine5",
+    "name": "aventurine3",
     "character": "aventurine",
-    "img": "aventurine/aventurine5.png",
-    "color": "#0077DD",
+    "img": "aventurine/aventurine3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -295,10 +295,10 @@
   },
   {
     "id": "22",
-    "name": "bailu1",
-    "character": "bailu",
-    "img": "bailu/bailu1.png",
-    "color": "#0077DD",
+    "name": "aventurine4",
+    "character": "aventurine",
+    "img": "aventurine/aventurine4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -309,10 +309,10 @@
   },
   {
     "id": "23",
-    "name": "bailu2",
-    "character": "bailu",
-    "img": "bailu/bailu2.png",
-    "color": "#0077DD",
+    "name": "aventurine5",
+    "character": "aventurine",
+    "img": "aventurine/aventurine5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -323,10 +323,10 @@
   },
   {
     "id": "24",
-    "name": "bailu3",
+    "name": "bailu1",
     "character": "bailu",
-    "img": "bailu/bailu3.png",
-    "color": "#0077DD",
+    "img": "bailu/bailu1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -337,10 +337,10 @@
   },
   {
     "id": "25",
-    "name": "bailu4",
+    "name": "bailu2",
     "character": "bailu",
-    "img": "bailu/bailu4.png",
-    "color": "#0077DD",
+    "img": "bailu/bailu2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -351,10 +351,10 @@
   },
   {
     "id": "26",
-    "name": "blackswan1",
-    "character": "blackswan",
-    "img": "blackswan/blackswan1.png",
-    "color": "#0077DD",
+    "name": "bailu3",
+    "character": "bailu",
+    "img": "bailu/bailu3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -365,10 +365,10 @@
   },
   {
     "id": "27",
-    "name": "blackswan2",
-    "character": "blackswan",
-    "img": "blackswan/blackswan2.png",
-    "color": "#0077DD",
+    "name": "bailu4",
+    "character": "bailu",
+    "img": "bailu/bailu4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -379,10 +379,10 @@
   },
   {
     "id": "28",
-    "name": "blackswan3",
+    "name": "blackswan1",
     "character": "blackswan",
-    "img": "blackswan/blackswan3.png",
-    "color": "#0077DD",
+    "img": "blackswan/blackswan1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -393,10 +393,10 @@
   },
   {
     "id": "29",
-    "name": "blackswan4",
+    "name": "blackswan2",
     "character": "blackswan",
-    "img": "blackswan/blackswan4.png",
-    "color": "#0077DD",
+    "img": "blackswan/blackswan2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -407,10 +407,10 @@
   },
   {
     "id": "30",
-    "name": "blade1",
-    "character": "blade",
-    "img": "blade/blade1.png",
-    "color": "#0077DD",
+    "name": "blackswan3",
+    "character": "blackswan",
+    "img": "blackswan/blackswan3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -421,10 +421,10 @@
   },
   {
     "id": "31",
-    "name": "blade2",
-    "character": "blade",
-    "img": "blade/blade2.png",
-    "color": "#0077DD",
+    "name": "blackswan4",
+    "character": "blackswan",
+    "img": "blackswan/blackswan4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -435,10 +435,10 @@
   },
   {
     "id": "32",
-    "name": "blade3",
+    "name": "blade1",
     "character": "blade",
-    "img": "blade/blade3.png",
-    "color": "#0077DD",
+    "img": "blade/blade1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -449,10 +449,10 @@
   },
   {
     "id": "33",
-    "name": "blade4",
+    "name": "blade2",
     "character": "blade",
-    "img": "blade/blade4.png",
-    "color": "#0077DD",
+    "img": "blade/blade2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -463,10 +463,10 @@
   },
   {
     "id": "34",
-    "name": "blade5",
+    "name": "blade3",
     "character": "blade",
-    "img": "blade/blade5.png",
-    "color": "#0077DD",
+    "img": "blade/blade3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -477,10 +477,10 @@
   },
   {
     "id": "35",
-    "name": "boothill1",
-    "character": "boothill",
-    "img": "boothill/boothill1.png",
-    "color": "#0077DD",
+    "name": "blade4",
+    "character": "blade",
+    "img": "blade/blade4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -491,10 +491,10 @@
   },
   {
     "id": "36",
-    "name": "boothill2",
-    "character": "boothill",
-    "img": "boothill/boothill2.png",
-    "color": "#0077DD",
+    "name": "blade5",
+    "character": "blade",
+    "img": "blade/blade5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -505,10 +505,10 @@
   },
   {
     "id": "37",
-    "name": "boothill3",
+    "name": "boothill1",
     "character": "boothill",
-    "img": "boothill/boothill3.png",
-    "color": "#0077DD",
+    "img": "boothill/boothill1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -519,10 +519,10 @@
   },
   {
     "id": "38",
-    "name": "boothill4",
+    "name": "boothill2",
     "character": "boothill",
-    "img": "boothill/boothill4.png",
-    "color": "#0077DD",
+    "img": "boothill/boothill2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -533,10 +533,10 @@
   },
   {
     "id": "39",
-    "name": "boothill5",
+    "name": "boothill3",
     "character": "boothill",
-    "img": "boothill/boothill5.png",
-    "color": "#0077DD",
+    "img": "boothill/boothill3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -547,10 +547,10 @@
   },
   {
     "id": "40",
-    "name": "boothill6",
+    "name": "boothill4",
     "character": "boothill",
-    "img": "boothill/boothill6.png",
-    "color": "#0077DD",
+    "img": "boothill/boothill4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -561,10 +561,10 @@
   },
   {
     "id": "41",
-    "name": "bronya1",
-    "character": "bronya",
-    "img": "bronya/bronya1.png",
-    "color": "#0077DD",
+    "name": "boothill5",
+    "character": "boothill",
+    "img": "boothill/boothill5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -575,10 +575,10 @@
   },
   {
     "id": "42",
-    "name": "bronya2",
-    "character": "bronya",
-    "img": "bronya/bronya2.png",
-    "color": "#0077DD",
+    "name": "boothill6",
+    "character": "boothill",
+    "img": "boothill/boothill6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -589,10 +589,10 @@
   },
   {
     "id": "43",
-    "name": "bronya3",
+    "name": "bronya1",
     "character": "bronya",
-    "img": "bronya/bronya3.png",
-    "color": "#0077DD",
+    "img": "bronya/bronya1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -603,10 +603,10 @@
   },
   {
     "id": "44",
-    "name": "castorice1",
-    "character": "castorice",
-    "img": "castorice/castorice1.png",
-    "color": "#0077DD",
+    "name": "bronya2",
+    "character": "bronya",
+    "img": "bronya/bronya2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -617,10 +617,10 @@
   },
   {
     "id": "45",
-    "name": "chimera1",
-    "character": "chimera",
-    "img": "chimera/chimera1.png",
-    "color": "#0077DD",
+    "name": "bronya3",
+    "character": "bronya",
+    "img": "bronya/bronya3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -631,10 +631,10 @@
   },
   {
     "id": "46",
-    "name": "clara1",
-    "character": "clara",
-    "img": "clara/clara1.png",
-    "color": "#0077DD",
+    "name": "castorice1",
+    "character": "castorice",
+    "img": "castorice/castorice1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -645,10 +645,10 @@
   },
   {
     "id": "47",
-    "name": "clara2",
-    "character": "clara",
-    "img": "clara/clara2.png",
-    "color": "#0077DD",
+    "name": "castorice2",
+    "character": "castorice",
+    "img": "castorice/castorice2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -659,10 +659,10 @@
   },
   {
     "id": "48",
-    "name": "danheng1",
-    "character": "danheng",
-    "img": "danheng/danheng1.png",
-    "color": "#0077DD",
+    "name": "chimera1",
+    "character": "chimera",
+    "img": "chimera/chimera1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -673,10 +673,10 @@
   },
   {
     "id": "49",
-    "name": "danheng2",
-    "character": "danheng",
-    "img": "danheng/danheng2.png",
-    "color": "#0077DD",
+    "name": "cipher1",
+    "character": "cipher",
+    "img": "cipher/cipher1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -687,10 +687,10 @@
   },
   {
     "id": "50",
-    "name": "danheng3",
-    "character": "danheng",
-    "img": "danheng/danheng3.png",
-    "color": "#0077DD",
+    "name": "clara1",
+    "character": "clara",
+    "img": "clara/clara1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -701,10 +701,10 @@
   },
   {
     "id": "51",
-    "name": "danheng4",
-    "character": "danheng",
-    "img": "danheng/danheng4.png",
-    "color": "#0077DD",
+    "name": "clara2",
+    "character": "clara",
+    "img": "clara/clara2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -715,10 +715,10 @@
   },
   {
     "id": "52",
-    "name": "danheng5",
+    "name": "danheng1",
     "character": "danheng",
-    "img": "danheng/danheng5.png",
-    "color": "#0077DD",
+    "img": "danheng/danheng1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -729,10 +729,10 @@
   },
   {
     "id": "53",
-    "name": "danheng6",
+    "name": "danheng2",
     "character": "danheng",
-    "img": "danheng/danheng6.png",
-    "color": "#0077DD",
+    "img": "danheng/danheng2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -743,10 +743,10 @@
   },
   {
     "id": "54",
-    "name": "danheng7",
+    "name": "danheng3",
     "character": "danheng",
-    "img": "danheng/danheng7.png",
-    "color": "#0077DD",
+    "img": "danheng/danheng3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -757,10 +757,10 @@
   },
   {
     "id": "55",
-    "name": "drratio1",
-    "character": "drratio",
-    "img": "drratio/drratio1.png",
-    "color": "#0077DD",
+    "name": "danheng4",
+    "character": "danheng",
+    "img": "danheng/danheng4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -771,10 +771,10 @@
   },
   {
     "id": "56",
-    "name": "drratio2",
-    "character": "drratio",
-    "img": "drratio/drratio2.png",
-    "color": "#0077DD",
+    "name": "danheng5",
+    "character": "danheng",
+    "img": "danheng/danheng5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -785,10 +785,10 @@
   },
   {
     "id": "57",
-    "name": "drratio3",
-    "character": "drratio",
-    "img": "drratio/drratio3.png",
-    "color": "#0077DD",
+    "name": "danheng6",
+    "character": "danheng",
+    "img": "danheng/danheng6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -799,10 +799,10 @@
   },
   {
     "id": "58",
-    "name": "drratio4",
-    "character": "drratio",
-    "img": "drratio/drratio4.png",
-    "color": "#0077DD",
+    "name": "danheng7",
+    "character": "danheng",
+    "img": "danheng/danheng7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -813,10 +813,10 @@
   },
   {
     "id": "59",
-    "name": "feixiao1",
-    "character": "feixiao",
-    "img": "feixiao/feixiao1.png",
-    "color": "#0077DD",
+    "name": "danheng8",
+    "character": "danheng",
+    "img": "danheng/danheng8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -827,10 +827,10 @@
   },
   {
     "id": "60",
-    "name": "feixiao2",
-    "character": "feixiao",
-    "img": "feixiao/feixiao2.png",
-    "color": "#0077DD",
+    "name": "drratio1",
+    "character": "drratio",
+    "img": "drratio/drratio1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -841,10 +841,10 @@
   },
   {
     "id": "61",
-    "name": "feixiao3",
-    "character": "feixiao",
-    "img": "feixiao/feixiao3.png",
-    "color": "#0077DD",
+    "name": "drratio2",
+    "character": "drratio",
+    "img": "drratio/drratio2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -855,10 +855,10 @@
   },
   {
     "id": "62",
-    "name": "feixiao4",
-    "character": "feixiao",
-    "img": "feixiao/feixiao4.png",
-    "color": "#0077DD",
+    "name": "drratio3",
+    "character": "drratio",
+    "img": "drratio/drratio3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -869,10 +869,10 @@
   },
   {
     "id": "63",
-    "name": "feixiao5",
-    "character": "feixiao",
-    "img": "feixiao/feixiao5.png",
-    "color": "#0077DD",
+    "name": "drratio4",
+    "character": "drratio",
+    "img": "drratio/drratio4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -883,10 +883,10 @@
   },
   {
     "id": "64",
-    "name": "firefly1",
-    "character": "firefly",
-    "img": "firefly/firefly1.png",
-    "color": "#0077DD",
+    "name": "feixiao1",
+    "character": "feixiao",
+    "img": "feixiao/feixiao1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -897,10 +897,10 @@
   },
   {
     "id": "65",
-    "name": "firefly2",
-    "character": "firefly",
-    "img": "firefly/firefly2.png",
-    "color": "#0077DD",
+    "name": "feixiao2",
+    "character": "feixiao",
+    "img": "feixiao/feixiao2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -911,10 +911,10 @@
   },
   {
     "id": "66",
-    "name": "firefly3",
-    "character": "firefly",
-    "img": "firefly/firefly3.png",
-    "color": "#0077DD",
+    "name": "feixiao3",
+    "character": "feixiao",
+    "img": "feixiao/feixiao3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -925,10 +925,10 @@
   },
   {
     "id": "67",
-    "name": "firefly4",
-    "character": "firefly",
-    "img": "firefly/firefly4.png",
-    "color": "#0077DD",
+    "name": "feixiao4",
+    "character": "feixiao",
+    "img": "feixiao/feixiao4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -939,10 +939,10 @@
   },
   {
     "id": "68",
-    "name": "fugue1",
-    "character": "fugue",
-    "img": "fugue/fugue1.png",
-    "color": "#0077DD",
+    "name": "feixiao5",
+    "character": "feixiao",
+    "img": "feixiao/feixiao5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -953,10 +953,10 @@
   },
   {
     "id": "69",
-    "name": "fugue2",
-    "character": "fugue",
-    "img": "fugue/fugue2.png",
-    "color": "#0077DD",
+    "name": "firefly1",
+    "character": "firefly",
+    "img": "firefly/firefly1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -967,10 +967,10 @@
   },
   {
     "id": "70",
-    "name": "fugue3",
-    "character": "fugue",
-    "img": "fugue/fugue3.png",
-    "color": "#0077DD",
+    "name": "firefly2",
+    "character": "firefly",
+    "img": "firefly/firefly2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -981,10 +981,10 @@
   },
   {
     "id": "71",
-    "name": "fugue4",
-    "character": "fugue",
-    "img": "fugue/fugue4.png",
-    "color": "#0077DD",
+    "name": "firefly3",
+    "character": "firefly",
+    "img": "firefly/firefly3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -995,10 +995,10 @@
   },
   {
     "id": "72",
-    "name": "fuxuan1",
-    "character": "fuxuan",
-    "img": "fuxuan/fuxuan1.png",
-    "color": "#0077DD",
+    "name": "firefly4",
+    "character": "firefly",
+    "img": "firefly/firefly4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1009,10 +1009,10 @@
   },
   {
     "id": "73",
-    "name": "fuxuan2",
-    "character": "fuxuan",
-    "img": "fuxuan/fuxuan2.png",
-    "color": "#0077DD",
+    "name": "fugue1",
+    "character": "fugue",
+    "img": "fugue/fugue1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1023,10 +1023,10 @@
   },
   {
     "id": "74",
-    "name": "fuxuan3",
-    "character": "fuxuan",
-    "img": "fuxuan/fuxuan3.png",
-    "color": "#0077DD",
+    "name": "fugue2",
+    "character": "fugue",
+    "img": "fugue/fugue2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1037,10 +1037,10 @@
   },
   {
     "id": "75",
-    "name": "fuxuan4",
-    "character": "fuxuan",
-    "img": "fuxuan/fuxuan4.png",
-    "color": "#0077DD",
+    "name": "fugue3",
+    "character": "fugue",
+    "img": "fugue/fugue3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1051,10 +1051,10 @@
   },
   {
     "id": "76",
-    "name": "fuxuan5",
-    "character": "fuxuan",
-    "img": "fuxuan/fuxuan5.png",
-    "color": "#0077DD",
+    "name": "fugue4",
+    "character": "fugue",
+    "img": "fugue/fugue4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1065,10 +1065,10 @@
   },
   {
     "id": "77",
-    "name": "gallagher1",
-    "character": "gallagher",
-    "img": "gallagher/gallagher1.png",
-    "color": "#0077DD",
+    "name": "fuxuan1",
+    "character": "fuxuan",
+    "img": "fuxuan/fuxuan1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1079,10 +1079,10 @@
   },
   {
     "id": "78",
-    "name": "gallagher2",
-    "character": "gallagher",
-    "img": "gallagher/gallagher2.png",
-    "color": "#0077DD",
+    "name": "fuxuan2",
+    "character": "fuxuan",
+    "img": "fuxuan/fuxuan2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1093,10 +1093,10 @@
   },
   {
     "id": "79",
-    "name": "gallagher3",
-    "character": "gallagher",
-    "img": "gallagher/gallagher3.png",
-    "color": "#0077DD",
+    "name": "fuxuan3",
+    "character": "fuxuan",
+    "img": "fuxuan/fuxuan3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1107,10 +1107,10 @@
   },
   {
     "id": "80",
-    "name": "gepard1",
-    "character": "gepard",
-    "img": "gepard/gepard1.png",
-    "color": "#0077DD",
+    "name": "fuxuan4",
+    "character": "fuxuan",
+    "img": "fuxuan/fuxuan4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1121,10 +1121,10 @@
   },
   {
     "id": "81",
-    "name": "gepard2",
-    "character": "gepard",
-    "img": "gepard/gepard2.png",
-    "color": "#0077DD",
+    "name": "fuxuan5",
+    "character": "fuxuan",
+    "img": "fuxuan/fuxuan5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1135,10 +1135,10 @@
   },
   {
     "id": "82",
-    "name": "gepard3",
-    "character": "gepard",
-    "img": "gepard/gepard3.png",
-    "color": "#0077DD",
+    "name": "gallagher1",
+    "character": "gallagher",
+    "img": "gallagher/gallagher1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1149,10 +1149,10 @@
   },
   {
     "id": "83",
-    "name": "guinaifen1",
-    "character": "guinaifen",
-    "img": "guinaifen/guinaifen1.png",
-    "color": "#0077DD",
+    "name": "gallagher2",
+    "character": "gallagher",
+    "img": "gallagher/gallagher2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1163,10 +1163,10 @@
   },
   {
     "id": "84",
-    "name": "guinaifen2",
-    "character": "guinaifen",
-    "img": "guinaifen/guinaifen2.png",
-    "color": "#0077DD",
+    "name": "gallagher3",
+    "character": "gallagher",
+    "img": "gallagher/gallagher3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1177,10 +1177,10 @@
   },
   {
     "id": "85",
-    "name": "guinaifen3",
-    "character": "guinaifen",
-    "img": "guinaifen/guinaifen3.png",
-    "color": "#0077DD",
+    "name": "gepard1",
+    "character": "gepard",
+    "img": "gepard/gepard1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1191,10 +1191,10 @@
   },
   {
     "id": "86",
-    "name": "guinaifen4",
-    "character": "guinaifen",
-    "img": "guinaifen/guinaifen4.png",
-    "color": "#0077DD",
+    "name": "gepard2",
+    "character": "gepard",
+    "img": "gepard/gepard2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1205,10 +1205,10 @@
   },
   {
     "id": "87",
-    "name": "guinaifen5",
-    "character": "guinaifen",
-    "img": "guinaifen/guinaifen5.png",
-    "color": "#0077DD",
+    "name": "gepard3",
+    "character": "gepard",
+    "img": "gepard/gepard3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1219,10 +1219,10 @@
   },
   {
     "id": "88",
-    "name": "hanya1",
-    "character": "hanya",
-    "img": "hanya/hanya1.png",
-    "color": "#0077DD",
+    "name": "guinaifen1",
+    "character": "guinaifen",
+    "img": "guinaifen/guinaifen1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1233,10 +1233,10 @@
   },
   {
     "id": "89",
-    "name": "hanya2",
-    "character": "hanya",
-    "img": "hanya/hanya2.png",
-    "color": "#0077DD",
+    "name": "guinaifen2",
+    "character": "guinaifen",
+    "img": "guinaifen/guinaifen2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1247,10 +1247,10 @@
   },
   {
     "id": "90",
-    "name": "hanya3",
-    "character": "hanya",
-    "img": "hanya/hanya3.png",
-    "color": "#0077DD",
+    "name": "guinaifen3",
+    "character": "guinaifen",
+    "img": "guinaifen/guinaifen3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1261,10 +1261,10 @@
   },
   {
     "id": "91",
-    "name": "herta1",
-    "character": "herta",
-    "img": "herta/herta1.png",
-    "color": "#0077DD",
+    "name": "guinaifen4",
+    "character": "guinaifen",
+    "img": "guinaifen/guinaifen4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1275,10 +1275,10 @@
   },
   {
     "id": "92",
-    "name": "herta2",
-    "character": "herta",
-    "img": "herta/herta2.png",
-    "color": "#0077DD",
+    "name": "guinaifen5",
+    "character": "guinaifen",
+    "img": "guinaifen/guinaifen5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1289,10 +1289,10 @@
   },
   {
     "id": "93",
-    "name": "herta3",
-    "character": "herta",
-    "img": "herta/herta3.png",
-    "color": "#0077DD",
+    "name": "hanya1",
+    "character": "hanya",
+    "img": "hanya/hanya1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1303,10 +1303,10 @@
   },
   {
     "id": "94",
-    "name": "herta4",
-    "character": "herta",
-    "img": "herta/herta4.png",
-    "color": "#0077DD",
+    "name": "hanya2",
+    "character": "hanya",
+    "img": "hanya/hanya2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1317,10 +1317,10 @@
   },
   {
     "id": "95",
-    "name": "herta5",
-    "character": "herta",
-    "img": "herta/herta5.png",
-    "color": "#0077DD",
+    "name": "hanya3",
+    "character": "hanya",
+    "img": "hanya/hanya3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1331,10 +1331,10 @@
   },
   {
     "id": "96",
-    "name": "herta6",
+    "name": "herta1",
     "character": "herta",
-    "img": "herta/herta6.png",
-    "color": "#0077DD",
+    "img": "herta/herta1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1345,10 +1345,10 @@
   },
   {
     "id": "97",
-    "name": "herta7",
+    "name": "herta2",
     "character": "herta",
-    "img": "herta/herta7.png",
-    "color": "#0077DD",
+    "img": "herta/herta2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1359,10 +1359,10 @@
   },
   {
     "id": "98",
-    "name": "herta8",
+    "name": "herta3",
     "character": "herta",
-    "img": "herta/herta8.png",
-    "color": "#0077DD",
+    "img": "herta/herta3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1373,10 +1373,10 @@
   },
   {
     "id": "99",
-    "name": "herta9",
+    "name": "herta4",
     "character": "herta",
-    "img": "herta/herta9.png",
-    "color": "#0077DD",
+    "img": "herta/herta4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1387,10 +1387,10 @@
   },
   {
     "id": "100",
-    "name": "himeko1",
-    "character": "himeko",
-    "img": "himeko/himeko1.png",
-    "color": "#0077DD",
+    "name": "herta5",
+    "character": "herta",
+    "img": "herta/herta5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1401,10 +1401,10 @@
   },
   {
     "id": "101",
-    "name": "himeko2",
-    "character": "himeko",
-    "img": "himeko/himeko2.png",
-    "color": "#0077DD",
+    "name": "herta6",
+    "character": "herta",
+    "img": "herta/herta6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1415,10 +1415,10 @@
   },
   {
     "id": "102",
-    "name": "himeko3",
-    "character": "himeko",
-    "img": "himeko/himeko3.png",
-    "color": "#0077DD",
+    "name": "herta7",
+    "character": "herta",
+    "img": "herta/herta7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1429,10 +1429,10 @@
   },
   {
     "id": "103",
-    "name": "hook1",
-    "character": "hook",
-    "img": "hook/hook1.png",
-    "color": "#0077DD",
+    "name": "herta8",
+    "character": "herta",
+    "img": "herta/herta8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1443,10 +1443,10 @@
   },
   {
     "id": "104",
-    "name": "hook2",
-    "character": "hook",
-    "img": "hook/hook2.png",
-    "color": "#0077DD",
+    "name": "herta9",
+    "character": "herta",
+    "img": "herta/herta9.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1457,10 +1457,10 @@
   },
   {
     "id": "105",
-    "name": "huohuo1",
-    "character": "huohuo",
-    "img": "huohuo/huohuo1.png",
-    "color": "#0077DD",
+    "name": "himeko1",
+    "character": "himeko",
+    "img": "himeko/himeko1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1471,10 +1471,10 @@
   },
   {
     "id": "106",
-    "name": "huohuo2",
-    "character": "huohuo",
-    "img": "huohuo/huohuo2.png",
-    "color": "#0077DD",
+    "name": "himeko2",
+    "character": "himeko",
+    "img": "himeko/himeko2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1485,10 +1485,10 @@
   },
   {
     "id": "107",
-    "name": "huohuo3",
-    "character": "huohuo",
-    "img": "huohuo/huohuo3.png",
-    "color": "#0077DD",
+    "name": "himeko3",
+    "character": "himeko",
+    "img": "himeko/himeko3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1499,10 +1499,10 @@
   },
   {
     "id": "108",
-    "name": "huohuo4",
-    "character": "huohuo",
-    "img": "huohuo/huohuo4.png",
-    "color": "#0077DD",
+    "name": "himeko4",
+    "character": "himeko",
+    "img": "himeko/himeko4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1513,10 +1513,10 @@
   },
   {
     "id": "109",
-    "name": "huohuo5",
-    "character": "huohuo",
-    "img": "huohuo/huohuo5.png",
-    "color": "#0077DD",
+    "name": "hook1",
+    "character": "hook",
+    "img": "hook/hook1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1527,10 +1527,10 @@
   },
   {
     "id": "110",
-    "name": "jade1",
-    "character": "jade",
-    "img": "jade/jade1.png",
-    "color": "#0077DD",
+    "name": "hook2",
+    "character": "hook",
+    "img": "hook/hook2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1541,10 +1541,10 @@
   },
   {
     "id": "111",
-    "name": "jade2",
-    "character": "jade",
-    "img": "jade/jade2.png",
-    "color": "#0077DD",
+    "name": "huohuo1",
+    "character": "huohuo",
+    "img": "huohuo/huohuo1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1555,10 +1555,10 @@
   },
   {
     "id": "112",
-    "name": "jade3",
-    "character": "jade",
-    "img": "jade/jade3.png",
-    "color": "#0077DD",
+    "name": "huohuo2",
+    "character": "huohuo",
+    "img": "huohuo/huohuo2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1569,10 +1569,10 @@
   },
   {
     "id": "113",
-    "name": "jade4",
-    "character": "jade",
-    "img": "jade/jade4.png",
-    "color": "#0077DD",
+    "name": "huohuo3",
+    "character": "huohuo",
+    "img": "huohuo/huohuo3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1583,10 +1583,10 @@
   },
   {
     "id": "114",
-    "name": "jiaoqiu1",
-    "character": "jiaoqiu",
-    "img": "jiaoqiu/jiaoqiu1.png",
-    "color": "#0077DD",
+    "name": "huohuo4",
+    "character": "huohuo",
+    "img": "huohuo/huohuo4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1597,10 +1597,10 @@
   },
   {
     "id": "115",
-    "name": "jiaoqiu2",
-    "character": "jiaoqiu",
-    "img": "jiaoqiu/jiaoqiu2.png",
-    "color": "#0077DD",
+    "name": "huohuo5",
+    "character": "huohuo",
+    "img": "huohuo/huohuo5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1611,10 +1611,10 @@
   },
   {
     "id": "116",
-    "name": "jiaoqiu3",
-    "character": "jiaoqiu",
-    "img": "jiaoqiu/jiaoqiu3.png",
-    "color": "#0077DD",
+    "name": "hyacine1",
+    "character": "hyacine",
+    "img": "hyacine/hyacine1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1625,10 +1625,10 @@
   },
   {
     "id": "117",
-    "name": "jiaoqiu4",
-    "character": "jiaoqiu",
-    "img": "jiaoqiu/jiaoqiu4.png",
-    "color": "#0077DD",
+    "name": "jade1",
+    "character": "jade",
+    "img": "jade/jade1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1639,10 +1639,10 @@
   },
   {
     "id": "118",
-    "name": "jingliu1",
-    "character": "jingliu",
-    "img": "jingliu/jingliu1.png",
-    "color": "#0077DD",
+    "name": "jade2",
+    "character": "jade",
+    "img": "jade/jade2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1653,10 +1653,10 @@
   },
   {
     "id": "119",
-    "name": "jingliu2",
-    "character": "jingliu",
-    "img": "jingliu/jingliu2.png",
-    "color": "#0077DD",
+    "name": "jade3",
+    "character": "jade",
+    "img": "jade/jade3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1667,10 +1667,10 @@
   },
   {
     "id": "120",
-    "name": "jingliu3",
-    "character": "jingliu",
-    "img": "jingliu/jingliu3.png",
-    "color": "#0077DD",
+    "name": "jade4",
+    "character": "jade",
+    "img": "jade/jade4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1681,10 +1681,10 @@
   },
   {
     "id": "121",
-    "name": "jingliu4",
-    "character": "jingliu",
-    "img": "jingliu/jingliu4.png",
-    "color": "#0077DD",
+    "name": "jiaoqiu1",
+    "character": "jiaoqiu",
+    "img": "jiaoqiu/jiaoqiu1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1695,10 +1695,10 @@
   },
   {
     "id": "122",
-    "name": "jingyuan1",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan1.png",
-    "color": "#0077DD",
+    "name": "jiaoqiu2",
+    "character": "jiaoqiu",
+    "img": "jiaoqiu/jiaoqiu2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1709,10 +1709,10 @@
   },
   {
     "id": "123",
-    "name": "jingyuan2",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan2.png",
-    "color": "#0077DD",
+    "name": "jiaoqiu3",
+    "character": "jiaoqiu",
+    "img": "jiaoqiu/jiaoqiu3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1723,10 +1723,10 @@
   },
   {
     "id": "124",
-    "name": "jingyuan3",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan3.png",
-    "color": "#0077DD",
+    "name": "jiaoqiu4",
+    "character": "jiaoqiu",
+    "img": "jiaoqiu/jiaoqiu4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1737,10 +1737,10 @@
   },
   {
     "id": "125",
-    "name": "jingyuan4",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan4.png",
-    "color": "#0077DD",
+    "name": "jingliu1",
+    "character": "jingliu",
+    "img": "jingliu/jingliu1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1751,10 +1751,10 @@
   },
   {
     "id": "126",
-    "name": "jingyuan5",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan5.png",
-    "color": "#0077DD",
+    "name": "jingliu2",
+    "character": "jingliu",
+    "img": "jingliu/jingliu2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1765,10 +1765,10 @@
   },
   {
     "id": "127",
-    "name": "jingyuan6",
-    "character": "jingyuan",
-    "img": "jingyuan/jingyuan6.png",
-    "color": "#0077DD",
+    "name": "jingliu3",
+    "character": "jingliu",
+    "img": "jingliu/jingliu3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1779,10 +1779,10 @@
   },
   {
     "id": "128",
-    "name": "kafka1",
-    "character": "kafka",
-    "img": "kafka/kafka1.png",
-    "color": "#0077DD",
+    "name": "jingliu4",
+    "character": "jingliu",
+    "img": "jingliu/jingliu4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1793,10 +1793,10 @@
   },
   {
     "id": "129",
-    "name": "kafka2",
-    "character": "kafka",
-    "img": "kafka/kafka2.png",
-    "color": "#0077DD",
+    "name": "jingyuan1",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1807,10 +1807,10 @@
   },
   {
     "id": "130",
-    "name": "kafka3",
-    "character": "kafka",
-    "img": "kafka/kafka3.png",
-    "color": "#0077DD",
+    "name": "jingyuan2",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1821,10 +1821,10 @@
   },
   {
     "id": "131",
-    "name": "kafka4",
-    "character": "kafka",
-    "img": "kafka/kafka4.png",
-    "color": "#0077DD",
+    "name": "jingyuan3",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1835,10 +1835,10 @@
   },
   {
     "id": "132",
-    "name": "kafka5",
-    "character": "kafka",
-    "img": "kafka/kafka5.png",
-    "color": "#0077DD",
+    "name": "jingyuan4",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1849,10 +1849,10 @@
   },
   {
     "id": "133",
-    "name": "lingsha1",
-    "character": "lingsha",
-    "img": "lingsha/lingsha1.png",
-    "color": "#0077DD",
+    "name": "jingyuan5",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1863,10 +1863,10 @@
   },
   {
     "id": "134",
-    "name": "lingsha2",
-    "character": "lingsha",
-    "img": "lingsha/lingsha2.png",
-    "color": "#0077DD",
+    "name": "jingyuan6",
+    "character": "jingyuan",
+    "img": "jingyuan/jingyuan6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1877,10 +1877,10 @@
   },
   {
     "id": "135",
-    "name": "lingsha3",
-    "character": "lingsha",
-    "img": "lingsha/lingsha3.png",
-    "color": "#0077DD",
+    "name": "kafka1",
+    "character": "kafka",
+    "img": "kafka/kafka1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1891,10 +1891,10 @@
   },
   {
     "id": "136",
-    "name": "lingsha4",
-    "character": "lingsha",
-    "img": "lingsha/lingsha4.png",
-    "color": "#0077DD",
+    "name": "kafka2",
+    "character": "kafka",
+    "img": "kafka/kafka2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1905,10 +1905,10 @@
   },
   {
     "id": "137",
-    "name": "lingsha5",
-    "character": "lingsha",
-    "img": "lingsha/lingsha5.png",
-    "color": "#0077DD",
+    "name": "kafka3",
+    "character": "kafka",
+    "img": "kafka/kafka3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1919,10 +1919,10 @@
   },
   {
     "id": "138",
-    "name": "luka1",
-    "character": "luka",
-    "img": "luka/luka1.png",
-    "color": "#0077DD",
+    "name": "kafka4",
+    "character": "kafka",
+    "img": "kafka/kafka4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1933,10 +1933,10 @@
   },
   {
     "id": "139",
-    "name": "luka2",
-    "character": "luka",
-    "img": "luka/luka2.png",
-    "color": "#0077DD",
+    "name": "kafka5",
+    "character": "kafka",
+    "img": "kafka/kafka5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1947,10 +1947,10 @@
   },
   {
     "id": "140",
-    "name": "luka3",
-    "character": "luka",
-    "img": "luka/luka3.png",
-    "color": "#0077DD",
+    "name": "lingsha1",
+    "character": "lingsha",
+    "img": "lingsha/lingsha1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1961,10 +1961,10 @@
   },
   {
     "id": "141",
-    "name": "luocha1",
-    "character": "luocha",
-    "img": "luocha/luocha1.png",
-    "color": "#0077DD",
+    "name": "lingsha2",
+    "character": "lingsha",
+    "img": "lingsha/lingsha2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1975,10 +1975,10 @@
   },
   {
     "id": "142",
-    "name": "luocha2",
-    "character": "luocha",
-    "img": "luocha/luocha2.png",
-    "color": "#0077DD",
+    "name": "lingsha3",
+    "character": "lingsha",
+    "img": "lingsha/lingsha3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -1989,10 +1989,10 @@
   },
   {
     "id": "143",
-    "name": "luocha3",
-    "character": "luocha",
-    "img": "luocha/luocha3.png",
-    "color": "#0077DD",
+    "name": "lingsha4",
+    "character": "lingsha",
+    "img": "lingsha/lingsha4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2003,10 +2003,10 @@
   },
   {
     "id": "144",
-    "name": "luocha4",
-    "character": "luocha",
-    "img": "luocha/luocha4.png",
-    "color": "#0077DD",
+    "name": "lingsha5",
+    "character": "lingsha",
+    "img": "lingsha/lingsha5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2017,10 +2017,10 @@
   },
   {
     "id": "145",
-    "name": "lynx1",
-    "character": "lynx",
-    "img": "lynx/lynx1.png",
-    "color": "#0077DD",
+    "name": "luka1",
+    "character": "luka",
+    "img": "luka/luka1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2031,10 +2031,10 @@
   },
   {
     "id": "146",
-    "name": "lynx2",
-    "character": "lynx",
-    "img": "lynx/lynx2.png",
-    "color": "#0077DD",
+    "name": "luka2",
+    "character": "luka",
+    "img": "luka/luka2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2045,10 +2045,10 @@
   },
   {
     "id": "147",
-    "name": "lynx3",
-    "character": "lynx",
-    "img": "lynx/lynx3.png",
-    "color": "#0077DD",
+    "name": "luka3",
+    "character": "luka",
+    "img": "luka/luka3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2059,10 +2059,10 @@
   },
   {
     "id": "148",
-    "name": "march1",
-    "character": "march",
-    "img": "march/march1.png",
-    "color": "#0077DD",
+    "name": "luocha1",
+    "character": "luocha",
+    "img": "luocha/luocha1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2073,10 +2073,10 @@
   },
   {
     "id": "149",
-    "name": "march2",
-    "character": "march",
-    "img": "march/march2.png",
-    "color": "#0077DD",
+    "name": "luocha2",
+    "character": "luocha",
+    "img": "luocha/luocha2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2087,10 +2087,10 @@
   },
   {
     "id": "150",
-    "name": "march3",
-    "character": "march",
-    "img": "march/march3.png",
-    "color": "#0077DD",
+    "name": "luocha3",
+    "character": "luocha",
+    "img": "luocha/luocha3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2101,10 +2101,10 @@
   },
   {
     "id": "151",
-    "name": "march4",
-    "character": "march",
-    "img": "march/march4.png",
-    "color": "#0077DD",
+    "name": "luocha4",
+    "character": "luocha",
+    "img": "luocha/luocha4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2115,10 +2115,10 @@
   },
   {
     "id": "152",
-    "name": "march5",
-    "character": "march",
-    "img": "march/march5.png",
-    "color": "#0077DD",
+    "name": "lynx1",
+    "character": "lynx",
+    "img": "lynx/lynx1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2129,10 +2129,10 @@
   },
   {
     "id": "153",
-    "name": "march6",
-    "character": "march",
-    "img": "march/march6.png",
-    "color": "#0077DD",
+    "name": "lynx2",
+    "character": "lynx",
+    "img": "lynx/lynx2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2143,10 +2143,10 @@
   },
   {
     "id": "154",
-    "name": "march7",
-    "character": "march",
-    "img": "march/march7.png",
-    "color": "#0077DD",
+    "name": "lynx3",
+    "character": "lynx",
+    "img": "lynx/lynx3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2157,10 +2157,10 @@
   },
   {
     "id": "155",
-    "name": "march8",
+    "name": "march1",
     "character": "march",
-    "img": "march/march8.png",
-    "color": "#0077DD",
+    "img": "march/march1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2171,10 +2171,10 @@
   },
   {
     "id": "156",
-    "name": "march9",
+    "name": "march2",
     "character": "march",
-    "img": "march/march9.png",
-    "color": "#0077DD",
+    "img": "march/march2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2185,10 +2185,10 @@
   },
   {
     "id": "157",
-    "name": "march10",
+    "name": "march3",
     "character": "march",
-    "img": "march/march10.png",
-    "color": "#0077DD",
+    "img": "march/march3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2199,10 +2199,10 @@
   },
   {
     "id": "158",
-    "name": "march11",
+    "name": "march4",
     "character": "march",
-    "img": "march/march11.png",
-    "color": "#0077DD",
+    "img": "march/march4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2213,10 +2213,10 @@
   },
   {
     "id": "159",
-    "name": "march12",
+    "name": "march5",
     "character": "march",
-    "img": "march/march12.png",
-    "color": "#0077DD",
+    "img": "march/march5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2227,10 +2227,10 @@
   },
   {
     "id": "160",
-    "name": "march13",
+    "name": "march6",
     "character": "march",
-    "img": "march/march13.png",
-    "color": "#0077DD",
+    "img": "march/march6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2241,10 +2241,10 @@
   },
   {
     "id": "161",
-    "name": "march14",
+    "name": "march7",
     "character": "march",
-    "img": "march/march14.png",
-    "color": "#0077DD",
+    "img": "march/march7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2255,10 +2255,10 @@
   },
   {
     "id": "162",
-    "name": "march15",
+    "name": "march8",
     "character": "march",
-    "img": "march/march15.png",
-    "color": "#0077DD",
+    "img": "march/march8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2269,10 +2269,10 @@
   },
   {
     "id": "163",
-    "name": "march16",
+    "name": "march9",
     "character": "march",
-    "img": "march/march16.png",
-    "color": "#0077DD",
+    "img": "march/march9.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2283,10 +2283,10 @@
   },
   {
     "id": "164",
-    "name": "march17",
+    "name": "march10",
     "character": "march",
-    "img": "march/march17.png",
-    "color": "#0077DD",
+    "img": "march/march10.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2297,10 +2297,10 @@
   },
   {
     "id": "165",
-    "name": "march18",
+    "name": "march11",
     "character": "march",
-    "img": "march/march18.png",
-    "color": "#0077DD",
+    "img": "march/march11.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2311,10 +2311,10 @@
   },
   {
     "id": "166",
-    "name": "march19",
+    "name": "march12",
     "character": "march",
-    "img": "march/march19.png",
-    "color": "#0077DD",
+    "img": "march/march12.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2325,10 +2325,10 @@
   },
   {
     "id": "167",
-    "name": "march20",
+    "name": "march13",
     "character": "march",
-    "img": "march/march20.png",
-    "color": "#0077DD",
+    "img": "march/march13.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2339,10 +2339,10 @@
   },
   {
     "id": "168",
-    "name": "march21",
+    "name": "march14",
     "character": "march",
-    "img": "march/march21.png",
-    "color": "#0077DD",
+    "img": "march/march14.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2353,10 +2353,10 @@
   },
   {
     "id": "169",
-    "name": "mem1",
-    "character": "mem",
-    "img": "mem/mem1.png",
-    "color": "#0077DD",
+    "name": "march15",
+    "character": "march",
+    "img": "march/march15.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2367,10 +2367,10 @@
   },
   {
     "id": "170",
-    "name": "mem2",
-    "character": "mem",
-    "img": "mem/mem2.png",
-    "color": "#0077DD",
+    "name": "march16",
+    "character": "march",
+    "img": "march/march16.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2381,10 +2381,10 @@
   },
   {
     "id": "171",
-    "name": "mem3",
-    "character": "mem",
-    "img": "mem/mem3.png",
-    "color": "#0077DD",
+    "name": "march17",
+    "character": "march",
+    "img": "march/march17.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2395,10 +2395,10 @@
   },
   {
     "id": "172",
-    "name": "misha1",
-    "character": "misha",
-    "img": "misha/misha1.png",
-    "color": "#0077DD",
+    "name": "march18",
+    "character": "march",
+    "img": "march/march18.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2409,10 +2409,10 @@
   },
   {
     "id": "173",
-    "name": "misha2",
-    "character": "misha",
-    "img": "misha/misha2.png",
-    "color": "#0077DD",
+    "name": "march19",
+    "character": "march",
+    "img": "march/march19.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2423,10 +2423,10 @@
   },
   {
     "id": "174",
-    "name": "misha3",
-    "character": "misha",
-    "img": "misha/misha3.png",
-    "color": "#0077DD",
+    "name": "march20",
+    "character": "march",
+    "img": "march/march20.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2437,10 +2437,10 @@
   },
   {
     "id": "175",
-    "name": "moze1",
-    "character": "moze",
-    "img": "moze/moze1.png",
-    "color": "#0077DD",
+    "name": "march21",
+    "character": "march",
+    "img": "march/march21.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2451,10 +2451,10 @@
   },
   {
     "id": "176",
-    "name": "moze2",
-    "character": "moze",
-    "img": "moze/moze2.png",
-    "color": "#0077DD",
+    "name": "march22",
+    "character": "march",
+    "img": "march/march22.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2465,10 +2465,10 @@
   },
   {
     "id": "177",
-    "name": "moze3",
-    "character": "moze",
-    "img": "moze/moze3.png",
-    "color": "#0077DD",
+    "name": "mem1",
+    "character": "mem",
+    "img": "mem/mem1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2479,10 +2479,10 @@
   },
   {
     "id": "178",
-    "name": "mydei1",
-    "character": "mydei",
-    "img": "mydei/mydei1.png",
-    "color": "#0077DD",
+    "name": "mem2",
+    "character": "mem",
+    "img": "mem/mem2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2493,10 +2493,10 @@
   },
   {
     "id": "179",
-    "name": "mydei2",
-    "character": "mydei",
-    "img": "mydei/mydei2.png",
-    "color": "#0077DD",
+    "name": "mem3",
+    "character": "mem",
+    "img": "mem/mem3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2507,10 +2507,10 @@
   },
   {
     "id": "180",
-    "name": "mydei3",
-    "character": "mydei",
-    "img": "mydei/mydei3.png",
-    "color": "#0077DD",
+    "name": "mem4",
+    "character": "mem",
+    "img": "mem/mem4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2521,10 +2521,10 @@
   },
   {
     "id": "181",
-    "name": "mydei4",
-    "character": "mydei",
-    "img": "mydei/mydei4.png",
-    "color": "#0077DD",
+    "name": "misha1",
+    "character": "misha",
+    "img": "misha/misha1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2535,10 +2535,10 @@
   },
   {
     "id": "182",
-    "name": "natasha1",
-    "character": "natasha",
-    "img": "natasha/natasha1.png",
-    "color": "#0077DD",
+    "name": "misha2",
+    "character": "misha",
+    "img": "misha/misha2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2549,10 +2549,10 @@
   },
   {
     "id": "183",
-    "name": "other1",
-    "character": "other",
-    "img": "other/other1.png",
-    "color": "#0077DD",
+    "name": "misha3",
+    "character": "misha",
+    "img": "misha/misha3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2563,10 +2563,10 @@
   },
   {
     "id": "184",
-    "name": "other2",
-    "character": "other",
-    "img": "other/other2.png",
-    "color": "#0077DD",
+    "name": "moze1",
+    "character": "moze",
+    "img": "moze/moze1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2577,10 +2577,10 @@
   },
   {
     "id": "185",
-    "name": "other3",
-    "character": "other",
-    "img": "other/other3.png",
-    "color": "#0077DD",
+    "name": "moze2",
+    "character": "moze",
+    "img": "moze/moze2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2591,10 +2591,10 @@
   },
   {
     "id": "186",
-    "name": "other4",
-    "character": "other",
-    "img": "other/other4.png",
-    "color": "#0077DD",
+    "name": "moze3",
+    "character": "moze",
+    "img": "moze/moze3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2605,10 +2605,10 @@
   },
   {
     "id": "187",
-    "name": "other5",
-    "character": "other",
-    "img": "other/other5.png",
-    "color": "#0077DD",
+    "name": "mydei1",
+    "character": "mydei",
+    "img": "mydei/mydei1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2619,10 +2619,10 @@
   },
   {
     "id": "188",
-    "name": "other6",
-    "character": "other",
-    "img": "other/other6.png",
-    "color": "#0077DD",
+    "name": "mydei2",
+    "character": "mydei",
+    "img": "mydei/mydei2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2633,10 +2633,10 @@
   },
   {
     "id": "189",
-    "name": "other7",
-    "character": "other",
-    "img": "other/other7.png",
-    "color": "#0077DD",
+    "name": "mydei3",
+    "character": "mydei",
+    "img": "mydei/mydei3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2647,10 +2647,10 @@
   },
   {
     "id": "190",
-    "name": "other8",
-    "character": "other",
-    "img": "other/other8.png",
-    "color": "#0077DD",
+    "name": "mydei4",
+    "character": "mydei",
+    "img": "mydei/mydei4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2661,10 +2661,10 @@
   },
   {
     "id": "191",
-    "name": "other9",
-    "character": "other",
-    "img": "other/other9.png",
-    "color": "#0077DD",
+    "name": "mydei5",
+    "character": "mydei",
+    "img": "mydei/mydei5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2675,10 +2675,10 @@
   },
   {
     "id": "192",
-    "name": "other10",
-    "character": "other",
-    "img": "other/other10.png",
-    "color": "#0077DD",
+    "name": "natasha1",
+    "character": "natasha",
+    "img": "natasha/natasha1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2689,10 +2689,10 @@
   },
   {
     "id": "193",
-    "name": "other11",
+    "name": "other1",
     "character": "other",
-    "img": "other/other11.png",
-    "color": "#0077DD",
+    "img": "other/other1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2703,10 +2703,10 @@
   },
   {
     "id": "194",
-    "name": "other12",
+    "name": "other2",
     "character": "other",
-    "img": "other/other12.png",
-    "color": "#0077DD",
+    "img": "other/other2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2717,10 +2717,10 @@
   },
   {
     "id": "195",
-    "name": "other13",
+    "name": "other3",
     "character": "other",
-    "img": "other/other13.png",
-    "color": "#0077DD",
+    "img": "other/other3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2731,10 +2731,10 @@
   },
   {
     "id": "196",
-    "name": "other14",
+    "name": "other4",
     "character": "other",
-    "img": "other/other14.png",
-    "color": "#0077DD",
+    "img": "other/other4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2745,10 +2745,10 @@
   },
   {
     "id": "197",
-    "name": "other15",
+    "name": "other5",
     "character": "other",
-    "img": "other/other15.png",
-    "color": "#0077DD",
+    "img": "other/other5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2759,10 +2759,10 @@
   },
   {
     "id": "198",
-    "name": "other16",
+    "name": "other6",
     "character": "other",
-    "img": "other/other16.png",
-    "color": "#0077DD",
+    "img": "other/other6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2773,10 +2773,10 @@
   },
   {
     "id": "199",
-    "name": "other17",
+    "name": "other7",
     "character": "other",
-    "img": "other/other17.png",
-    "color": "#0077DD",
+    "img": "other/other7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2787,10 +2787,10 @@
   },
   {
     "id": "200",
-    "name": "other18",
+    "name": "other8",
     "character": "other",
-    "img": "other/other18.png",
-    "color": "#0077DD",
+    "img": "other/other8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2801,10 +2801,10 @@
   },
   {
     "id": "201",
-    "name": "other19",
+    "name": "other9",
     "character": "other",
-    "img": "other/other19.png",
-    "color": "#0077DD",
+    "img": "other/other9.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2815,10 +2815,10 @@
   },
   {
     "id": "202",
-    "name": "other20",
+    "name": "other10",
     "character": "other",
-    "img": "other/other20.png",
-    "color": "#0077DD",
+    "img": "other/other10.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2829,10 +2829,10 @@
   },
   {
     "id": "203",
-    "name": "other21",
+    "name": "other11",
     "character": "other",
-    "img": "other/other21.png",
-    "color": "#0077DD",
+    "img": "other/other11.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2843,10 +2843,10 @@
   },
   {
     "id": "204",
-    "name": "other22",
+    "name": "other12",
     "character": "other",
-    "img": "other/other22.png",
-    "color": "#0077DD",
+    "img": "other/other12.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2857,10 +2857,10 @@
   },
   {
     "id": "205",
-    "name": "other23",
+    "name": "other13",
     "character": "other",
-    "img": "other/other23.png",
-    "color": "#0077DD",
+    "img": "other/other13.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2871,10 +2871,10 @@
   },
   {
     "id": "206",
-    "name": "other24",
+    "name": "other14",
     "character": "other",
-    "img": "other/other24.png",
-    "color": "#0077DD",
+    "img": "other/other14.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2885,10 +2885,10 @@
   },
   {
     "id": "207",
-    "name": "other25",
+    "name": "other15",
     "character": "other",
-    "img": "other/other25.png",
-    "color": "#0077DD",
+    "img": "other/other15.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2899,10 +2899,10 @@
   },
   {
     "id": "208",
-    "name": "other26",
+    "name": "other16",
     "character": "other",
-    "img": "other/other26.png",
-    "color": "#0077DD",
+    "img": "other/other16.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2913,10 +2913,10 @@
   },
   {
     "id": "209",
-    "name": "other27",
+    "name": "other17",
     "character": "other",
-    "img": "other/other27.png",
-    "color": "#0077DD",
+    "img": "other/other17.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2927,10 +2927,10 @@
   },
   {
     "id": "210",
-    "name": "other28",
+    "name": "other18",
     "character": "other",
-    "img": "other/other28.png",
-    "color": "#0077DD",
+    "img": "other/other18.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2941,10 +2941,10 @@
   },
   {
     "id": "211",
-    "name": "other29",
+    "name": "other19",
     "character": "other",
-    "img": "other/other29.png",
-    "color": "#0077DD",
+    "img": "other/other19.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2955,10 +2955,10 @@
   },
   {
     "id": "212",
-    "name": "pela1",
-    "character": "pela",
-    "img": "pela/pela1.png",
-    "color": "#0077DD",
+    "name": "other20",
+    "character": "other",
+    "img": "other/other20.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2969,10 +2969,10 @@
   },
   {
     "id": "213",
-    "name": "pela2",
-    "character": "pela",
-    "img": "pela/pela2.png",
-    "color": "#0077DD",
+    "name": "other21",
+    "character": "other",
+    "img": "other/other21.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2983,10 +2983,10 @@
   },
   {
     "id": "214",
-    "name": "phainon1",
-    "character": "phainon",
-    "img": "phainon/phainon1.png",
-    "color": "#0077DD",
+    "name": "other22",
+    "character": "other",
+    "img": "other/other22.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -2997,10 +2997,10 @@
   },
   {
     "id": "215",
-    "name": "pompom1",
-    "character": "pompom",
-    "img": "pompom/pompom1.png",
-    "color": "#0077DD",
+    "name": "other23",
+    "character": "other",
+    "img": "other/other23.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3011,10 +3011,10 @@
   },
   {
     "id": "216",
-    "name": "pompom2",
-    "character": "pompom",
-    "img": "pompom/pompom2.png",
-    "color": "#0077DD",
+    "name": "other24",
+    "character": "other",
+    "img": "other/other24.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3025,10 +3025,10 @@
   },
   {
     "id": "217",
-    "name": "pompom3",
-    "character": "pompom",
-    "img": "pompom/pompom3.png",
-    "color": "#0077DD",
+    "name": "other25",
+    "character": "other",
+    "img": "other/other25.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3039,10 +3039,10 @@
   },
   {
     "id": "218",
-    "name": "pompom4",
-    "character": "pompom",
-    "img": "pompom/pompom4.png",
-    "color": "#0077DD",
+    "name": "other26",
+    "character": "other",
+    "img": "other/other26.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3053,10 +3053,10 @@
   },
   {
     "id": "219",
-    "name": "pompom5",
-    "character": "pompom",
-    "img": "pompom/pompom5.png",
-    "color": "#0077DD",
+    "name": "other27",
+    "character": "other",
+    "img": "other/other27.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3067,10 +3067,10 @@
   },
   {
     "id": "220",
-    "name": "pompom6",
-    "character": "pompom",
-    "img": "pompom/pompom6.png",
-    "color": "#0077DD",
+    "name": "other28",
+    "character": "other",
+    "img": "other/other28.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3081,10 +3081,10 @@
   },
   {
     "id": "221",
-    "name": "pompom7",
-    "character": "pompom",
-    "img": "pompom/pompom7.png",
-    "color": "#0077DD",
+    "name": "other29",
+    "character": "other",
+    "img": "other/other29.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3095,10 +3095,10 @@
   },
   {
     "id": "222",
-    "name": "pompom8",
-    "character": "pompom",
-    "img": "pompom/pompom8.png",
-    "color": "#0077DD",
+    "name": "pela1",
+    "character": "pela",
+    "img": "pela/pela1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3109,10 +3109,10 @@
   },
   {
     "id": "223",
-    "name": "pompom9",
-    "character": "pompom",
-    "img": "pompom/pompom9.png",
-    "color": "#0077DD",
+    "name": "pela2",
+    "character": "pela",
+    "img": "pela/pela2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3123,10 +3123,10 @@
   },
   {
     "id": "224",
-    "name": "pompom10",
-    "character": "pompom",
-    "img": "pompom/pompom10.png",
-    "color": "#0077DD",
+    "name": "phainon1",
+    "character": "phainon",
+    "img": "phainon/phainon1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3137,10 +3137,10 @@
   },
   {
     "id": "225",
-    "name": "pompom11",
-    "character": "pompom",
-    "img": "pompom/pompom11.png",
-    "color": "#0077DD",
+    "name": "phainon2",
+    "character": "phainon",
+    "img": "phainon/phainon2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3151,10 +3151,10 @@
   },
   {
     "id": "226",
-    "name": "pompom12",
+    "name": "pompom1",
     "character": "pompom",
-    "img": "pompom/pompom12.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3165,10 +3165,10 @@
   },
   {
     "id": "227",
-    "name": "pompom13",
+    "name": "pompom2",
     "character": "pompom",
-    "img": "pompom/pompom13.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3179,10 +3179,10 @@
   },
   {
     "id": "228",
-    "name": "pompom14",
+    "name": "pompom3",
     "character": "pompom",
-    "img": "pompom/pompom14.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3193,10 +3193,10 @@
   },
   {
     "id": "229",
-    "name": "pompom15",
+    "name": "pompom4",
     "character": "pompom",
-    "img": "pompom/pompom15.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3207,10 +3207,10 @@
   },
   {
     "id": "230",
-    "name": "pompom16",
+    "name": "pompom5",
     "character": "pompom",
-    "img": "pompom/pompom16.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3221,10 +3221,10 @@
   },
   {
     "id": "231",
-    "name": "pompom17",
+    "name": "pompom6",
     "character": "pompom",
-    "img": "pompom/pompom17.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3235,10 +3235,10 @@
   },
   {
     "id": "232",
-    "name": "pompom18",
+    "name": "pompom7",
     "character": "pompom",
-    "img": "pompom/pompom18.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3249,10 +3249,10 @@
   },
   {
     "id": "233",
-    "name": "pompom19",
+    "name": "pompom8",
     "character": "pompom",
-    "img": "pompom/pompom19.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3263,10 +3263,10 @@
   },
   {
     "id": "234",
-    "name": "pompom20",
+    "name": "pompom9",
     "character": "pompom",
-    "img": "pompom/pompom20.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom9.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3277,10 +3277,10 @@
   },
   {
     "id": "235",
-    "name": "pompom21",
+    "name": "pompom10",
     "character": "pompom",
-    "img": "pompom/pompom21.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom10.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3291,10 +3291,10 @@
   },
   {
     "id": "236",
-    "name": "pompom22",
+    "name": "pompom11",
     "character": "pompom",
-    "img": "pompom/pompom22.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom11.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3305,10 +3305,10 @@
   },
   {
     "id": "237",
-    "name": "pompom23",
+    "name": "pompom12",
     "character": "pompom",
-    "img": "pompom/pompom23.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom12.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3319,10 +3319,10 @@
   },
   {
     "id": "238",
-    "name": "pompom24",
+    "name": "pompom13",
     "character": "pompom",
-    "img": "pompom/pompom24.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom13.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3333,10 +3333,10 @@
   },
   {
     "id": "239",
-    "name": "pompom25",
+    "name": "pompom14",
     "character": "pompom",
-    "img": "pompom/pompom25.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom14.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3347,10 +3347,10 @@
   },
   {
     "id": "240",
-    "name": "pompom26",
+    "name": "pompom15",
     "character": "pompom",
-    "img": "pompom/pompom26.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom15.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3361,10 +3361,10 @@
   },
   {
     "id": "241",
-    "name": "pompom27",
+    "name": "pompom16",
     "character": "pompom",
-    "img": "pompom/pompom27.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom16.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3375,10 +3375,10 @@
   },
   {
     "id": "242",
-    "name": "pompom28",
+    "name": "pompom17",
     "character": "pompom",
-    "img": "pompom/pompom28.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom17.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3389,10 +3389,10 @@
   },
   {
     "id": "243",
-    "name": "pompom29",
+    "name": "pompom18",
     "character": "pompom",
-    "img": "pompom/pompom29.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom18.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3403,10 +3403,10 @@
   },
   {
     "id": "244",
-    "name": "pompom30",
+    "name": "pompom19",
     "character": "pompom",
-    "img": "pompom/pompom30.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom19.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3417,10 +3417,10 @@
   },
   {
     "id": "245",
-    "name": "pompom31",
+    "name": "pompom20",
     "character": "pompom",
-    "img": "pompom/pompom31.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom20.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3431,10 +3431,10 @@
   },
   {
     "id": "246",
-    "name": "pompom32",
+    "name": "pompom21",
     "character": "pompom",
-    "img": "pompom/pompom32.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom21.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3445,10 +3445,10 @@
   },
   {
     "id": "247",
-    "name": "pompom33",
+    "name": "pompom22",
     "character": "pompom",
-    "img": "pompom/pompom33.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom22.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3459,10 +3459,10 @@
   },
   {
     "id": "248",
-    "name": "pompom34",
+    "name": "pompom23",
     "character": "pompom",
-    "img": "pompom/pompom34.png",
-    "color": "#0077DD",
+    "img": "pompom/pompom23.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3473,10 +3473,10 @@
   },
   {
     "id": "249",
-    "name": "qingque1",
-    "character": "qingque",
-    "img": "qingque/qingque1.png",
-    "color": "#0077DD",
+    "name": "pompom24",
+    "character": "pompom",
+    "img": "pompom/pompom24.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3487,10 +3487,10 @@
   },
   {
     "id": "250",
-    "name": "qingque2",
-    "character": "qingque",
-    "img": "qingque/qingque2.png",
-    "color": "#0077DD",
+    "name": "pompom25",
+    "character": "pompom",
+    "img": "pompom/pompom25.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3501,10 +3501,10 @@
   },
   {
     "id": "251",
-    "name": "rappa1",
-    "character": "rappa",
-    "img": "rappa/rappa1.png",
-    "color": "#0077DD",
+    "name": "pompom26",
+    "character": "pompom",
+    "img": "pompom/pompom26.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3515,10 +3515,10 @@
   },
   {
     "id": "252",
-    "name": "rappa2",
-    "character": "rappa",
-    "img": "rappa/rappa2.png",
-    "color": "#0077DD",
+    "name": "pompom27",
+    "character": "pompom",
+    "img": "pompom/pompom27.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3529,10 +3529,10 @@
   },
   {
     "id": "253",
-    "name": "rappa3",
-    "character": "rappa",
-    "img": "rappa/rappa3.png",
-    "color": "#0077DD",
+    "name": "pompom28",
+    "character": "pompom",
+    "img": "pompom/pompom28.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3543,10 +3543,10 @@
   },
   {
     "id": "254",
-    "name": "rappa4",
-    "character": "rappa",
-    "img": "rappa/rappa4.png",
-    "color": "#0077DD",
+    "name": "pompom29",
+    "character": "pompom",
+    "img": "pompom/pompom29.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3557,10 +3557,10 @@
   },
   {
     "id": "255",
-    "name": "rappa5",
-    "character": "rappa",
-    "img": "rappa/rappa5.png",
-    "color": "#0077DD",
+    "name": "pompom30",
+    "character": "pompom",
+    "img": "pompom/pompom30.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3571,10 +3571,10 @@
   },
   {
     "id": "256",
-    "name": "rappa6",
-    "character": "rappa",
-    "img": "rappa/rappa6.png",
-    "color": "#0077DD",
+    "name": "pompom31",
+    "character": "pompom",
+    "img": "pompom/pompom31.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3585,10 +3585,10 @@
   },
   {
     "id": "257",
-    "name": "reca1",
-    "character": "reca",
-    "img": "reca/reca1.png",
-    "color": "#0077DD",
+    "name": "pompom32",
+    "character": "pompom",
+    "img": "pompom/pompom32.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3599,10 +3599,10 @@
   },
   {
     "id": "258",
-    "name": "reca2",
-    "character": "reca",
-    "img": "reca/reca2.png",
-    "color": "#0077DD",
+    "name": "pompom33",
+    "character": "pompom",
+    "img": "pompom/pompom33.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3613,10 +3613,10 @@
   },
   {
     "id": "259",
-    "name": "reca3",
-    "character": "reca",
-    "img": "reca/reca3.png",
-    "color": "#0077DD",
+    "name": "pompom34",
+    "character": "pompom",
+    "img": "pompom/pompom34.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3627,10 +3627,10 @@
   },
   {
     "id": "260",
-    "name": "robin1",
-    "character": "robin",
-    "img": "robin/robin1.png",
-    "color": "#0077DD",
+    "name": "pompom35",
+    "character": "pompom",
+    "img": "pompom/pompom35.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3641,10 +3641,10 @@
   },
   {
     "id": "261",
-    "name": "robin2",
-    "character": "robin",
-    "img": "robin/robin2.png",
-    "color": "#0077DD",
+    "name": "qingque1",
+    "character": "qingque",
+    "img": "qingque/qingque1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3655,10 +3655,10 @@
   },
   {
     "id": "262",
-    "name": "robin3",
-    "character": "robin",
-    "img": "robin/robin3.png",
-    "color": "#0077DD",
+    "name": "qingque2",
+    "character": "qingque",
+    "img": "qingque/qingque2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3669,10 +3669,10 @@
   },
   {
     "id": "263",
-    "name": "robin4",
-    "character": "robin",
-    "img": "robin/robin4.png",
-    "color": "#0077DD",
+    "name": "rappa1",
+    "character": "rappa",
+    "img": "rappa/rappa1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3683,10 +3683,10 @@
   },
   {
     "id": "264",
-    "name": "robin5",
-    "character": "robin",
-    "img": "robin/robin5.png",
-    "color": "#0077DD",
+    "name": "rappa2",
+    "character": "rappa",
+    "img": "rappa/rappa2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3697,10 +3697,10 @@
   },
   {
     "id": "265",
-    "name": "ruanmei1",
-    "character": "ruanmei",
-    "img": "ruanmei/ruanmei1.png",
-    "color": "#0077DD",
+    "name": "rappa3",
+    "character": "rappa",
+    "img": "rappa/rappa3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3711,10 +3711,10 @@
   },
   {
     "id": "266",
-    "name": "ruanmei2",
-    "character": "ruanmei",
-    "img": "ruanmei/ruanmei2.png",
-    "color": "#0077DD",
+    "name": "rappa4",
+    "character": "rappa",
+    "img": "rappa/rappa4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3725,10 +3725,10 @@
   },
   {
     "id": "267",
-    "name": "ruanmei3",
-    "character": "ruanmei",
-    "img": "ruanmei/ruanmei3.png",
-    "color": "#0077DD",
+    "name": "rappa5",
+    "character": "rappa",
+    "img": "rappa/rappa5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3739,10 +3739,10 @@
   },
   {
     "id": "268",
-    "name": "ruanmei4",
-    "character": "ruanmei",
-    "img": "ruanmei/ruanmei4.png",
-    "color": "#0077DD",
+    "name": "rappa6",
+    "character": "rappa",
+    "img": "rappa/rappa6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3753,10 +3753,10 @@
   },
   {
     "id": "269",
-    "name": "ruanmei5",
-    "character": "ruanmei",
-    "img": "ruanmei/ruanmei5.png",
-    "color": "#0077DD",
+    "name": "reca1",
+    "character": "reca",
+    "img": "reca/reca1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3767,10 +3767,10 @@
   },
   {
     "id": "270",
-    "name": "sampo1",
-    "character": "sampo",
-    "img": "sampo/sampo1.png",
-    "color": "#0077DD",
+    "name": "reca2",
+    "character": "reca",
+    "img": "reca/reca2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3781,10 +3781,10 @@
   },
   {
     "id": "271",
-    "name": "sampo2",
-    "character": "sampo",
-    "img": "sampo/sampo2.png",
-    "color": "#0077DD",
+    "name": "reca3",
+    "character": "reca",
+    "img": "reca/reca3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3795,10 +3795,10 @@
   },
   {
     "id": "272",
-    "name": "sampo3",
-    "character": "sampo",
-    "img": "sampo/sampo3.png",
-    "color": "#0077DD",
+    "name": "robin1",
+    "character": "robin",
+    "img": "robin/robin1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3809,10 +3809,10 @@
   },
   {
     "id": "273",
-    "name": "sampo4",
-    "character": "sampo",
-    "img": "sampo/sampo4.png",
-    "color": "#0077DD",
+    "name": "robin2",
+    "character": "robin",
+    "img": "robin/robin2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3823,10 +3823,10 @@
   },
   {
     "id": "274",
-    "name": "screwllum1",
-    "character": "screwllum",
-    "img": "screwllum/screwllum1.png",
-    "color": "#0077DD",
+    "name": "robin3",
+    "character": "robin",
+    "img": "robin/robin3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3837,10 +3837,10 @@
   },
   {
     "id": "275",
-    "name": "seele1",
-    "character": "seele",
-    "img": "seele/seele1.png",
-    "color": "#0077DD",
+    "name": "robin4",
+    "character": "robin",
+    "img": "robin/robin4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3851,10 +3851,10 @@
   },
   {
     "id": "276",
-    "name": "seele2",
-    "character": "seele",
-    "img": "seele/seele2.png",
-    "color": "#0077DD",
+    "name": "robin5",
+    "character": "robin",
+    "img": "robin/robin5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3865,10 +3865,10 @@
   },
   {
     "id": "277",
-    "name": "seele3",
-    "character": "seele",
-    "img": "seele/seele3.png",
-    "color": "#0077DD",
+    "name": "ruanmei1",
+    "character": "ruanmei",
+    "img": "ruanmei/ruanmei1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3879,10 +3879,10 @@
   },
   {
     "id": "278",
-    "name": "seele4",
-    "character": "seele",
-    "img": "seele/seele4.png",
-    "color": "#0077DD",
+    "name": "ruanmei2",
+    "character": "ruanmei",
+    "img": "ruanmei/ruanmei2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3893,10 +3893,10 @@
   },
   {
     "id": "279",
-    "name": "serval1",
-    "character": "serval",
-    "img": "serval/serval1.png",
-    "color": "#0077DD",
+    "name": "ruanmei3",
+    "character": "ruanmei",
+    "img": "ruanmei/ruanmei3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3907,10 +3907,10 @@
   },
   {
     "id": "280",
-    "name": "serval2",
-    "character": "serval",
-    "img": "serval/serval2.png",
-    "color": "#0077DD",
+    "name": "ruanmei4",
+    "character": "ruanmei",
+    "img": "ruanmei/ruanmei4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3921,10 +3921,10 @@
   },
   {
     "id": "281",
-    "name": "silverwolf1",
-    "character": "silverwolf",
-    "img": "silverwolf/silverwolf1.png",
-    "color": "#0077DD",
+    "name": "ruanmei5",
+    "character": "ruanmei",
+    "img": "ruanmei/ruanmei5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3935,10 +3935,10 @@
   },
   {
     "id": "282",
-    "name": "silverwolf2",
-    "character": "silverwolf",
-    "img": "silverwolf/silverwolf2.png",
-    "color": "#0077DD",
+    "name": "sampo1",
+    "character": "sampo",
+    "img": "sampo/sampo1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3949,10 +3949,10 @@
   },
   {
     "id": "283",
-    "name": "silverwolf3",
-    "character": "silverwolf",
-    "img": "silverwolf/silverwolf3.png",
-    "color": "#0077DD",
+    "name": "sampo2",
+    "character": "sampo",
+    "img": "sampo/sampo2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3963,10 +3963,10 @@
   },
   {
     "id": "284",
-    "name": "silverwolf4",
-    "character": "silverwolf",
-    "img": "silverwolf/silverwolf4.png",
-    "color": "#0077DD",
+    "name": "sampo3",
+    "character": "sampo",
+    "img": "sampo/sampo3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3977,10 +3977,10 @@
   },
   {
     "id": "285",
-    "name": "sparkle1",
-    "character": "sparkle",
-    "img": "sparkle/sparkle1.png",
-    "color": "#0077DD",
+    "name": "sampo4",
+    "character": "sampo",
+    "img": "sampo/sampo4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -3991,10 +3991,10 @@
   },
   {
     "id": "286",
-    "name": "sparkle2",
-    "character": "sparkle",
-    "img": "sparkle/sparkle2.png",
-    "color": "#0077DD",
+    "name": "screwllum1",
+    "character": "screwllum",
+    "img": "screwllum/screwllum1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4005,10 +4005,10 @@
   },
   {
     "id": "287",
-    "name": "sparkle3",
-    "character": "sparkle",
-    "img": "sparkle/sparkle3.png",
-    "color": "#0077DD",
+    "name": "seele1",
+    "character": "seele",
+    "img": "seele/seele1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4019,10 +4019,10 @@
   },
   {
     "id": "288",
-    "name": "sparkle4",
-    "character": "sparkle",
-    "img": "sparkle/sparkle4.png",
-    "color": "#0077DD",
+    "name": "seele2",
+    "character": "seele",
+    "img": "seele/seele2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4033,10 +4033,10 @@
   },
   {
     "id": "289",
-    "name": "sparkle5",
-    "character": "sparkle",
-    "img": "sparkle/sparkle5.png",
-    "color": "#0077DD",
+    "name": "seele3",
+    "character": "seele",
+    "img": "seele/seele3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4047,10 +4047,10 @@
   },
   {
     "id": "290",
-    "name": "sparkle6",
-    "character": "sparkle",
-    "img": "sparkle/sparkle6.png",
-    "color": "#0077DD",
+    "name": "seele4",
+    "character": "seele",
+    "img": "seele/seele4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4061,10 +4061,10 @@
   },
   {
     "id": "291",
-    "name": "sunday1",
-    "character": "sunday",
-    "img": "sunday/sunday1.png",
-    "color": "#0077DD",
+    "name": "serval1",
+    "character": "serval",
+    "img": "serval/serval1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4075,10 +4075,10 @@
   },
   {
     "id": "292",
-    "name": "sunday2",
-    "character": "sunday",
-    "img": "sunday/sunday2.png",
-    "color": "#0077DD",
+    "name": "serval2",
+    "character": "serval",
+    "img": "serval/serval2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4089,10 +4089,10 @@
   },
   {
     "id": "293",
-    "name": "sunday3",
-    "character": "sunday",
-    "img": "sunday/sunday3.png",
-    "color": "#0077DD",
+    "name": "silverwolf1",
+    "character": "silverwolf",
+    "img": "silverwolf/silverwolf1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4103,10 +4103,10 @@
   },
   {
     "id": "294",
-    "name": "sunday4",
-    "character": "sunday",
-    "img": "sunday/sunday4.png",
-    "color": "#0077DD",
+    "name": "silverwolf2",
+    "character": "silverwolf",
+    "img": "silverwolf/silverwolf2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4117,10 +4117,10 @@
   },
   {
     "id": "295",
-    "name": "sunday5",
-    "character": "sunday",
-    "img": "sunday/sunday5.png",
-    "color": "#0077DD",
+    "name": "silverwolf3",
+    "character": "silverwolf",
+    "img": "silverwolf/silverwolf3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4131,10 +4131,10 @@
   },
   {
     "id": "296",
-    "name": "sunday6",
-    "character": "sunday",
-    "img": "sunday/sunday6.png",
-    "color": "#0077DD",
+    "name": "silverwolf4",
+    "character": "silverwolf",
+    "img": "silverwolf/silverwolf4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4145,10 +4145,10 @@
   },
   {
     "id": "297",
-    "name": "sushang1",
-    "character": "sushang",
-    "img": "sushang/sushang1.png",
-    "color": "#0077DD",
+    "name": "sparkle1",
+    "character": "sparkle",
+    "img": "sparkle/sparkle1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4159,10 +4159,10 @@
   },
   {
     "id": "298",
-    "name": "sushang2",
-    "character": "sushang",
-    "img": "sushang/sushang2.png",
-    "color": "#0077DD",
+    "name": "sparkle2",
+    "character": "sparkle",
+    "img": "sparkle/sparkle2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4173,10 +4173,10 @@
   },
   {
     "id": "299",
-    "name": "sushang3",
-    "character": "sushang",
-    "img": "sushang/sushang3.png",
-    "color": "#0077DD",
+    "name": "sparkle3",
+    "character": "sparkle",
+    "img": "sparkle/sparkle3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4187,10 +4187,10 @@
   },
   {
     "id": "300",
-    "name": "sushang4",
-    "character": "sushang",
-    "img": "sushang/sushang4.png",
-    "color": "#0077DD",
+    "name": "sparkle4",
+    "character": "sparkle",
+    "img": "sparkle/sparkle4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4201,10 +4201,10 @@
   },
   {
     "id": "301",
-    "name": "tingyun1",
-    "character": "tingyun",
-    "img": "tingyun/tingyun1.png",
-    "color": "#0077DD",
+    "name": "sparkle5",
+    "character": "sparkle",
+    "img": "sparkle/sparkle5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4215,10 +4215,10 @@
   },
   {
     "id": "302",
-    "name": "tingyun2",
-    "character": "tingyun",
-    "img": "tingyun/tingyun2.png",
-    "color": "#0077DD",
+    "name": "sparkle6",
+    "character": "sparkle",
+    "img": "sparkle/sparkle6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4229,10 +4229,10 @@
   },
   {
     "id": "303",
-    "name": "tingyun3",
-    "character": "tingyun",
-    "img": "tingyun/tingyun3.png",
-    "color": "#0077DD",
+    "name": "sunday1",
+    "character": "sunday",
+    "img": "sunday/sunday1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4243,10 +4243,10 @@
   },
   {
     "id": "304",
-    "name": "topaz1",
-    "character": "topaz",
-    "img": "topaz/topaz1.png",
-    "color": "#0077DD",
+    "name": "sunday2",
+    "character": "sunday",
+    "img": "sunday/sunday2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4257,10 +4257,10 @@
   },
   {
     "id": "305",
-    "name": "topaz2",
-    "character": "topaz",
-    "img": "topaz/topaz2.png",
-    "color": "#0077DD",
+    "name": "sunday3",
+    "character": "sunday",
+    "img": "sunday/sunday3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4271,10 +4271,10 @@
   },
   {
     "id": "306",
-    "name": "topaz3",
-    "character": "topaz",
-    "img": "topaz/topaz3.png",
-    "color": "#0077DD",
+    "name": "sunday4",
+    "character": "sunday",
+    "img": "sunday/sunday4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4285,10 +4285,10 @@
   },
   {
     "id": "307",
-    "name": "topaz4",
-    "character": "topaz",
-    "img": "topaz/topaz4.png",
-    "color": "#0077DD",
+    "name": "sunday5",
+    "character": "sunday",
+    "img": "sunday/sunday5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4299,10 +4299,10 @@
   },
   {
     "id": "308",
-    "name": "topaz5",
-    "character": "topaz",
-    "img": "topaz/topaz5.png",
-    "color": "#0077DD",
+    "name": "sunday6",
+    "character": "sunday",
+    "img": "sunday/sunday6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4313,10 +4313,10 @@
   },
   {
     "id": "309",
-    "name": "trailblazer1",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer1.png",
-    "color": "#0077DD",
+    "name": "sushang1",
+    "character": "sushang",
+    "img": "sushang/sushang1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4327,10 +4327,10 @@
   },
   {
     "id": "310",
-    "name": "trailblazer2",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer2.png",
-    "color": "#0077DD",
+    "name": "sushang2",
+    "character": "sushang",
+    "img": "sushang/sushang2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4341,10 +4341,10 @@
   },
   {
     "id": "311",
-    "name": "trailblazer3",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer3.png",
-    "color": "#0077DD",
+    "name": "sushang3",
+    "character": "sushang",
+    "img": "sushang/sushang3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4355,10 +4355,10 @@
   },
   {
     "id": "312",
-    "name": "trailblazer4",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer4.png",
-    "color": "#0077DD",
+    "name": "sushang4",
+    "character": "sushang",
+    "img": "sushang/sushang4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4369,10 +4369,10 @@
   },
   {
     "id": "313",
-    "name": "trailblazer5",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer5.png",
-    "color": "#0077DD",
+    "name": "tingyun1",
+    "character": "tingyun",
+    "img": "tingyun/tingyun1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4383,10 +4383,10 @@
   },
   {
     "id": "314",
-    "name": "trailblazer6",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer6.png",
-    "color": "#0077DD",
+    "name": "tingyun2",
+    "character": "tingyun",
+    "img": "tingyun/tingyun2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4397,10 +4397,10 @@
   },
   {
     "id": "315",
-    "name": "trailblazer7",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer7.png",
-    "color": "#0077DD",
+    "name": "tingyun3",
+    "character": "tingyun",
+    "img": "tingyun/tingyun3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4411,10 +4411,10 @@
   },
   {
     "id": "316",
-    "name": "trailblazer8",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer8.png",
-    "color": "#0077DD",
+    "name": "topaz1",
+    "character": "topaz",
+    "img": "topaz/topaz1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4425,10 +4425,10 @@
   },
   {
     "id": "317",
-    "name": "trailblazer9",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer9.png",
-    "color": "#0077DD",
+    "name": "topaz2",
+    "character": "topaz",
+    "img": "topaz/topaz2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4439,10 +4439,10 @@
   },
   {
     "id": "318",
-    "name": "trailblazer10",
-    "character": "trailblazer",
-    "img": "trailblazer/trailblazer10.png",
-    "color": "#0077DD",
+    "name": "topaz3",
+    "character": "topaz",
+    "img": "topaz/topaz3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4453,10 +4453,10 @@
   },
   {
     "id": "319",
-    "name": "tribbie1",
-    "character": "tribbie",
-    "img": "tribbie/tribbie1.png",
-    "color": "#0077DD",
+    "name": "topaz4",
+    "character": "topaz",
+    "img": "topaz/topaz4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4467,10 +4467,10 @@
   },
   {
     "id": "320",
-    "name": "tribbie2",
-    "character": "tribbie",
-    "img": "tribbie/tribbie2.png",
-    "color": "#0077DD",
+    "name": "topaz5",
+    "character": "topaz",
+    "img": "topaz/topaz5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4481,10 +4481,10 @@
   },
   {
     "id": "321",
-    "name": "tribbie3",
-    "character": "tribbie",
-    "img": "tribbie/tribbie3.png",
-    "color": "#0077DD",
+    "name": "trailblazer1",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4495,10 +4495,10 @@
   },
   {
     "id": "322",
-    "name": "tribbie4",
-    "character": "tribbie",
-    "img": "tribbie/tribbie4.png",
-    "color": "#0077DD",
+    "name": "trailblazer2",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4509,10 +4509,10 @@
   },
   {
     "id": "323",
-    "name": "tuskpir1",
-    "character": "tuskpir",
-    "img": "tuskpir/tuskpir1.png",
-    "color": "#0077DD",
+    "name": "trailblazer3",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4523,10 +4523,10 @@
   },
   {
     "id": "324",
-    "name": "welt1",
-    "character": "welt",
-    "img": "welt/welt1.png",
-    "color": "#0077DD",
+    "name": "trailblazer4",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4537,10 +4537,10 @@
   },
   {
     "id": "325",
-    "name": "welt2",
-    "character": "welt",
-    "img": "welt/welt2.png",
-    "color": "#0077DD",
+    "name": "trailblazer5",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4551,10 +4551,10 @@
   },
   {
     "id": "326",
-    "name": "welt3",
-    "character": "welt",
-    "img": "welt/welt3.png",
-    "color": "#0077DD",
+    "name": "trailblazer6",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer6.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4565,10 +4565,10 @@
   },
   {
     "id": "327",
-    "name": "xueyi1",
-    "character": "xueyi",
-    "img": "xueyi/xueyi1.png",
-    "color": "#0077DD",
+    "name": "trailblazer7",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer7.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4579,10 +4579,10 @@
   },
   {
     "id": "328",
-    "name": "xueyi2",
-    "character": "xueyi",
-    "img": "xueyi/xueyi2.png",
-    "color": "#0077DD",
+    "name": "trailblazer8",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer8.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4593,10 +4593,10 @@
   },
   {
     "id": "329",
-    "name": "xueyi3",
-    "character": "xueyi",
-    "img": "xueyi/xueyi3.png",
-    "color": "#0077DD",
+    "name": "trailblazer9",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer9.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4607,10 +4607,10 @@
   },
   {
     "id": "330",
-    "name": "yanqing1",
-    "character": "yanqing",
-    "img": "yanqing/yanqing1.png",
-    "color": "#0077DD",
+    "name": "trailblazer10",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer10.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4621,10 +4621,10 @@
   },
   {
     "id": "331",
-    "name": "yanqing2",
-    "character": "yanqing",
-    "img": "yanqing/yanqing2.png",
-    "color": "#0077DD",
+    "name": "trailblazer11",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer11.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4635,10 +4635,10 @@
   },
   {
     "id": "332",
-    "name": "yanqing3",
-    "character": "yanqing",
-    "img": "yanqing/yanqing3.png",
-    "color": "#0077DD",
+    "name": "trailblazer12",
+    "character": "trailblazer",
+    "img": "trailblazer/trailblazer12.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4649,10 +4649,10 @@
   },
   {
     "id": "333",
-    "name": "yukong1",
-    "character": "yukong",
-    "img": "yukong/yukong1.png",
-    "color": "#0077DD",
+    "name": "tribbie1",
+    "character": "tribbie",
+    "img": "tribbie/tribbie1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4663,10 +4663,10 @@
   },
   {
     "id": "334",
-    "name": "yukong2",
-    "character": "yukong",
-    "img": "yukong/yukong2.png",
-    "color": "#0077DD",
+    "name": "tribbie2",
+    "character": "tribbie",
+    "img": "tribbie/tribbie2.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4677,10 +4677,10 @@
   },
   {
     "id": "335",
-    "name": "yukong3",
-    "character": "yukong",
-    "img": "yukong/yukong3.png",
-    "color": "#0077DD",
+    "name": "tribbie3",
+    "character": "tribbie",
+    "img": "tribbie/tribbie3.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4691,10 +4691,10 @@
   },
   {
     "id": "336",
-    "name": "yunli1",
-    "character": "yunli",
-    "img": "yunli/yunli1.png",
-    "color": "#0077DD",
+    "name": "tribbie4",
+    "character": "tribbie",
+    "img": "tribbie/tribbie4.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4705,10 +4705,10 @@
   },
   {
     "id": "337",
-    "name": "yunli2",
-    "character": "yunli",
-    "img": "yunli/yunli2.png",
-    "color": "#0077DD",
+    "name": "tribbie5",
+    "character": "tribbie",
+    "img": "tribbie/tribbie5.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4719,10 +4719,10 @@
   },
   {
     "id": "338",
-    "name": "yunli3",
-    "character": "yunli",
-    "img": "yunli/yunli3.png",
-    "color": "#0077DD",
+    "name": "tuskpir1",
+    "character": "tuskpir",
+    "img": "tuskpir/tuskpir1.png",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
@@ -4733,10 +4733,234 @@
   },
   {
     "id": "339",
+    "name": "welt1",
+    "character": "welt",
+    "img": "welt/welt1.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "340",
+    "name": "welt2",
+    "character": "welt",
+    "img": "welt/welt2.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "341",
+    "name": "welt3",
+    "character": "welt",
+    "img": "welt/welt3.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "342",
+    "name": "welt4",
+    "character": "welt",
+    "img": "welt/welt4.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "343",
+    "name": "xueyi1",
+    "character": "xueyi",
+    "img": "xueyi/xueyi1.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "344",
+    "name": "xueyi2",
+    "character": "xueyi",
+    "img": "xueyi/xueyi2.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "345",
+    "name": "xueyi3",
+    "character": "xueyi",
+    "img": "xueyi/xueyi3.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "346",
+    "name": "yanqing1",
+    "character": "yanqing",
+    "img": "yanqing/yanqing1.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "347",
+    "name": "yanqing2",
+    "character": "yanqing",
+    "img": "yanqing/yanqing2.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "348",
+    "name": "yanqing3",
+    "character": "yanqing",
+    "img": "yanqing/yanqing3.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "349",
+    "name": "yukong1",
+    "character": "yukong",
+    "img": "yukong/yukong1.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "350",
+    "name": "yukong2",
+    "character": "yukong",
+    "img": "yukong/yukong2.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "351",
+    "name": "yukong3",
+    "character": "yukong",
+    "img": "yukong/yukong3.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "352",
+    "name": "yunli1",
+    "character": "yunli",
+    "img": "yunli/yunli1.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "353",
+    "name": "yunli2",
+    "character": "yunli",
+    "img": "yunli/yunli2.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "354",
+    "name": "yunli3",
+    "character": "yunli",
+    "img": "yunli/yunli3.png",
+    "color": "#FFFFFF",
+    "defaultText": {
+      "text": "Hello",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "355",
     "name": "yunli4",
     "character": "yunli",
     "img": "yunli/yunli4.png",
-    "color": "#0077DD",
+    "color": "#FFFFFF",
     "defaultText": {
       "text": "Hello",
       "x": 148,
